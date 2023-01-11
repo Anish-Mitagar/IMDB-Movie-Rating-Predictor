@@ -1,0 +1,48 @@
+con_model_epochs_1-100 - 
+    X_Train = np.genfromtxt('txt_files/test_x_norm.txt', delimiter=",")
+    Y_Train = np.genfromtxt('txt_files/test_y_continuous.txt', delimiter=",")
+    con_model.compile(optimizer="adam", loss= "mean_squared_error", metrics= ["MeanSquaredError"])
+    trained_con_model = con_model.fit(X_Train_01, Y_Train_01, batch_size=50, epochs=100, verbose=1, validation_split=0.0)
+    test - 1.33
+cla_model_epochs_1-100 - 
+    X_Train = np.genfromtxt('txt_files/test_x_norm.txt', delimiter=",")
+    Y_Train = np.genfromtxt('txt_files/test_y_classification.txt', delimiter=",")
+    cla_model.compile(optimizer="adam", loss= "categorical_crossentropy", metrics= ["accuracy"])
+    trained_cla_model = cla_model.fit(X_Train_01, Y_Train_01, batch_size=50, epochs=100, verbose=1, validation_split=0.0)
+    test - 0.3
+con_model_epochs_1-200 - 
+    X_Train = np.genfromtxt('txt_files/test_x_norm.txt', delimiter=",")
+    Y_Train = np.genfromtxt('txt_files/test_y_continuous.txt', delimiter=",")
+    con_model.compile(optimizer="adam", loss= "mean_squared_error", metrics= ["MeanSquaredError"])
+    trained_con_model = con_model.fit(X_Train_01, Y_Train_01, batch_size=50, epochs=100, verbose=1, validation_split=0.0)
+    test - 1.25
+cla_model_epochs_1-200 - 
+    X_Train = np.genfromtxt('txt_files/test_x_norm.txt', delimiter=",")
+    Y_Train = np.genfromtxt('txt_files/test_y_classification.txt', delimiter=",")
+    cla_model.compile(optimizer="adam", loss= "categorical_crossentropy", metrics= ["accuracy"])
+    trained_cla_model = cla_model.fit(X_Train_01, Y_Train_01, batch_size=50, epochs=100, verbose=1, validation_split=0.0)
+    test - 0.33
+con_model_epochs_1-200 - dropout 0.1
+    X_Train = np.genfromtxt('txt_files/test_x_norm.txt', delimiter=",")
+    Y_Train = np.genfromtxt('txt_files/test_y_continuous.txt', delimiter=",")
+    con_model.compile(optimizer="adam", loss= "mean_squared_error", metrics= ["MeanSquaredError"])
+    trained_con_model = con_model.fit(X_Train_01, Y_Train_01, batch_size=50, epochs=100, verbose=1, validation_split=0.0)
+    test - 1.43
+cla_model_epochs_1-200 - dropout 0.1
+    X_Train = np.genfromtxt('txt_files/test_x_norm.txt', delimiter=",")
+    Y_Train = np.genfromtxt('txt_files/test_y_classification.txt', delimiter=",")
+    cla_model.compile(optimizer="adam", loss= "categorical_crossentropy", metrics= ["accuracy"])
+    trained_cla_model = cla_model.fit(X_Train_01, Y_Train_01, batch_size=50, epochs=100, verbose=1, validation_split=0.0)
+    test - 0.31
+con_model_epochs_1-100 - dropout 0.1
+    X_Train = np.genfromtxt('txt_files/test_x_norm.txt', delimiter=",")
+    Y_Train = np.genfromtxt('txt_files/test_y_continuous.txt', delimiter=",")
+    con_model.compile(optimizer="adam", loss= "mean_squared_error", metrics= ["MeanSquaredError"])
+    trained_con_model = con_model.fit(X_Train_01, Y_Train_01, batch_size=50, epochs=100, verbose=1, validation_split=0.0)
+    test - 1.33
+cla_model_epochs_1-100 - dropout 0.1
+    X_Train = np.genfromtxt('txt_files/test_x_norm.txt', delimiter=",")
+    Y_Train = np.genfromtxt('txt_files/test_y_classification.txt', delimiter=",")
+    cla_model.compile(optimizer="adam", loss= "categorical_crossentropy", metrics= ["accuracy"])
+    trained_cla_model = cla_model.fit(X_Train_01, Y_Train_01, batch_size=50, epochs=100, verbose=1, validation_split=0.0)
+    test - 0.31

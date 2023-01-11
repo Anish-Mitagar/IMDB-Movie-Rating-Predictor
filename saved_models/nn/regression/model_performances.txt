@@ -1,0 +1,10 @@
+regression_model_fold_0 | test acc: 1.5151662826538086
+regression_model_fold_1 | test acc: 1.133528232574463
+regression_model_fold_2 | test acc: 0.9420213103294373
+regression_model_fold_3 | test acc: 0.7560047507286072
+regression_model_fold_4 | test acc: 0.7554498314857483
+regression_model_fold_5 | test acc: 0.8036134839057922
+regression_model_fold_6 | test acc: 1.0913991928100586
+regression_model_fold_7 | test acc: 1.0592560768127441
+regression_model_fold_8 | test acc: 0.907508134841919
+regression_model_fold_9 | test acc: 0.8351296782493591

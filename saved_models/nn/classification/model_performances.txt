@@ -1,0 +1,10 @@
+classification_model_fold_0 | test acc: 0.28999999165534973
+classification_model_fold_1 | test acc: 0.42499998211860657
+classification_model_fold_2 | test acc: 0.3649999797344208
+classification_model_fold_3 | test acc: 0.3700000047683716
+classification_model_fold_4 | test acc: 0.4599999785423279
+classification_model_fold_5 | test acc: 0.39499998092651367
+classification_model_fold_6 | test acc: 0.45499998331069946
+classification_model_fold_7 | test acc: 0.4650000035762787
+classification_model_fold_8 | test acc: 0.5149999856948853
+classification_model_fold_9 | test acc: 0.42499998211860657

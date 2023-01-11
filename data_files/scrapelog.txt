@@ -1,0 +1,10126 @@
+SUCESS: Pulp Fiction
+
+SUCESS: The Amazing Spider-Man 2
+
+SUCESS: The Shawshank Redemption
+
+SUCESS: Star Wars
+
+SUCESS: Back to the Future
+
+FAILED: The Breakfast Club
+
+SUCESS: The Goonies
+
+SUCESS: The Silence of the Lambs
+
+SUCESS: Jurassic Park
+
+SUCESS: The Lion King
+
+FAILED: Se7en
+
+SUCESS: Toy Story
+
+SUCESS: The Big Lebowski
+
+SUCESS: Saving Private Ryan
+
+SUCESS: Fight Club
+
+SUCESS: The Matrix
+
+SUCESS: Star Wars: Episode I - The Phantom Menace
+
+SUCESS: Gladiator
+
+SUCESS: X-Men
+
+SUCESS: Harry Potter and the Sorcerer's Stone
+
+SUCESS: The Lord of the Rings: The Fellowship of the Ring
+
+SUCESS: The Lord of the Rings: The Two Towers
+
+SUCESS: xXx
+
+SUCESS: Finding Nemo
+
+SUCESS: The Lord of the Rings: The Return of the King
+
+SUCESS: Anchorman: The Legend of Ron Burgundy
+
+SUCESS: Mean Girls
+
+SUCESS: Sin City
+
+SUCESS: Star Wars: Episode III - Revenge of the Sith
+
+SUCESS: Batman Begins
+
+SUCESS: The Departed
+
+SUCESS: The Prestige
+
+SUCESS: V for Vendetta
+
+SUCESS: Casino Royale
+
+SUCESS: Transformers
+
+SUCESS: The Dark Knight
+
+SUCESS: Iron Man
+
+SUCESS: Quantum of Solace
+
+SUCESS: Tropic Thunder
+
+SUCESS: G.I. Joe: The Rise of Cobra
+
+SUCESS: The Hangover
+
+SUCESS: Inglourious Basterds
+
+FAILED: Star Trek
+
+SUCESS: Taken
+
+SUCESS: Up
+
+FAILED: X-Men Origins: Wolverine
+
+FAILED: Zombieland
+
+SUCESS: 2012
+
+SUCESS: Avatar
+
+SUCESS: Despicable Me
+
+SUCESS: Grown Ups
+
+SUCESS: How to Train Your Dragon
+
+SUCESS: Inception
+
+SUCESS: Iron Man 2
+
+SUCESS: Kick-Ass
+
+FAILED: RED
+
+SUCESS: Shutter Island
+
+SUCESS: TRON: Legacy
+
+SUCESS: Toy Story 3
+
+SUCESS: Drive
+
+FAILED: Fast Five
+
+SUCESS: Harry Potter and the Deathly Hallows: Part 2
+
+SUCESS: Limitless
+
+SUCESS: Pirates of the Caribbean: On Stranger Tides
+
+SUCESS: X-Men: First Class
+
+SUCESS: The Girl with the Dragon Tattoo
+
+SUCESS: The Help
+
+FAILED: In Time
+
+SUCESS: 21 Jump Street
+
+SUCESS: The Amazing Spider-Man
+
+SUCESS: American Reunion
+
+SUCESS: The Avengers
+
+SUCESS: Battleship
+
+SUCESS: The Bourne Legacy
+
+FAILED: Brave
+
+SUCESS: The Cabin in the Woods
+
+SUCESS: The Campaign
+
+SUCESS: Cloud Atlas
+
+SUCESS: The Dark Knight Rises
+
+SUCESS: Dark Shadows
+
+SUCESS: Django Unchained
+
+SUCESS: Dredd
+
+SUCESS: End of Watch
+
+SUCESS: The Expendables 2
+
+SUCESS: Flight
+
+FAILED: The Guilt Trip
+
+FAILED: Here Comes the Boom
+
+SUCESS: The Hobbit: An Unexpected Journey
+
+SUCESS: Hotel Transylvania
+
+FAILED: Jack Reacher
+
+SUCESS: John Carter
+
+SUCESS: Killing Them Softly
+
+SUCESS: Lawless
+
+FAILED: Life of Pi
+
+SUCESS: Looper
+
+SUCESS: Magic Mike
+
+FAILED: Man on a Ledge
+
+FAILED: The Man with the Iron Fists
+
+SUCESS: The Master
+
+SUCESS: Men in Black 3
+
+SUCESS: Parental Guidance
+
+SUCESS: Project X
+
+SUCESS: Prometheus
+
+FAILED: Red Dawn
+
+SUCESS: Rise of the Guardians
+
+FAILED: Savages
+
+SUCESS: Seven Psychopaths
+
+SUCESS: Sinister
+
+SUCESS: Skyfall
+
+SUCESS: Snow White and the Huntsman
+
+SUCESS: Taken 2
+
+SUCESS: Ted
+
+SUCESS: That's My Boy
+
+SUCESS: This Is 40
+
+SUCESS: Total Recall
+
+FAILED: Promised Land
+
+SUCESS: Wreck-It Ralph
+
+SUCESS: Jack the Giant Slayer
+
+SUCESS: Oz the Great and Powerful
+
+SUCESS: A Good Day to Die Hard
+
+SUCESS: Trance
+
+FAILED: Side Effects
+
+SUCESS: Spring Breakers
+
+SUCESS: The Incredible Burt Wonderstone
+
+FAILED: Disconnect
+
+FAILED: Mud
+
+SUCESS: The Company You Keep
+
+SUCESS: Olympus Has Fallen
+
+SUCESS: The Place Beyond the Pines
+
+SUCESS: G.I. Joe: Retaliation
+
+SUCESS: The Croods
+
+SUCESS: A Haunted House
+
+SUCESS: World War Z
+
+SUCESS: Oblivion
+
+SUCESS: Ender's Game
+
+SUCESS: The Hobbit: The Desolation of Smaug
+
+SUCESS: Man of Steel
+
+FAILED: Pacific Rim
+
+SUCESS: The Hunger Games: Catching Fire
+
+SUCESS: The Lone Ranger
+
+SUCESS: The Wolverine
+
+SUCESS: Elysium
+
+SUCESS: After Earth
+
+SUCESS: Iron Man 3
+
+SUCESS: This Is the End
+
+FAILED: R.I.P.D.
+
+SUCESS: Thor: The Dark World
+
+SUCESS: Star Trek Into Darkness
+
+SUCESS: Now You See Me
+
+SUCESS: The Hangover Part III
+
+SUCESS: Kick-Ass 2
+
+SUCESS: The Lords of Salem
+
+FAILED: Iron Sky
+
+SUCESS: The Impossible
+
+FAILED: Filly Brown
+
+FAILED: Antiviral
+
+SUCESS: Anna Karenina
+
+FAILED: The Cloth
+
+FAILED: What Richard Did
+
+FAILED: Stand Up Guys
+
+FAILED: Tomorrow You're Gone
+
+FAILED: Not Fade Away
+
+FAILED: Any Day Now
+
+FAILED: Under the Bed
+
+FAILED: Outback
+
+FAILED: The Boondock Saints
+
+FAILED: The Evil Dead
+
+SUCESS: 42
+
+FAILED: Evil Dead
+
+FAILED: Scary Movie V
+
+FAILED: Broken City
+
+FAILED: Gangster Squad
+
+FAILED: Fast & Furious 6
+
+FAILED: Pain & Gain
+
+FAILED: The Numbers Station
+
+SUCESS: Mama
+
+FAILED: Pawn
+
+SUCESS: 300: Rise of an Empire
+
+SUCESS: Temptation: Confessions of a Marriage Counselor
+
+SUCESS: The Way Way Back
+
+SUCESS: Grown Ups 2
+
+FAILED: Dark Skies
+
+FAILED: Assassins Run
+
+SUCESS: Percy Jackson: Sea of Monsters
+
+FAILED: The Bling Ring
+
+SUCESS: Identity Thief
+
+FAILED: The Big Wedding
+
+FAILED: Welcome to the Punch
+
+FAILED: Only God Forgives
+
+FAILED: Devils of War
+
+FAILED: Movie 43
+
+FAILED: The Haunting in Connecticut 2: Ghosts of Georgia
+
+SUCESS: The Call
+
+FAILED: Crush
+
+SUCESS: Hansel & Gretel: Witch Hunters
+
+SUCESS: The Purge
+
+FAILED: Snitch
+
+SUCESS: The Godfather: Part II
+
+SUCESS: One Flew Over the Cuckoo's Nest
+
+SUCESS: Star Wars: Episode V - The Empire Strikes Back
+
+SUCESS: Indiana Jones and the Raiders of the Lost Ark
+
+SUCESS: Apocalypse Now
+
+SUCESS: Alien
+
+SUCESS: Blade Runner
+
+SUCESS: E.T. the Extra-Terrestrial
+
+SUCESS: The Outsiders
+
+FAILED: Scarface
+
+SUCESS: Star Wars: Episode VI - Return of the Jedi
+
+SUCESS: Ghostbusters
+
+FAILED: Red Dawn
+
+SUCESS: The Terminator
+
+SUCESS: Full Metal Jacket
+
+SUCESS: Die Hard
+
+SUCESS: Léon: The Professional
+
+SUCESS: The Usual Suspects
+
+FAILED: Heat
+
+SUCESS: Independence Day
+
+SUCESS: Good Will Hunting
+
+SUCESS: Armageddon
+
+SUCESS: The Truman Show
+
+SUCESS: American Beauty
+
+SUCESS: Big Daddy
+
+SUCESS: The Green Mile
+
+SUCESS: The Mummy
+
+SUCESS: Office Space
+
+SUCESS: The Sixth Sense
+
+SUCESS: Toy Story 2
+
+SUCESS: American Psycho
+
+SUCESS: Scary Movie
+
+FAILED: Snatch
+
+SUCESS: Monsters, Inc.
+
+SUCESS: Men in Black II
+
+SUCESS: Red Dragon
+
+SUCESS: Spider-Man
+
+FAILED: Spirited Away
+
+SUCESS: Star Wars: Episode II - Attack of the Clones
+
+SUCESS: The Italian Job
+
+FAILED: The Matrix Reloaded
+
+SUCESS: Pirates of the Caribbean: The Curse of the Black Pearl
+
+FAILED: Big Fish
+
+SUCESS: Kill Bill: Vol. 1
+
+SUCESS: Dodgeball: A True Underdog Story
+
+FAILED: EuroTrip
+
+SUCESS: Harry Potter and the Prisoner of Azkaban
+
+SUCESS: The Incredibles
+
+FAILED: Napoleon Dynamite
+
+FAILED: Shaun of the Dead
+
+SUCESS: Crash
+
+SUCESS: The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+
+SUCESS: Harry Potter and the Goblet of Fire
+
+SUCESS: Cars
+
+FAILED: Pan's Labyrinth
+
+SUCESS: Superman Returns
+
+SUCESS: Talladega Nights: The Ballad of Ricky Bobby
+
+SUCESS: X-Men: The Last Stand
+
+SUCESS: The Bourne Ultimatum
+
+SUCESS: Live Free or Die Hard
+
+SUCESS: No Country for Old Men
+
+SUCESS: Ratatouille
+
+SUCESS: Superbad
+
+SUCESS: There Will Be Blood
+
+SUCESS: Jumper
+
+SUCESS: Gran Torino
+
+SUCESS: The Incredible Hulk
+
+SUCESS: Pineapple Express
+
+SUCESS: RocknRolla
+
+SUCESS: Role Models
+
+SUCESS: Step Brothers
+
+SUCESS: Wanted
+
+FAILED: District 9
+
+SUCESS: Harry Potter and the Half-Blood Prince
+
+FAILED: Law Abiding Citizen
+
+SUCESS: Terminator Salvation
+
+SUCESS: Transformers: Revenge of the Fallen
+
+SUCESS: Watchmen
+
+SUCESS: Sherlock Holmes
+
+SUCESS: The A-Team
+
+SUCESS: Alice in Wonderland
+
+SUCESS: Black Swan
+
+SUCESS: The Book of Eli
+
+SUCESS: Clash of the Titans
+
+FAILED: Due Date
+
+SUCESS: The Expendables
+
+FAILED: Get Him to the Greek
+
+SUCESS: Harry Potter and the Deathly Hallows: Part 1
+
+FAILED: The Other Guys
+
+FAILED: Percy Jackson & the Olympians: The Lightning Thief
+
+SUCESS: Robin Hood
+
+SUCESS: Salt
+
+SUCESS: The Town
+
+SUCESS: Bad Teacher
+
+FAILED: Battle Los Angeles
+
+SUCESS: Cars 2
+
+FAILED: The Change-Up
+
+SUCESS: Cowboys & Aliens
+
+SUCESS: Green Lantern
+
+SUCESS: The Hangover Part II
+
+SUCESS: Horrible Bosses
+
+SUCESS: I Am Number Four
+
+SUCESS: Paul
+
+SUCESS: Rio
+
+SUCESS: Rise of the Planet of the Apes
+
+SUCESS: Scream 4
+
+SUCESS: Source Code
+
+SUCESS: Sucker Punch
+
+FAILED: 50-50
+
+SUCESS: Contagion
+
+SUCESS: The Descendants
+
+SUCESS: The Ides of March
+
+SUCESS: Immortals
+
+SUCESS: Real Steel
+
+SUCESS: Sherlock Holmes: A Game of Shadows
+
+SUCESS: Tinker Tailor Soldier Spy
+
+SUCESS: We Bought a Zoo
+
+FAILED: Abraham Lincoln: Vampire Hunter
+
+FAILED: Alex Cross
+
+FAILED: Chasing Mavericks
+
+FAILED: Chernobyl Diaries
+
+SUCESS: Chronicle
+
+FAILED: The Collection
+
+FAILED: Contraband
+
+SUCESS: The Dictator
+
+FAILED: Fun Size
+
+SUCESS: The Grey
+
+FAILED: Haywire
+
+SUCESS: House at the End of the Street
+
+SUCESS: Ice Age 4: Continental Drift
+
+FAILED: Lockout
+
+SUCESS: The Lorax
+
+SUCESS: Madagascar 3: Europe's Most Wanted
+
+SUCESS: The Odd Life of Timothy Green
+
+SUCESS: ParaNorman
+
+SUCESS: Premium Rush
+
+SUCESS: The Raven
+
+FAILED: Resident Evil: Retribution
+
+SUCESS: Safe House
+
+FAILED: Silent Hill: Revelation
+
+FAILED: Wanderlust
+
+FAILED: The Watch
+
+SUCESS: Wrath of the Titans
+
+SUCESS: The Last Stand
+
+SUCESS: Snowpiercer
+
+SUCESS: Stoker
+
+FAILED: Monsters University
+
+SUCESS: Carrie
+
+SUCESS: Despicable Me 2
+
+SUCESS: Anchorman 2: The Legend Continues
+
+SUCESS: White House Down
+
+FAILED: Riddick
+
+FAILED: Oldboy
+
+FAILED: The Story of Luke
+
+FAILED: Stolen
+
+SUCESS: Beasts of the Southern Wild
+
+FAILED: Deadfall
+
+SUCESS: On the Road
+
+FAILED: The Paperboy
+
+SUCESS: The Tall Man
+
+SUCESS: John Dies at the End
+
+SUCESS: Great Expectations
+
+SUCESS: The Awakening
+
+SUCESS: Shame
+
+SUCESS: The Best Exotic Marigold Hotel
+
+SUCESS: Moon
+
+FAILED: Fast & Furious
+
+SUCESS: The Hurt Locker
+
+SUCESS: Memento
+
+SUCESS: Donnie Darko
+
+SUCESS: Coffee and Cigarettes
+
+SUCESS: American History X
+
+SUCESS: Trainspotting
+
+SUCESS: Reservoir Dogs
+
+FAILED: Dazed and Confused
+
+SUCESS: The Shining
+
+SUCESS: Noah
+
+SUCESS: Guardians of the Galaxy
+
+SUCESS: Teenage Mutant Ninja Turtles
+
+SUCESS: The Expendables 3
+
+FAILED: Java Heat
+
+FAILED: Dead Man Down
+
+SUCESS: Sin City: A Dame to Kill For
+
+FAILED: 21 & Over
+
+FAILED: Parker
+
+FAILED: Till We Meet Again
+
+FAILED: Escape from Planet Earth
+
+FAILED: A Resurrection
+
+FAILED: The Internship
+
+SUCESS: Epic
+
+FAILED: Revelation Road: The Beginning of the End
+
+SUCESS: Jaws
+
+FAILED: The Man with the Golden Gun
+
+SUCESS: Taxi Driver
+
+SUCESS: Aliens
+
+SUCESS: Platoon
+
+SUCESS: Stand by Me
+
+SUCESS: Predator
+
+SUCESS: Back to the Future Part II
+
+SUCESS: Dead Poets Society
+
+SUCESS: Indiana Jones and the Last Crusade
+
+SUCESS: Rain Man
+
+SUCESS: Who Framed Roger Rabbit
+
+SUCESS: Home Alone
+
+SUCESS: Total Recall
+
+SUCESS: Unforgiven
+
+SUCESS: Army of Darkness
+
+FAILED: The Sandlot
+
+FAILED: The Crow
+
+SUCESS: Dumb and Dumber
+
+SUCESS: 12 Monkeys
+
+SUCESS: Fargo
+
+SUCESS: The Rock
+
+SUCESS: Boogie Nights
+
+SUCESS: The Fifth Element
+
+SUCESS: L.A. Confidential
+
+SUCESS: Liar Liar
+
+SUCESS: The Lost World: Jurassic Park
+
+SUCESS: Men in Black
+
+SUCESS: Fear and Loathing in Las Vegas
+
+SUCESS: Stepmom
+
+SUCESS: Magnolia
+
+SUCESS: Almost Famous
+
+SUCESS: O Brother, Where Art Thou?
+
+FAILED: The Fast and the Furious
+
+SUCESS: Jurassic Park III
+
+SUCESS: Ocean's Eleven
+
+FAILED: Scary Movie 2
+
+SUCESS: Shrek
+
+SUCESS: Training Day
+
+SUCESS: 8 Mile
+
+SUCESS: The Bourne Identity
+
+FAILED: Harry Potter and the Chamber of Secrets
+
+SUCESS: Minority Report
+
+SUCESS: 28 Days Later...
+
+SUCESS: Lost in Translation
+
+FAILED: Old School
+
+SUCESS: School of Rock
+
+SUCESS: X2: X-Men United
+
+FAILED: Cheaper by the Dozen
+
+FAILED: The Matrix Revolutions
+
+SUCESS: Mystic River
+
+SUCESS: Scary Movie 3
+
+SUCESS: The Bourne Supremacy
+
+FAILED: The Butterfly Effect
+
+SUCESS: Collateral
+
+SUCESS: I, Robot
+
+FAILED: Kill Bill: Vol. 2
+
+SUCESS: Million Dollar Baby
+
+SUCESS: Spider-Man 2
+
+SUCESS: Van Helsing
+
+SUCESS: Madagascar
+
+FAILED: The Sisterhood of the Traveling Pants
+
+SUCESS: Charlie and the Chocolate Factory
+
+FAILED: The Dukes of Hazzard
+
+SUCESS: Fantastic Four
+
+SUCESS: The Island
+
+SUCESS: Serenity
+
+SUCESS: War of the Worlds
+
+FAILED: The Fast and the Furious: Tokyo Drift
+
+SUCESS: Inside Man
+
+SUCESS: Pirates of the Caribbean: Dead Man's Chest
+
+SUCESS: Scary Movie 4
+
+FAILED: Silent Hill
+
+SUCESS: Blood Diamond
+
+SUCESS: Harry Potter and the Order of the Phoenix
+
+FAILED: Hitman
+
+SUCESS: Hot Fuzz
+
+SUCESS: I Am Legend
+
+SUCESS: The Mist
+
+FAILED: Pirates of the Caribbean: At World's End
+
+SUCESS: Spider-Man 3
+
+SUCESS: Zodiac
+
+SUCESS: Hancock
+
+SUCESS: Kung Fu Panda
+
+SUCESS: Seven Pounds
+
+SUCESS: Angels & Demons
+
+SUCESS: Knowing
+
+SUCESS: Couples Retreat
+
+FAILED: The Lovely Bones
+
+SUCESS: The Karate Kid
+
+FAILED: Knight and Day
+
+SUCESS: The Last Airbender
+
+SUCESS: Megamind
+
+SUCESS: Predators
+
+SUCESS: Shrek Forever After
+
+SUCESS: Unstoppable
+
+SUCESS: Drive Angry
+
+SUCESS: The Green Hornet
+
+FAILED: Hanna
+
+SUCESS: Insidious
+
+SUCESS: Kung Fu Panda 2
+
+FAILED: Red Riding Hood
+
+FAILED: Unknown
+
+SUCESS: Your Highness
+
+FAILED: Colombiana
+
+SUCESS: Extremely Loud & Incredibly Close
+
+SUCESS: Killer Elite
+
+SUCESS: The Muppets
+
+FAILED: Puss in Boots
+
+FAILED: Tower Heist
+
+SUCESS: War Horse
+
+FAILED: Act of Valor
+
+FAILED: The Cold Light of Day
+
+SUCESS: Frankenweenie
+
+SUCESS: Gone
+
+SUCESS: Journey 2: The Mysterious Island
+
+SUCESS: The Lucky One
+
+SUCESS: Mirror Mirror
+
+FAILED: Paranormal Activity 4
+
+FAILED: The Possession
+
+FAILED: The Raid: Redemption
+
+SUCESS: Trouble with the Curve
+
+FAILED: Underworld: Awakening
+
+FAILED: The Woman in Black
+
+FAILED: American Mary
+
+FAILED: The World's End
+
+FAILED: Erased
+
+FAILED: Lay the Favorite
+
+SUCESS: Robot & Frank
+
+FAILED: Would You Rather
+
+FAILED: Bullet to the Head
+
+FAILED: Gambit
+
+FAILED: Red Lights
+
+SUCESS: Arbitrage
+
+FAILED: The Baytown Outlaws
+
+SUCESS: The Tree of Life
+
+SUCESS: Killer Joe
+
+SUCESS: Winter's Bone
+
+SUCESS: The Road
+
+SUCESS: In Bruges
+
+SUCESS: Sunshine
+
+FAILED: Children of Men
+
+SUCESS: The Machinist
+
+FAILED: Murderous Intent
+
+FAILED: Equilibrium
+
+SUCESS: Lock, Stock and Two Smoking Barrels
+
+SUCESS: Interstellar
+
+SUCESS: Godzilla
+
+SUCESS: Before Midnight
+
+SUCESS: The Heat
+
+FAILED: The Conjuring
+
+SUCESS: The Rocky Horror Picture Show
+
+SUCESS: Monty Python and the Holy Grail
+
+SUCESS: The Exorcist
+
+SUCESS: Rocky
+
+SUCESS: Superman
+
+FAILED: The Thing
+
+SUCESS: Terms of Endearment
+
+SUCESS: Indiana Jones and the Temple of Doom
+
+SUCESS: The NeverEnding Story
+
+SUCESS: The Lost Boys
+
+FAILED: Spaceballs
+
+SUCESS: Beetlejuice
+
+SUCESS: Batman
+
+SUCESS: The Godfather: Part III
+
+SUCESS: Basic Instinct
+
+SUCESS: A Few Good Men
+
+SUCESS: The Secret Garden
+
+SUCESS: True Romance
+
+SUCESS: What's Eating Gilbert Grape
+
+SUCESS: True Lies
+
+SUCESS: Die Hard with a Vengeance
+
+SUCESS: Friday
+
+FAILED: Hackers
+
+SUCESS: From Dusk Till Dawn
+
+FAILED: The NeverEnding Story III
+
+SUCESS: A Time to Kill
+
+SUCESS: Mars Attacks!
+
+FAILED: Scream
+
+FAILED: The Game
+
+SUCESS: Jackie Brown
+
+SUCESS: Starship Troopers
+
+FAILED: Mulan
+
+SUCESS: A Bug's Life
+
+SUCESS: Eyes Wide Shut
+
+SUCESS: Cast Away
+
+FAILED: Gone in 60 Seconds
+
+SUCESS: Jay and Silent Bob Strike Back
+
+SUCESS: The Mummy Returns
+
+FAILED: Not Another Teen Movie
+
+SUCESS: Planet of the Apes
+
+SUCESS: Zoolander
+
+FAILED: Super Troopers
+
+SUCESS: Die Another Day
+
+SUCESS: Ice Age
+
+FAILED: Resident Evil
+
+SUCESS: The Ring
+
+FAILED: 2 Fast 2 Furious
+
+SUCESS: Anger Management
+
+SUCESS: Hulk
+
+SUCESS: Identity
+
+FAILED: Wrong Turn
+
+SUCESS: Bad Santa
+
+FAILED: The Chronicles of Riddick
+
+SUCESS: Dawn of the Dead
+
+SUCESS: The Day After Tomorrow
+
+SUCESS: A Series of Unfortunate Events
+
+SUCESS: Man on Fire
+
+SUCESS: Ocean's Twelve
+
+SUCESS: Saw
+
+SUCESS: Shrek 2
+
+FAILED: White Chicks
+
+FAILED: The Amityville Horror
+
+SUCESS: Constantine
+
+SUCESS: Cheaper by the Dozen 2
+
+SUCESS: Land of the Dead
+
+FAILED: Crank
+
+SUCESS: The Da Vinci Code
+
+FAILED: Grandma's Boy
+
+SUCESS: Little Miss Sunshine
+
+SUCESS: Lucky Number Slevin
+
+FAILED: Apocalypto
+
+FAILED: 28 Weeks Later
+
+SUCESS: August Rush
+
+SUCESS: Bridge to Terabithia
+
+SUCESS: Evan Almighty
+
+SUCESS: Gone Baby Gone
+
+FAILED: The Number 23
+
+SUCESS: Ocean's Thirteen
+
+SUCESS: Sweeney Todd: The Demon Barber of Fleet Street
+
+SUCESS: Cloverfield
+
+FAILED: Never Back Down
+
+SUCESS: Rambo
+
+FAILED: Paranormal Activity
+
+SUCESS: 21
+
+FAILED: Body of Lies
+
+SUCESS: Bolt
+
+SUCESS: The Day the Earth Stood Still
+
+SUCESS: Death Race
+
+SUCESS: Get Smart
+
+SUCESS: Hellboy II: The Golden Army
+
+SUCESS: Indiana Jones and the Kingdom of the Crystal Skull
+
+SUCESS: Journey to the Center of the Earth
+
+FAILED: 9
+
+SUCESS: Cloudy with a Chance of Meatballs
+
+FAILED: Gamer
+
+SUCESS: The Haunting in Connecticut
+
+FAILED: The Imaginarium of Doctor Parnassus
+
+SUCESS: The Last House on the Left
+
+SUCESS: The Men Who Stare at Goats
+
+SUCESS: Monsters vs. Aliens
+
+SUCESS: My Sister's Keeper
+
+SUCESS: Orphan
+
+FAILED: Pandorum
+
+SUCESS: Precious
+
+SUCESS: Push
+
+FAILED: The Chronicles of Narnia: The Voyage of the Dawn Treader
+
+FAILED: Diary of a Wimpy Kid
+
+FAILED: Faster
+
+FAILED: Hot Tub Time Machine
+
+SUCESS: Little Fockers
+
+SUCESS: Machete
+
+SUCESS: Piranha 3D
+
+FAILED: Resident Evil: Afterlife
+
+SUCESS: The Sorcerer's Apprentice
+
+FAILED: Hop
+
+FAILED: The Mechanic
+
+FAILED: Priest
+
+SUCESS: The Smurfs
+
+FAILED: 30 Minutes or Less
+
+FAILED: The Darkest Hour
+
+SUCESS: Fright Night
+
+SUCESS: Happy Feet Two
+
+FAILED: The Sitter
+
+FAILED: The Thing
+
+FAILED: Ghost Rider: Spirit of Vengeance
+
+SUCESS: People Like Us
+
+FAILED: The Pirates! Band of Misfits
+
+FAILED: The Three Stooges
+
+FAILED: Upstream Color
+
+SUCESS: Serena
+
+FAILED: Sightseers
+
+FAILED: Piranha 3DD
+
+SUCESS: Cosmopolis
+
+FAILED: The Angels' Share
+
+SUCESS: Adventures in Zambezia
+
+FAILED: The Bay
+
+FAILED: The Factory
+
+FAILED: So Undercover
+
+SUCESS: Quartet
+
+FAILED: Liberal Arts
+
+FAILED: The Sweeney
+
+FAILED: Get the Gringo
+
+FAILED: Dead Before Dawn 3D
+
+FAILED: Wrong Turn 5: Bloodlines
+
+FAILED: Shadow Dancer
+
+FAILED: The Speed of Thought
+
+SUCESS: We Need to Talk About Kevin
+
+FAILED: Hick
+
+SUCESS: This Must Be the Place
+
+FAILED: Another Earth
+
+SUCESS: Melancholia
+
+SUCESS: Tucker and Dale vs Evil
+
+SUCESS: Antichrist
+
+FAILED: Death Proof
+
+SUCESS: Lars and the Real Girl
+
+SUCESS: Kiss Kiss Bang Bang
+
+SUCESS: Mulholland Drive
+
+FAILED: Kids
+
+SUCESS: The Blues Brothers
+
+SUCESS: The Hobbit: The Battle of the Five Armies
+
+SUCESS: The Maze Runner
+
+SUCESS: RoboCop
+
+FAILED: RED 2
+
+FAILED: Cheech & Chong's Animated Movie
+
+SUCESS: Blazing Saddles
+
+SUCESS: The Deer Hunter
+
+SUCESS: TRON
+
+FAILED: Police Academy
+
+SUCESS: Big Trouble in Little China
+
+FAILED: Labyrinth
+
+SUCESS: Three Men and a Baby
+
+SUCESS: Say Anything
+
+SUCESS: Back to the Future Part III
+
+SUCESS: Die Hard 2
+
+SUCESS: Teenage Mutant Ninja Turtles
+
+SUCESS: Point Break
+
+SUCESS: My Cousin Vinny
+
+SUCESS: Scent of a Woman
+
+SUCESS: Mrs. Doubtfire
+
+SUCESS: The Nightmare Before Christmas
+
+SUCESS: Ace Ventura: Pet Detective
+
+SUCESS: Natural Born Killers
+
+SUCESS: Waterworld
+
+SUCESS: Austin Powers: International Man of Mystery
+
+FAILED: Con Air
+
+SUCESS: The Devil's Advocate
+
+SUCESS: Dark City
+
+SUCESS: Wild Things
+
+SUCESS: Blade
+
+SUCESS: Enemy of the State
+
+SUCESS: Rush Hour
+
+SUCESS: The Thin Red Line
+
+SUCESS: The Iron Giant
+
+FAILED: Sleepy Hollow
+
+SUCESS: Pitch Black
+
+FAILED: Dude, Where's My Car?
+
+SUCESS: The Emperor's New Groove
+
+SUCESS: Mission: Impossible II
+
+SUCESS: The Patriot
+
+SUCESS: Traffic
+
+SUCESS: Unbreakable
+
+SUCESS: A.I. Artificial Intelligence
+
+SUCESS: Atlantis: The Lost Empire
+
+SUCESS: Austin Powers in Goldmember
+
+SUCESS: Lilo & Stitch
+
+SUCESS: Scooby-Doo
+
+SUCESS: Signs
+
+FAILED: The Transporter
+
+SUCESS: Bruce Almighty
+
+FAILED: The League of Extraordinary Gentlemen
+
+SUCESS: Phone Booth
+
+FAILED: S.W.A.T.
+
+SUCESS: Terminator 3: Rise of the Machines
+
+FAILED: Harold & Kumar Go to White Castle
+
+SUCESS: Hellboy
+
+SUCESS: National Treasure
+
+FAILED: The Passion of the Christ
+
+FAILED: The Punisher
+
+SUCESS: Resident Evil: Apocalypse
+
+SUCESS: The Terminal
+
+SUCESS: The Hitchhiker's Guide to the Galaxy
+
+SUCESS: The Longest Yard
+
+SUCESS: The Pacifier
+
+FAILED: xXx: State of the Union
+
+SUCESS: Lord of War
+
+FAILED: Accepted
+
+SUCESS: The Hills Have Eyes
+
+SUCESS: Over the Hedge
+
+SUCESS: Thank You for Smoking
+
+FAILED: Underworld: Evolution
+
+SUCESS: Deja Vu
+
+SUCESS: Eragon
+
+SUCESS: Night at the Museum
+
+SUCESS: 1408
+
+SUCESS: 3:10 to Yuma
+
+SUCESS: Beowulf
+
+SUCESS: The Bucket List
+
+FAILED: Epic Movie
+
+SUCESS: Fracture
+
+SUCESS: Ghost Rider
+
+FAILED: Hannibal Rising
+
+SUCESS: Meet the Robinsons
+
+SUCESS: Michael Clayton
+
+SUCESS: Next
+
+SUCESS: Shrek the Third
+
+FAILED: Smokin' Aces
+
+SUCESS: Horton Hears a Who!
+
+SUCESS: Burn After Reading
+
+SUCESS: The Chronicles of Narnia: Prince Caspian
+
+SUCESS: Eagle Eye
+
+SUCESS: The Happening
+
+SUCESS: Madagascar: Escape 2 Africa
+
+FAILED: Max Payne
+
+SUCESS: You Don't Mess with the Zohan
+
+FAILED: The Collector
+
+SUCESS: Coraline
+
+SUCESS: Drag Me to Hell
+
+SUCESS: An Education
+
+FAILED: Funny People
+
+SUCESS: Jennifer's Body
+
+FAILED: Race to Witch Mountain
+
+SUCESS: State of Play
+
+FAILED: Surrogates
+
+FAILED: The Uninvited
+
+SUCESS: Fantastic Mr. Fox
+
+FAILED: The Fourth Kind
+
+SUCESS: Where the Wild Things Are
+
+FAILED: The American
+
+FAILED: Green Zone
+
+SUCESS: The Kids Are All Right
+
+SUCESS: Legion
+
+SUCESS: Let Me In
+
+FAILED: Letters to Juliet
+
+SUCESS: A Nightmare on Elm Street
+
+SUCESS: Wall Street: Money Never Sleeps
+
+FAILED: Our Idiot Brother
+
+SUCESS: Final Destination 5
+
+SUCESS: Jack and Jill
+
+FAILED: Johnny English Reborn
+
+FAILED: A Very Harold & Kumar Christmas
+
+FAILED: The Apparition
+
+FAILED: Cirque du Soleil: Worlds Away
+
+FAILED: Sparkle
+
+SUCESS: Inside Llewyn Davis
+
+SUCESS: Chinese Zodiac
+
+FAILED: Bad Kids Go to Hell
+
+FAILED: A Dark Truth
+
+FAILED: The Thompsons
+
+FAILED: Small Apartments
+
+FAILED: Smashed
+
+FAILED: Struck by Lightning
+
+FAILED: Blitz
+
+FAILED: Butter
+
+FAILED: Carnage
+
+SUCESS: The Innkeepers
+
+SUCESS: Bernie
+
+FAILED: The Inbetweeners
+
+FAILED: Coriolanus
+
+FAILED: Wrong Turn 4: Bloody Beginnings
+
+SUCESS: The Divide
+
+FAILED: Tomorrow, When the War Began
+
+FAILED: Unthinkable
+
+FAILED: I Spit on Your Grave
+
+FAILED: The Clinic
+
+FAILED: The Boondock Saints II: All Saints Day
+
+SUCESS: Outlander
+
+FAILED: Idiocracy
+
+FAILED: Green Street Hooligans
+
+FAILED: The Man from Earth
+
+FAILED: Primer
+
+SUCESS: Before Sunset
+
+SUCESS: Layer Cake
+
+FAILED: Planet Terror
+
+SUCESS: Hard Candy
+
+SUCESS: Little Children
+
+SUCESS: A Nightmare on Elm Street
+
+SUCESS: Jupiter Ascending
+
+SUCESS: American Graffiti
+
+FAILED: Caddyshack
+
+SUCESS: Superman II
+
+FAILED: Life of Brian
+
+SUCESS: WarGames
+
+FAILED: Gremlins
+
+SUCESS: The Natural
+
+SUCESS: Dune
+
+SUCESS: Lethal Weapon
+
+SUCESS: RoboCop
+
+SUCESS: Wall Street
+
+FAILED: National Lampoon's Christmas Vacation
+
+SUCESS: Field of Dreams
+
+SUCESS: Parenthood
+
+SUCESS: The Hunt for Red October
+
+SUCESS: Kindergarten Cop
+
+SUCESS: My Girl
+
+SUCESS: Alien 3
+
+SUCESS: Batman Returns
+
+SUCESS: A Bronx Tale
+
+SUCESS: Carlito's Way
+
+SUCESS: The Fugitive
+
+SUCESS: The Mask
+
+SUCESS: Speed
+
+FAILED: Stargate
+
+FAILED: Billy Madison
+
+SUCESS: Batman Forever
+
+SUCESS: Mortal Kombat
+
+SUCESS: Twister
+
+SUCESS: Space Jam
+
+SUCESS: Alien: Resurrection
+
+SUCESS: Anastasia
+
+SUCESS: Batman & Robin
+
+SUCESS: The Parent Trap
+
+SUCESS: Psycho
+
+SUCESS: Ronin
+
+SUCESS: Austin Powers: The Spy Who Shagged Me
+
+FAILED: Dogma
+
+SUCESS: The Haunting
+
+SUCESS: The Ninth Gate
+
+FAILED: The Beach
+
+FAILED: Final Destination
+
+FAILED: Bring It On
+
+SUCESS: Charlie's Angels
+
+SUCESS: Chocolat
+
+SUCESS: How the Grinch Stole Christmas
+
+SUCESS: Me, Myself & Irene
+
+SUCESS: Meet the Parents
+
+SUCESS: Pay It Forward
+
+SUCESS: Road Trip
+
+SUCESS: Bridget Jones's Diary
+
+SUCESS: I Am Sam
+
+SUCESS: Lara Croft: Tomb Raider
+
+SUCESS: The Last Castle
+
+SUCESS: The Others
+
+SUCESS: The Royal Tenenbaums
+
+SUCESS: Save the Last Dance
+
+SUCESS: Blade II
+
+SUCESS: Chicago
+
+FAILED: The Hot Chick
+
+SUCESS: Panic Room
+
+SUCESS: Road to Perdition
+
+SUCESS: Sweet Home Alabama
+
+SUCESS: American Wedding
+
+SUCESS: Daredevil
+
+SUCESS: Once Upon a Time in Mexico
+
+FAILED: What a Girl Wants
+
+SUCESS: Master and Commander: The Far Side of the World
+
+SUCESS: Paycheck
+
+FAILED: The Texas Chainsaw Massacre
+
+FAILED: Alien vs. Predator
+
+FAILED: Blade: Trinity
+
+SUCESS: Friday Night Lights
+
+SUCESS: The Polar Express
+
+SUCESS: Shark Tale
+
+SUCESS: The Village
+
+FAILED: Walking Tall
+
+FAILED: House of Wax
+
+SUCESS: Chicken Little
+
+SUCESS: Corpse Bride
+
+FAILED: The Devil's Rejects
+
+SUCESS: A History of Violence
+
+SUCESS: Into the Blue
+
+FAILED: Just Friends
+
+FAILED: Transporter 2
+
+FAILED: Waiting...
+
+SUCESS: Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan
+
+FAILED: Hostel
+
+SUCESS: Ice Age 2: The Meltdown
+
+FAILED: Ultraviolet
+
+FAILED: The Wild
+
+FAILED: Catch and Release
+
+SUCESS: Happy Feet
+
+FAILED: 30 Days of Night
+
+SUCESS: Bee Movie
+
+SUCESS: Disturbia
+
+SUCESS: Eastern Promises
+
+SUCESS: The Golden Compass
+
+SUCESS: Grindhouse
+
+FAILED: The Kingdom
+
+FAILED: Mr. Brooks
+
+SUCESS: National Treasure: Book of Secrets
+
+FAILED: Resident Evil: Extinction
+
+FAILED: Rush Hour 3
+
+SUCESS: The Simpsons Movie
+
+FAILED: Step Up 2: The Streets
+
+FAILED: Babylon A.D.
+
+FAILED: The Bank Job
+
+FAILED: Disaster Movie
+
+FAILED: Doomsday
+
+FAILED: Harold & Kumar Escape from Guantanamo Bay
+
+FAILED: Lakeview Terrace
+
+SUCESS: Marley & Me
+
+SUCESS: The Mummy: Tomb of the Dragon Emperor
+
+FAILED: Nick and Norah's Infinite Playlist
+
+SUCESS: Nim's Island
+
+SUCESS: Star Wars: The Clone Wars
+
+FAILED: The Strangers
+
+FAILED: Transporter 3
+
+SUCESS: What Happens in Vegas
+
+SUCESS: Adventureland
+
+SUCESS: Bride Wars
+
+SUCESS: Fame
+
+SUCESS: G-Force
+
+FAILED: Ghosts of Girlfriends Past
+
+FAILED: Inkheart
+
+SUCESS: The International
+
+SUCESS: Night at the Museum: Battle of the Smithsonian
+
+SUCESS: The Taking of Pelham 1 2 3
+
+FAILED: Underworld: Rise of the Lycans
+
+SUCESS: Daybreakers
+
+SUCESS: Brothers
+
+FAILED: The Invention of Lying
+
+SUCESS: The Boat That Rocked
+
+SUCESS: The Bounty Hunter
+
+FAILED: Cop Out
+
+FAILED: The Crazies
+
+FAILED: Devil
+
+FAILED: Dinner for Schmucks
+
+FAILED: From Paris with Love
+
+SUCESS: The Ghost Writer
+
+FAILED: Gulliver's Travels
+
+SUCESS: Hereafter
+
+SUCESS: Killers
+
+SUCESS: The Last Song
+
+SUCESS: Legend of the Guardians: The Owls of Ga'Hoole
+
+SUCESS: The Losers
+
+FAILED: MacGruber
+
+FAILED: Repo Men
+
+FAILED: Skyline
+
+FAILED: Takers
+
+FAILED: When in Rome
+
+FAILED: Youth in Revolt
+
+SUCESS: The Debt
+
+FAILED: The Dilemma
+
+SUCESS: The Eagle
+
+SUCESS: Mr. Popper's Penguins
+
+SUCESS: Arthur Christmas
+
+FAILED: The Big Year
+
+FAILED: Dream House
+
+FAILED: Atlas Shrugged II: The Strike
+
+FAILED: The Secret World of Arrietty
+
+FAILED: A Thousand Words
+
+FAILED: Maniac
+
+SUCESS: The East
+
+SUCESS: Gravity
+
+FAILED: For a Good Time, Call...
+
+SUCESS: Eden
+
+FAILED: Sushi Girl
+
+FAILED: The ABCs of Death
+
+FAILED: Vamps
+
+FAILED: Tad: The Lost Explorer
+
+FAILED: A Late Quartet
+
+FAILED: Cleanskin
+
+FAILED: The Pact
+
+FAILED: Grave Encounters 2
+
+SUCESS: Red State
+
+FAILED: Sleeping Beauty
+
+FAILED: Seeking Justice
+
+FAILED: The Double
+
+SUCESS: Take Shelter
+
+FAILED: Trespass
+
+SUCESS: Perfect Sense
+
+SUCESS: The Company Men
+
+SUCESS: 13
+
+SUCESS: Flipped
+
+FAILED: Dirty Girl
+
+SUCESS: Beginners
+
+SUCESS: Valhalla Rising
+
+FAILED: Mary and Max
+
+SUCESS: Chloe
+
+SUCESS: In the Loop
+
+FAILED: The Human Centipede (First Sequence)
+
+FAILED: Personal Effects
+
+FAILED: Cashback
+
+FAILED: Shattered
+
+FAILED: St. Trinian's
+
+SUCESS: Half Nelson
+
+SUCESS: East Is East
+
+SUCESS: Secretary
+
+SUCESS: Maleficent
+
+SUCESS: Hercules
+
+SUCESS: Young Frankenstein
+
+SUCESS: Robin Hood
+
+SUCESS: Network
+
+SUCESS: Close Encounters of the Third Kind
+
+FAILED: Annie Hall
+
+FAILED: The Warriors
+
+SUCESS: Moonraker
+
+SUCESS: Conan the Barbarian
+
+SUCESS: First Blood
+
+FAILED: Grease 2
+
+FAILED: Risky Business
+
+SUCESS: The Color Purple
+
+SUCESS: Rambo: First Blood Part II
+
+SUCESS: Rocky IV
+
+SUCESS: Adventures in Babysitting
+
+FAILED: Planes, Trains & Automobiles
+
+SUCESS: The Running Man
+
+SUCESS: Lethal Weapon 2
+
+FAILED: Road House
+
+SUCESS: Steel Magnolias
+
+FAILED: Tremors
+
+SUCESS: Boyz n the Hood
+
+SUCESS: Cape Fear
+
+SUCESS: Demolition Man
+
+SUCESS: Philadelphia
+
+SUCESS: Clear and Present Danger
+
+SUCESS: Four Weddings and a Funeral
+
+SUCESS: Casper
+
+SUCESS: Desperado
+
+FAILED: Mallrats
+
+SUCESS: Showgirls
+
+SUCESS: The Hunchback of Notre Dame
+
+FAILED: Kingpin
+
+SUCESS: The English Patient
+
+SUCESS: Air Force One
+
+SUCESS: I Know What You Did Last Summer
+
+FAILED: Half Baked
+
+SUCESS: Rounders
+
+SUCESS: Shakespeare in Love
+
+SUCESS: The Waterboy
+
+FAILED: What Dreams May Come
+
+SUCESS: Any Given Sunday
+
+SUCESS: Being John Malkovich
+
+SUCESS: Galaxy Quest
+
+SUCESS: High Fidelity
+
+FAILED: Original Sin
+
+SUCESS: Rush Hour 2
+
+SUCESS: Spy Kids
+
+SUCESS: 25th Hour
+
+SUCESS: About a Boy
+
+SUCESS: Adaptation.
+
+SUCESS: Mr. Deeds
+
+FAILED: My Big Fat Greek Wedding
+
+SUCESS: Treasure Planet
+
+FAILED: Freaky Friday
+
+SUCESS: House of 1000 Corpses
+
+FAILED: The Recruit
+
+SUCESS: The Rundown
+
+FAILED: Tears of the Sun
+
+SUCESS: The Cat in the Hat
+
+SUCESS: Something's Gotta Give
+
+SUCESS: Along Came Polly
+
+FAILED: Chasing Liberty
+
+FAILED: Cellular
+
+FAILED: The Grudge
+
+SUCESS: Ladder 49
+
+SUCESS: Sideways
+
+FAILED: Taking Lives
+
+FAILED: Elektra
+
+SUCESS: A Lot Like Love
+
+SUCESS: Robots
+
+SUCESS: Flightplan
+
+FAILED: Hoodwinked
+
+FAILED: Saw II
+
+SUCESS: Beerfest
+
+FAILED: The Covenant
+
+FAILED: Flushed Away
+
+SUCESS: The Guardian
+
+FAILED: The Marine
+
+SUCESS: Miami Vice
+
+SUCESS: Monster House
+
+SUCESS: Arthur and the Invisibles
+
+FAILED: Rocky Balboa
+
+SUCESS: Alvin and the Chipmunks
+
+SUCESS: Blades of Glory
+
+SUCESS: Fantastic 4: Rise of the Silver Surfer
+
+SUCESS: Georgia Rule
+
+SUCESS: Halloween
+
+FAILED: Lions for Lambs
+
+FAILED: Reign Over Me
+
+FAILED: Shoot 'Em Up
+
+SUCESS: Surf's Up
+
+SUCESS: Walk Hard: The Dewey Cox Story
+
+FAILED: War
+
+FAILED: 10,000 BC
+
+FAILED: Fool's Gold
+
+FAILED: In the Name of the King: A Dungeon Siege Tale
+
+SUCESS: The Spiderwick Chronicles
+
+SUCESS: Vantage Point
+
+SUCESS: Four Christmases
+
+SUCESS: Made of Honor
+
+FAILED: Street Kings
+
+SUCESS: All About Steve
+
+SUCESS: Confessions of a Shopaholic
+
+FAILED: Crank: High Voltage
+
+FAILED: Friday the 13th
+
+FAILED: Land of the Lost
+
+FAILED: Love Happens
+
+FAILED: Ninja Assassin
+
+FAILED: A Perfect Getaway
+
+FAILED: The Unborn
+
+FAILED: Year One
+
+SUCESS: Brooklyn's Finest
+
+FAILED: Case 39
+
+FAILED: Edge of Darkness
+
+FAILED: Going the Distance
+
+FAILED: The Last Exorcism
+
+FAILED: Leap Year
+
+FAILED: Paranormal Activity 2
+
+SUCESS: Splice
+
+SUCESS: The Wolfman
+
+SUCESS: Arthur
+
+FAILED: Larry Crowne
+
+FAILED: Monte Carlo
+
+SUCESS: The Rite
+
+FAILED: The Roommate
+
+FAILED: Sanctum
+
+SUCESS: Season of the Witch
+
+SUCESS: Alvin and the Chipmunks: Chipwrecked
+
+FAILED: Apollo 18
+
+SUCESS: Dolphin Tale
+
+SUCESS: Straw Dogs
+
+FAILED: Big Miracle
+
+FAILED: Diary of a Wimpy Kid: Dog Days
+
+FAILED: Winter's Tale
+
+SUCESS: Secret of the Wings
+
+FAILED: Excision
+
+FAILED: Saints and Soldiers: Airborne Creed
+
+FAILED: Extracted
+
+FAILED: Passion
+
+FAILED: Cockneys vs Zombies
+
+FAILED: Universal Soldier: Day of Reckoning
+
+FAILED: Stitches
+
+FAILED: About Cherry
+
+SUCESS: Chained
+
+FAILED: The Brass Teapot
+
+FAILED: Ginger & Rosa
+
+FAILED: A Fantastic Fear of Everything
+
+FAILED: Branded
+
+FAILED: Salmon Fishing in the Yemen
+
+FAILED: Intruders
+
+FAILED: Day of the Falcon
+
+FAILED: Attack the Block
+
+SUCESS: The Beaver
+
+SUCESS: The Guard
+
+FAILED: Atlas Shrugged: Part I
+
+FAILED: The Son of No One
+
+FAILED: Ironclad
+
+FAILED: Room in Rome
+
+FAILED: The Ward
+
+FAILED: 6 Souls
+
+FAILED: Buried
+
+SUCESS: Hesher
+
+FAILED: Super
+
+FAILED: The Rebound
+
+FAILED: I Love You Phillip Morris
+
+FAILED: Dorian Gray
+
+FAILED: Crossing Over
+
+SUCESS: A Serious Man
+
+SUCESS: A Single Man
+
+FAILED: The Loved Ones
+
+FAILED: Tony
+
+SUCESS: The Fall
+
+SUCESS: Death at a Funeral
+
+SUCESS: Match Point
+
+FAILED: The Poughkeepsie Tapes
+
+SUCESS: Rachel Getting Married
+
+FAILED: Lie with Me
+
+FAILED: Wild Child
+
+SUCESS: Funny Games
+
+SUCESS: This Is England
+
+SUCESS: Once
+
+SUCESS: 21 Grams
+
+FAILED: Wet Hot American Summer
+
+SUCESS: Ghost World
+
+FAILED: Clerks
+
+SUCESS: Lolita
+
+SUCESS: Swingers
+
+FAILED: Cube
+
+SUCESS: Brazil
+
+SUCESS: Blue Velvet
+
+SUCESS: The Blue Lagoon
+
+SUCESS: The Fox and the Hound
+
+SUCESS: The Lego Movie
+
+SUCESS: Birdman or (The Unexpected Virtue of Ignorance)
+
+SUCESS: The Grand Budapest Hotel
+
+SUCESS: Dog Day Afternoon
+
+SUCESS: The Sting
+
+SUCESS: Mean Streets
+
+FAILED: The Many Adventures of Winnie the Pooh
+
+SUCESS: Halloween
+
+SUCESS: Mad Max
+
+SUCESS: Annie
+
+SUCESS: The Road Warrior
+
+SUCESS: Rocky III
+
+SUCESS: Tootsie
+
+SUCESS: A Christmas Story
+
+FAILED: Breakin'
+
+FAILED: Revenge of the Nerds
+
+SUCESS: The Fly
+
+SUCESS: Manhunter
+
+SUCESS: Angel Heart
+
+SUCESS: The Living Daylights
+
+SUCESS: The Secret of My Success
+
+SUCESS: The Abyss
+
+SUCESS: Ghostbusters II
+
+FAILED: They Live
+
+FAILED: Bill & Ted's Excellent Adventure
+
+FAILED: Misery
+
+SUCESS: New Jack City
+
+FAILED: Hot Shots!
+
+SUCESS: Home Alone 2: Lost in New York
+
+FAILED: The Mighty Ducks
+
+FAILED: White Men Can't Jump
+
+SUCESS: Falling Down
+
+SUCESS: Addams Family Values
+
+SUCESS: Hocus Pocus
+
+FAILED: Robin Hood: Men in Tights
+
+SUCESS: Rookie of the Year
+
+SUCESS: Ace Ventura: When Nature Calls
+
+SUCESS: Babe
+
+SUCESS: Judge Dredd
+
+FAILED: Major Payne
+
+SUCESS: Outbreak
+
+FAILED: Don't Be a Menace to South Central While Drinking Your Juice in the Hood
+
+SUCESS: DragonHeart
+
+SUCESS: The Frighteners
+
+SUCESS: Sling Blade
+
+SUCESS: 101 Dalmatians
+
+SUCESS: Dante's Peak
+
+FAILED: Kiss the Girls
+
+SUCESS: Scream 2
+
+FAILED: Can't Hardly Wait
+
+SUCESS: Lethal Weapon 4
+
+FAILED: Beloved
+
+SUCESS: Ever After: A Cinderella Story
+
+SUCESS: Rushmore
+
+SUCESS: The Siege
+
+SUCESS: The 13th Warrior
+
+FAILED: Blast from the Past
+
+SUCESS: Stuart Little
+
+SUCESS: Varsity Blues
+
+SUCESS: Scream 3
+
+SUCESS: Hollow Man
+
+SUCESS: The Legend of Bagger Vance
+
+SUCESS: The Perfect Storm
+
+SUCESS: U-571
+
+SUCESS: What Women Want
+
+FAILED: From Hell
+
+SUCESS: Joe Dirt
+
+FAILED: Serendipity
+
+FAILED: Spy Game
+
+SUCESS: John Q
+
+SUCESS: Reign of Fire
+
+SUCESS: The Scorpion King
+
+FAILED: The Time Machine
+
+SUCESS: Charlie's Angels: Full Throttle
+
+SUCESS: Freddy vs. Jason
+
+SUCESS: Secondhand Lions
+
+FAILED: Under the Tuscan Sun
+
+FAILED: Mona Lisa Smile
+
+FAILED: Timeline
+
+FAILED: Confessions of a Teenage Drama Queen
+
+SUCESS: The Life Aquatic with Steve Zissou
+
+SUCESS: The Manchurian Candidate
+
+FAILED: Raising Helen
+
+FAILED: Spanglish
+
+SUCESS: Kung Fu Hustle
+
+FAILED: Æon Flux
+
+SUCESS: The Brothers Grimm
+
+SUCESS: The Constant Gardener
+
+FAILED: Derailed
+
+FAILED: Doom
+
+SUCESS: The Exorcism of Emily Rose
+
+SUCESS: Red Eye
+
+SUCESS: Rent
+
+FAILED: Rumor Has It...
+
+FAILED: The Skeleton Key
+
+FAILED: Sky High
+
+SUCESS: Zathura: A Space Adventure
+
+FAILED: Big Momma's House 2
+
+SUCESS: The Black Dahlia
+
+SUCESS: The Break-Up
+
+SUCESS: Clerks II
+
+FAILED: Final Destination 3
+
+FAILED: Just My Luck
+
+SUCESS: The Lake House
+
+SUCESS: Nanny McPhee
+
+SUCESS: Open Season
+
+FAILED: Running Scared
+
+FAILED: Saw III
+
+SUCESS: Slither
+
+FAILED: Tenacious D in the Pick of Destiny
+
+SUCESS: Charlotte's Web
+
+SUCESS: A Good Year
+
+FAILED: Aliens vs. Predator: Requiem
+
+SUCESS: Black Snake Moan
+
+SUCESS: The Brave One
+
+FAILED: Dan in Real Life
+
+SUCESS: The Darjeeling Limited
+
+FAILED: The Game Plan
+
+FAILED: The Heartbreak Kid
+
+FAILED: I Now Pronounce You Chuck & Larry
+
+FAILED: License to Wed
+
+SUCESS: Norbit
+
+FAILED: Sydney White
+
+SUCESS: We Own the Night
+
+SUCESS: Wild Hogs
+
+FAILED: The Orphanage
+
+FAILED: Semi-Pro
+
+FAILED: Untraceable
+
+FAILED: Blindness
+
+FAILED: City of Ember
+
+SUCESS: Doubt
+
+FAILED: Mirrors
+
+FAILED: Punisher: War Zone
+
+FAILED: Saw V
+
+FAILED: The Sisterhood of the Traveling Pants 2
+
+SUCESS: Speed Racer
+
+FAILED: The Spirit
+
+FAILED: Traitor
+
+FAILED: 12 Rounds
+
+SUCESS: Brüno
+
+FAILED: Dragonball Evolution
+
+FAILED: The Final Destination
+
+FAILED: Fired Up!
+
+FAILED: The Goods: Live Hard, Sell Hard
+
+FAILED: I Love You, Beth Cooper
+
+FAILED: My Bloody Valentine
+
+FAILED: Ponyo
+
+FAILED: The Box
+
+SUCESS: A Christmas Carol
+
+SUCESS: Nine
+
+SUCESS: Planet 51
+
+FAILED: Whip It
+
+SUCESS: Country Strong
+
+SUCESS: Death at a Funeral
+
+SUCESS: Jonah Hex
+
+FAILED: Saw: The Final Chapter
+
+SUCESS: Yogi Bear
+
+FAILED: Don't Be Afraid of the Dark
+
+FAILED: Mars Needs Moms
+
+FAILED: Sound City
+
+SUCESS: The Secret Life of Walter Mitty
+
+SUCESS: Paranoia
+
+FAILED: The Babymakers
+
+FAILED: Citadel
+
+FAILED: Celebrity Sex Tape
+
+FAILED: Mental
+
+FAILED: Bad Ass
+
+FAILED: Freelancers
+
+SUCESS: The Comedy
+
+FAILED: 6 Bullets
+
+SUCESS: Hysteria
+
+SUCESS: Your Sister's Sister
+
+FAILED: Win Win
+
+FAILED: Inbred
+
+SUCESS: Martha Marcy May Marlene
+
+FAILED: A Little Bit of Heaven
+
+SUCESS: The Experiment
+
+FAILED: Stake Land
+
+FAILED: Trust
+
+FAILED: Stone
+
+SUCESS: Submarine
+
+FAILED: Solomon Kane
+
+SUCESS: Triangle
+
+FAILED: Fish Tank
+
+SUCESS: Harry Brown
+
+FAILED: Revolver
+
+SUCESS: Brick
+
+FAILED: New York, I Love You
+
+FAILED: The Informers
+
+FAILED: 9 Songs
+
+FAILED: Felon
+
+SUCESS: Session 9
+
+SUCESS: Boys Don't Cry
+
+FAILED: Full Frontal
+
+FAILED: The Room
+
+SUCESS: Four Rooms
+
+SUCESS: Following
+
+SUCESS: Blood In, Blood Out
+
+FAILED: Repo Man
+
+FAILED: Street Smart
+
+FAILED: Valley Girl
+
+SUCESS: Sabotage
+
+FAILED: Veronica Mars
+
+SUCESS: Flash Gordon
+
+SUCESS: Rocky II
+
+SUCESS: Manhattan
+
+SUCESS: Never Say Never Again
+
+FAILED: Private School
+
+FAILED: The Last Starfighter
+
+SUCESS: Star Trek III: The Search for Spock
+
+SUCESS: Stalker
+
+FAILED: Pee-wee's Big Adventure
+
+FAILED: St. Elmo's Fire
+
+SUCESS: Silverado
+
+SUCESS: Crocodile Dundee
+
+SUCESS: Short Circuit
+
+FAILED: Some Kind of Wonderful
+
+SUCESS: Honey, I Shrunk the Kids
+
+FAILED: The Naked Gun: From the Files of Police Squad!
+
+SUCESS: Young Guns
+
+FAILED: Cry-Baby
+
+SUCESS: Predator 2
+
+SUCESS: Thelma & Louise
+
+SUCESS: Fried Green Tomatoes
+
+FAILED: The Bodyguard
+
+SUCESS: Lethal Weapon 3
+
+SUCESS: A River Runs Through It
+
+FAILED: Homeward Bound: The Incredible Journey
+
+FAILED: Hot Shots! Part Deux
+
+SUCESS: Dennis the Menace
+
+SUCESS: The Piano
+
+SUCESS: The Flintstones
+
+SUCESS: Crimson Tide
+
+SUCESS: Leaving Las Vegas
+
+FAILED: Waiting to Exhale
+
+SUCESS: The Birdcage
+
+SUCESS: James and the Giant Peach
+
+SUCESS: The Full Monty
+
+SUCESS: The Jackal
+
+SUCESS: My Best Friend's Wedding
+
+SUCESS: Spawn
+
+SUCESS: Great Expectations
+
+SUCESS: Out of Sight
+
+SUCESS: Antz
+
+SUCESS: Bride of Chucky
+
+FAILED: The Faculty
+
+SUCESS: Pleasantville
+
+SUCESS: 8MM
+
+FAILED: Arlington Road
+
+SUCESS: The Bone Collector
+
+SUCESS: Deep Blue Sea
+
+SUCESS: Payback
+
+FAILED: The Thirteenth Floor
+
+SUCESS: The Thomas Crown Affair
+
+SUCESS: Three Kings
+
+SUCESS: Wild Wild West
+
+SUCESS: Boiler Room
+
+SUCESS: Chicken Run
+
+SUCESS: Little Nicky
+
+SUCESS: Behind Enemy Lines
+
+FAILED: How High
+
+SUCESS: Monster's Ball
+
+FAILED: Sweet November
+
+FAILED: 40 Days and 40 Nights
+
+SUCESS: Ghost Ship
+
+SUCESS: Maid in Manhattan
+
+SUCESS: Punch-Drunk Love
+
+FAILED: Trapped
+
+SUCESS: Two Weeks Notice
+
+FAILED: The Core
+
+FAILED: Final Destination 2
+
+FAILED: Johnny English
+
+FAILED: A Man Apart
+
+SUCESS: Brother Bear
+
+SUCESS: Gothika
+
+SUCESS: The Princess Diaries 2: Royal Engagement
+
+FAILED: Secret Window
+
+SUCESS: The SpongeBob SquarePants Movie
+
+SUCESS: Starsky & Hutch
+
+SUCESS: Diary of a Mad Black Woman
+
+SUCESS: The Jacket
+
+FAILED: Mindhunters
+
+FAILED: Unleashed
+
+SUCESS: Just Like Heaven
+
+FAILED: Stay
+
+FAILED: An Unfinished Life
+
+FAILED: Aquamarine
+
+FAILED: The Benchwarmers
+
+SUCESS: Glory Road
+
+FAILED: Poseidon
+
+SUCESS: RV
+
+SUCESS: Snakes on a Plane
+
+FAILED: Tristan + Isolde
+
+SUCESS: Dreamgirls
+
+FAILED: We Are Marshall
+
+FAILED: Awake
+
+FAILED: Balls of Fury
+
+FAILED: The Condemned
+
+FAILED: Dead Silence
+
+FAILED: Death Sentence
+
+FAILED: Evening
+
+FAILED: The Hills Have Eyes 2
+
+FAILED: Hostel: Part II
+
+SUCESS: In the Valley of Elah
+
+SUCESS: The Lookout
+
+FAILED: Mr. Bean's Holiday
+
+FAILED: No Reservations
+
+FAILED: Premonition
+
+FAILED: Rendition
+
+FAILED: Saw IV
+
+FAILED: Charlie Bartlett
+
+FAILED: Meet the Spartans
+
+FAILED: Appaloosa
+
+FAILED: High School Musical 3: Senior Year
+
+FAILED: How to Lose Friends & Alienate People
+
+SUCESS: Igor
+
+FAILED: My Best Friend's Girl
+
+FAILED: Quarantine
+
+SUCESS: Righteous Kill
+
+FAILED: The Ruins
+
+SUCESS: The Secret Life of Bees
+
+SUCESS: The Tale of Despereaux
+
+FAILED: Extract
+
+SUCESS: Halloween II
+
+SUCESS: Hannah Montana: The Movie
+
+SUCESS: The Informant!
+
+SUCESS: Observe and Report
+
+SUCESS: Obsessed
+
+SUCESS: Paul Blart: Mall Cop
+
+FAILED: Astro Boy
+
+FAILED: Cirque du Freak: The Vampire's Assistant
+
+SUCESS: Crazy Heart
+
+FAILED: Did You Hear About the Morgans?
+
+FAILED: Old Dogs
+
+FAILED: The Spy Next Door
+
+SUCESS: Tooth Fairy
+
+FAILED: Vampires Suck
+
+FAILED: The Warrior's Way
+
+FAILED: Big Mommas: Like Father, Like Son
+
+FAILED: Prom
+
+SUCESS: Winnie the Pooh
+
+SUCESS: Silent House
+
+FAILED: Courageous
+
+FAILED: Spy Kids 4: All the Time in the World
+
+SUCESS: Won't Back Down
+
+SUCESS: The Spectacular Now
+
+FAILED: The Colony
+
+FAILED: Being Flynn
+
+FAILED: El Gringo
+
+FAILED: Bait
+
+FAILED: Interview with a Hitman
+
+FAILED: The Samaritan
+
+FAILED: Maximum Conviction
+
+FAILED: Catch .44
+
+FAILED: Peace, Love & Misunderstanding
+
+FAILED: Margaret
+
+FAILED: Setup
+
+FAILED: Sound of My Voice
+
+SUCESS: Rampart
+
+FAILED: The Trouble with Bliss
+
+FAILED: X
+
+FAILED: The Day
+
+FAILED: Flypaper
+
+FAILED: Chalet Girl
+
+FAILED: Human Centipede 2: Tom Six Discusses the Story Concept
+
+FAILED: Damsels in Distress
+
+SUCESS: Frozen
+
+FAILED: Last Night
+
+FAILED: Waiting for Forever
+
+FAILED: The Way
+
+FAILED: Elektra Luxx
+
+SUCESS: Animal Kingdom
+
+FAILED: High School
+
+FAILED: London Boulevard
+
+SUCESS: The Killer Inside Me
+
+SUCESS: You Will Meet a Tall Dark Stranger
+
+FAILED: Exam
+
+FAILED: Blood and Bone
+
+FAILED: Alvin and the Chipmunks: The Squeakquel
+
+FAILED: Bitch Slap
+
+FAILED: The Tournament
+
+SUCESS: Black Dynamite
+
+SUCESS: The Hole
+
+FAILED: Spread
+
+SUCESS: Mysterious Skin
+
+SUCESS: The Girl Next Door
+
+FAILED: The Babysitters
+
+FAILED: Ali G Indahouse
+
+SUCESS: Lara Croft Tomb Raider: The Cradle of Life
+
+SUCESS: Billy Elliot
+
+SUCESS: Crash
+
+SUCESS: Gummo
+
+FAILED: The Long Kiss Goodnight
+
+SUCESS: Do the Right Thing
+
+SUCESS: The Name of the Rose
+
+SUCESS: Clash of the Titans
+
+FAILED: Lost River
+
+FAILED: The Texas Chain Saw Massacre
+
+FAILED: Emmanuelle
+
+FAILED: Badlands
+
+SUCESS: The Omen
+
+FAILED: Friday the 13th
+
+FAILED: Stripes
+
+FAILED: Up in Smoke
+
+SUCESS: The Dark Crystal
+
+SUCESS: Porky's
+
+SUCESS: Superman III
+
+SUCESS: Splash
+
+FAILED: Better Off Dead...
+
+FAILED: The Last Dragon
+
+SUCESS: Pale Rider
+
+FAILED: Flight of the Navigator
+
+SUCESS: Fatal Attraction
+
+SUCESS: Good Morning, Vietnam
+
+FAILED: Raising Arizona
+
+SUCESS: Child's Play
+
+FAILED: The Land Before Time
+
+FAILED: Pet Sematary
+
+SUCESS: Rambo III
+
+FAILED: Uncle Buck
+
+SUCESS: Jacob's Ladder
+
+FAILED: Lord of the Flies
+
+SUCESS: Presumed Innocent
+
+FAILED: Rocky V
+
+FAILED: Child's Play 3
+
+SUCESS: Candyman
+
+FAILED: Super Mario Bros.
+
+SUCESS: Cool Runnings
+
+SUCESS: Last Action Hero
+
+FAILED: Street Fighter
+
+FAILED: Heavyweights
+
+FAILED: The Quick and the Dead
+
+SUCESS: Strange Days
+
+SUCESS: While You Were Sleeping
+
+SUCESS: The Craft
+
+SUCESS: Fear
+
+SUCESS: That Thing You Do!
+
+SUCESS: Anaconda
+
+FAILED: B*A*P*S
+
+FAILED: Home Alone 3
+
+FAILED: Mortal Kombat: Annihilation
+
+FAILED: Romy and Michele's High School Reunion
+
+FAILED: The Saint
+
+FAILED: City of Angels
+
+SUCESS: Lost in Space
+
+SUCESS: Bringing Out the Dead
+
+SUCESS: The Cider House Rules
+
+SUCESS: Entrapment
+
+SUCESS: Never Been Kissed
+
+SUCESS: The Road to El Dorado
+
+FAILED: The Whole Nine Yards
+
+FAILED: The 6th Day
+
+FAILED: Bedazzled
+
+SUCESS: The Cell
+
+SUCESS: Dinosaur
+
+SUCESS: Frequency
+
+FAILED: The Replacements
+
+SUCESS: What Lies Beneath
+
+FAILED: Evolution
+
+FAILED: Exit Wounds
+
+SUCESS: Gosford Park
+
+FAILED: K-PAX
+
+FAILED: The One
+
+SUCESS: The Score
+
+SUCESS: Thir13en Ghosts
+
+SUCESS: About Schmidt
+
+FAILED: Divine Secrets of the Ya-Ya Sisterhood
+
+FAILED: Friday After Next
+
+FAILED: The New Guy
+
+FAILED: S1m0ne
+
+SUCESS: Solaris
+
+SUCESS: Daddy Day Care
+
+FAILED: Dreamcatcher
+
+SUCESS: Kangaroo Jack
+
+FAILED: The Life of David Gale
+
+FAILED: Matchstick Men
+
+FAILED: My Boss's Daughter
+
+SUCESS: Open Range
+
+FAILED: Shanghai Knights
+
+SUCESS: Out of Time
+
+FAILED: Around the World in 80 Days
+
+SUCESS: Catwoman
+
+FAILED: Ella Enchanted
+
+FAILED: First Daughter
+
+FAILED: Flight of the Phoenix
+
+FAILED: Raise Your Voice
+
+SUCESS: Seed of Chucky
+
+SUCESS: Sleepover
+
+SUCESS: Be Cool
+
+FAILED: Hide and Seek
+
+FAILED: Hostage
+
+FAILED: The Interpreter
+
+SUCESS: Monster-in-Law
+
+FAILED: The Wedding Date
+
+SUCESS: Bad News Bears
+
+SUCESS: Casanova
+
+SUCESS: Fun with Dick and Jane
+
+SUCESS: The Legend of Zorro
+
+SUCESS: The Producers
+
+FAILED: Stealth
+
+FAILED: Wallace & Gromit: The Curse of the Were-Rabbit
+
+FAILED: 16 Blocks
+
+FAILED: Firewall
+
+FAILED: Gridiron Gang
+
+SUCESS: The Last Kiss
+
+SUCESS: The Pink Panther
+
+FAILED: Stick It
+
+SUCESS: Volver
+
+FAILED: When a Stranger Calls
+
+SUCESS: The Wicker Man
+
+SUCESS: World Trade Center
+
+SUCESS: Notes on a Scandal
+
+SUCESS: The Invasion
+
+FAILED: Music and Lyrics
+
+FAILED: Perfect Stranger
+
+FAILED: Stomp the Yard
+
+FAILED: TMNT
+
+FAILED: Vacancy
+
+SUCESS: The Eye
+
+FAILED: Over Her Dead Body
+
+FAILED: Penelope
+
+SUCESS: Sunshine Cleaning
+
+SUCESS: Baby Mama
+
+FAILED: Bangkok Dangerous
+
+SUCESS: Deception
+
+FAILED: Pride and Glory
+
+FAILED: The Rocker
+
+FAILED: Run Fatboy Run
+
+FAILED: Superhero Movie
+
+SUCESS: The Women
+
+SUCESS: Duplicity
+
+FAILED: Fighting
+
+FAILED: Whiteout
+
+FAILED: Saw VI
+
+SUCESS: Nanny McPhee Returns
+
+SUCESS: Ramona and Beezus
+
+FAILED: Diary of a Wimpy Kid: Rodrick Rules
+
+SUCESS: I Don't Know How She Does It
+
+FAILED: Shark Night
+
+FAILED: Joyful Noise
+
+FAILED: Nitro Circus: The Movie
+
+FAILED: The Frozen Ground
+
+FAILED: Runner Runner
+
+FAILED: Wish You Were Here
+
+FAILED: Ill Manors
+
+FAILED: ATM
+
+FAILED: The Liability
+
+FAILED: Why Stop Now?
+
+FAILED: Brake
+
+FAILED: Storage 24
+
+FAILED: In Their Skin
+
+FAILED: Never Back Down 2: The Beatdown
+
+FAILED: Kill List
+
+FAILED: Touchback
+
+FAILED: Detention
+
+FAILED: Wild Bill
+
+SUCESS: Cedar Rapids
+
+FAILED: Little Birds
+
+FAILED: That's What I Am
+
+FAILED: Happythankyoumoreplease
+
+FAILED: Womb
+
+FAILED: Somewhere
+
+SUCESS: Undisputed 3: Redemption
+
+FAILED: A Turtle's Tale: Sammy's Adventures
+
+FAILED: Fanboys
+
+FAILED: Wild Target
+
+FAILED: After.Life
+
+FAILED: The Code
+
+FAILED: Carriers
+
+FAILED: Adam
+
+SUCESS: The House of the Devil
+
+SUCESS: Away We Go
+
+FAILED: DOA: Dead or Alive
+
+FAILED: It's a Boy Girl Thing
+
+SUCESS: Shortbus
+
+FAILED: Candy
+
+FAILED: Big Stan
+
+SUCESS: Trick 'r Treat
+
+SUCESS: Eden Lake
+
+SUCESS: Before the Devil Knows You're Dead
+
+FAILED: I Could Never Be Your Woman
+
+SUCESS: The Midnight Meat Train
+
+FAILED: Southland Tales
+
+FAILED: King of California
+
+FAILED: Havoc
+
+FAILED: Chaos
+
+SUCESS: Dogville
+
+SUCESS: 11:14
+
+SUCESS: The Man Who Wasn't There
+
+FAILED: Cypher
+
+FAILED: The Singing Detective
+
+SUCESS: Lost Highway
+
+SUCESS: Dead Man
+
+SUCESS: Sex, Lies, and Videotape
+
+FAILED: Dead Alive
+
+SUCESS: Naked Lunch
+
+SUCESS: Menace II Society
+
+SUCESS: The Cannonball Run
+
+FAILED: Cannibal Holocaust
+
+SUCESS: Avanti!
+
+SUCESS: The Conversation
+
+FAILED: Smokey and the Bandit
+
+FAILED: The Rescuers
+
+SUCESS: Dawn of the Dead
+
+FAILED: 10
+
+FAILED: The Jerk
+
+FAILED: Airplane II: The Sequel
+
+SUCESS: An Officer and a Gentleman
+
+SUCESS: Pink Floyd: The Wall
+
+SUCESS: 2010: The Year We Make Contact
+
+SUCESS: Conan the Destroyer
+
+SUCESS: Romancing the Stone
+
+FAILED: Top Secret!
+
+SUCESS: Lifeforce
+
+SUCESS: Mad Max Beyond Thunderdome
+
+FAILED: Cobra
+
+SUCESS: The Great Mouse Detective
+
+SUCESS: Hoosiers
+
+FAILED: Three Amigos!
+
+SUCESS: Beverly Hills Cop II
+
+SUCESS: A Nightmare on Elm Street 3: Dream Warriors
+
+SUCESS: Beaches
+
+SUCESS: Bull Durham
+
+FAILED: Always
+
+SUCESS: Black Rain
+
+SUCESS: Driving Miss Daisy
+
+SUCESS: Mississippi Burning
+
+SUCESS: Oliver & Company
+
+FAILED: Weekend at Bernie's
+
+SUCESS: Wild at Heart
+
+FAILED: Drop Dead Fred
+
+SUCESS: Hudson Hawk
+
+SUCESS: Teenage Mutant Ninja Turtles II: The Secret of the Ooze
+
+SUCESS: Father of the Bride
+
+FAILED: The Last Boy Scout
+
+SUCESS: The Rocketeer
+
+FAILED: Captain Ron
+
+SUCESS: The Crying Game
+
+SUCESS: Death Becomes Her
+
+FAILED: Far and Away
+
+SUCESS: FernGully: The Last Rainforest
+
+SUCESS: Newsies
+
+SUCESS: Sister Act
+
+FAILED: Sneakers
+
+FAILED: Universal Soldier
+
+SUCESS: Cliffhanger
+
+SUCESS: Indecent Proposal
+
+SUCESS: Free Willy
+
+SUCESS: The Pelican Brief
+
+SUCESS: Sister Act 2: Back in the Habit
+
+FAILED: Blown Away
+
+SUCESS: Disclosure
+
+SUCESS: The Santa Clause
+
+SUCESS: Dead Man Walking
+
+FAILED: The Prophecy
+
+FAILED: To Wong Foo, Thanks for Everything! Julie Newmar
+
+SUCESS: Beautiful Girls
+
+FAILED: Bio-Dome
+
+SUCESS: Broken Arrow
+
+SUCESS: The Cable Guy
+
+FAILED: Escape from L.A.
+
+SUCESS: Grosse Pointe Blank
+
+FAILED: The Rainmaker
+
+SUCESS: Wag the Dog
+
+SUCESS: The Horse Whisperer
+
+SUCESS: Small Soldiers
+
+SUCESS: The Negotiator
+
+FAILED: Deuce Bigalow: Male Gigolo
+
+SUCESS: End of Days
+
+FAILED: Mystery Men
+
+FAILED: Next Friday
+
+SUCESS: Big Momma's House
+
+FAILED: Dracula 2000
+
+SUCESS: Finding Forrester
+
+SUCESS: Titan A.E.
+
+SUCESS: Final Fantasy: The Spirits Within
+
+SUCESS: Kate & Leopold
+
+FAILED: Tomcats
+
+FAILED: High Crimes
+
+FAILED: Jackass: The Movie
+
+FAILED: Queen of the Damned
+
+SUCESS: Stuart Little 2
+
+FAILED: Cabin Fever
+
+FAILED: Cold Creek Manor
+
+SUCESS: Spy Kids 3: Game Over
+
+FAILED: Intolerable Cruelty
+
+SUCESS: Runaway Jury
+
+FAILED: Fat Albert
+
+SUCESS: Hidalgo
+
+SUCESS: House of Flying Daggers
+
+SUCESS: The Ladykillers
+
+FAILED: New York Minute
+
+FAILED: Wimbledon
+
+FAILED: You Got Served
+
+FAILED: Fever Pitch
+
+SUCESS: The Ring Two
+
+FAILED: Wolf Creek
+
+SUCESS: The Adventures of Sharkboy and Lavagirl 3-D
+
+FAILED: The Cave
+
+SUCESS: Elizabethtown
+
+FAILED: Must Love Dogs
+
+SUCESS: North Country
+
+FAILED: The Ringer
+
+SUCESS: Yours, Mine & Ours
+
+FAILED: ATL
+
+SUCESS: Eight Below
+
+FAILED: Fearless
+
+SUCESS: My Super Ex-Girlfriend
+
+FAILED: School for Scoundrels
+
+FAILED: The Astronaut Farmer
+
+SUCESS: Turistas
+
+FAILED: Because I Said So
+
+FAILED: I Know Who Killed Me
+
+FAILED: In the Land of Women
+
+SUCESS: The Nanny Diaries
+
+FAILED: 88 Minutes
+
+SUCESS: Drillbit Taylor
+
+SUCESS: Ghost Town
+
+SUCESS: The Love Guru
+
+FAILED: Nights in Rodanthe
+
+FAILED: Soul Men
+
+FAILED: Stop-Loss
+
+FAILED: The X Files: I Want to Believe
+
+FAILED: Battle for Terra
+
+FAILED: Miss March
+
+FAILED: Post Grad
+
+FAILED: Sorority Row
+
+SUCESS: Everybody's Fine
+
+FAILED: The Stepfather
+
+FAILED: Alpha and Omega
+
+FAILED: Extraordinary Measures
+
+FAILED: Marmaduke
+
+FAILED: My Soul to Take
+
+SUCESS: Hoodwinked 2: Hood vs. Evil
+
+FAILED: A Glimpse Inside the Mind of Charles Swan III
+
+FAILED: Soldiers of Fortune
+
+FAILED: Starship Troopers: Invasion
+
+FAILED: Lola Versus
+
+FAILED: Columbus Circle
+
+FAILED: Grabbers
+
+SUCESS: Girl in Progress
+
+FAILED: Transit
+
+FAILED: Absentia
+
+FAILED: Wuthering Heights
+
+FAILED: Guns, Girls and Gambling
+
+FAILED: October Baby
+
+FAILED: Hobo with a Shotgun
+
+SUCESS: A Lonely Place to Die
+
+FAILED: 11-11-11
+
+FAILED: 5 Days of War
+
+FAILED: The Ledge
+
+FAILED: The Hit List
+
+FAILED: Girl Walks Into a Bar
+
+SUCESS: Albert Nobbs
+
+FAILED: Daydream Nation
+
+FAILED: The Tortured
+
+FAILED: Twelve
+
+SUCESS: The Girlfriend Experience
+
+FAILED: The Joneses
+
+SUCESS: Whatever Works
+
+FAILED: Mother and Child
+
+FAILED: The Messenger
+
+FAILED: Leaves of Grass
+
+FAILED: Echelon Conspiracy
+
+FAILED: Imagine Me & You
+
+SUCESS: Boy A
+
+SUCESS: Transsiberian
+
+SUCESS: Synecdoche, New York
+
+FAILED: The Insatiable
+
+SUCESS: Broken Flowers
+
+FAILED: Killer Movie
+
+FAILED: After Sex
+
+FAILED: The Brothers Bloom
+
+FAILED: Unknown
+
+FAILED: Zombie Strippers!
+
+SUCESS: Outlaw
+
+SUCESS: Passengers
+
+FAILED: Gabriel
+
+SUCESS: Nothing But the Truth
+
+FAILED: Deadgirl
+
+FAILED: The Hottie & the Nottie
+
+FAILED: Undisputed 2: Last Man Standing
+
+FAILED: Cleaner
+
+FAILED: Ken Park
+
+FAILED: Waking Life
+
+FAILED: Elephant
+
+SUCESS: The Station Agent
+
+SUCESS: A Room with a View
+
+FAILED: The Last Temptation of Christ
+
+SUCESS: Stand and Deliver
+
+SUCESS: Sophie's Choice
+
+SUCESS: Saturday Night Fever
+
+FAILED: Sand Castles
+
+FAILED: The Holy Mountain
+
+SUCESS: The Outlaw Josey Wales
+
+SUCESS: Slap Shot
+
+SUCESS: Eraserhead
+
+SUCESS: Taps
+
+SUCESS: Kramer vs. Kramer
+
+SUCESS: 48 Hrs.
+
+FAILED: Firefox
+
+FAILED: Christine
+
+SUCESS: Videodrome
+
+FAILED: Gung Ho
+
+SUCESS: Howard the Duck
+
+SUCESS: The Karate Kid Part II
+
+FAILED: Mannequin
+
+SUCESS: Masters of the Universe
+
+SUCESS: Superman IV: The Quest for Peace
+
+SUCESS: Dangerous Liaisons
+
+FAILED: The Dead Pool
+
+SUCESS: Dirty Rotten Scoundrels
+
+FAILED: The Great Outdoors
+
+SUCESS: Twins
+
+FAILED: The 'Burbs
+
+SUCESS: Flatliners
+
+FAILED: The Rescuers Down Under
+
+FAILED: RoboCop 2
+
+FAILED: What About Bob?
+
+FAILED: Benny & Joon
+
+FAILED: The Three Musketeers
+
+FAILED: Above the Rim
+
+FAILED: D2: The Mighty Ducks
+
+SUCESS: The American President
+
+SUCESS: The Bridges of Madison County
+
+FAILED: A Goofy Movie
+
+FAILED: Johnny Mnemonic
+
+FAILED: A Little Princess
+
+FAILED: Now and Then
+
+FAILED: Tank Girl
+
+FAILED: Bulletproof
+
+SUCESS: Last Man Standing
+
+FAILED: Rumble in the Bronx
+
+FAILED: Tin Cup
+
+SUCESS: Bean
+
+SUCESS: Conspiracy Theory
+
+FAILED: The Devil's Own
+
+SUCESS: George of the Jungle
+
+FAILED: He Got Game
+
+FAILED: U.S. Marshals
+
+FAILED: BASEketball
+
+SUCESS: Analyze This
+
+SUCESS: Drop Dead Gorgeous
+
+SUCESS: Go
+
+FAILED: Life
+
+SUCESS: Stir of Echoes
+
+SUCESS: Love & Basketball
+
+FAILED: Mission to Mars
+
+SUCESS: Romeo Must Die
+
+SUCESS: Battlefield Earth
+
+FAILED: The Family Man
+
+SUCESS: The Gift
+
+SUCESS: Shanghai Noon
+
+SUCESS: Space Cowboys
+
+SUCESS: Vertical Limit
+
+SUCESS: Where the Heart Is
+
+FAILED: Black Knight
+
+FAILED: Joy Ride
+
+SUCESS: Life as a House
+
+FAILED: Rock Star
+
+SUCESS: Frailty
+
+FAILED: Blue Crush
+
+FAILED: Changing Lanes
+
+FAILED: Collateral Damage
+
+FAILED: Murder by Numbers
+
+SUCESS: Spirit: Stallion of the Cimarron
+
+SUCESS: The Sweetest Thing
+
+FAILED: The Tuxedo
+
+FAILED: Confidence
+
+SUCESS: Deliver Us from Eva
+
+FAILED: Hollywood Homicide
+
+FAILED: Just Married
+
+FAILED: National Security
+
+FAILED: Honey
+
+SUCESS: House of Sand and Fog
+
+FAILED: After the Sunset
+
+FAILED: Bridget Jones: The Edge of Reason
+
+FAILED: Dirty Dancing: Havana Nights
+
+FAILED: The Forgotten
+
+SUCESS: Garfield
+
+SUCESS: I Heart Huckabees
+
+FAILED: The Prince and Me
+
+SUCESS: Scooby-Doo 2: Monsters Unleashed
+
+SUCESS: Sky Captain and the World of Tomorrow
+
+FAILED: Wicker Park
+
+FAILED: Without a Paddle
+
+FAILED: Beauty Shop
+
+SUCESS: Hustle & Flow
+
+FAILED: Kicking & Screaming
+
+SUCESS: In Her Shoes
+
+FAILED: Basic Instinct 2
+
+FAILED: Employee of the Month
+
+FAILED: Goal! The Dream Begins
+
+SUCESS: Lady in the Water
+
+SUCESS: Little Man
+
+SUCESS: The Omen
+
+SUCESS: Take the Lead
+
+FAILED: The Texas Chainsaw Massacre: The Beginning
+
+SUCESS: You, Me and Dupree
+
+FAILED: The Ultimate Gift
+
+SUCESS: Black Christmas
+
+FAILED: Harsh Times
+
+FAILED: The Invisible
+
+FAILED: The Last Legion
+
+SUCESS: The Messengers
+
+FAILED: The Reaping
+
+FAILED: The Water Horse
+
+FAILED: Be Kind Rewind
+
+FAILED: One Missed Call
+
+SUCESS: Beverly Hills Chihuahua
+
+FAILED: College
+
+FAILED: Prom Night
+
+FAILED: Redbelt
+
+FAILED: Shutter
+
+FAILED: Aliens in the Attic
+
+FAILED: Street Fighter: The Legend of Chun-Li
+
+FAILED: Armored
+
+FAILED: For Colored Girls
+
+SUCESS: Just Wright
+
+SUCESS: Jumping the Broom
+
+FAILED: Madea's Witness Protection
+
+FAILED: Wrong
+
+FAILED: About Time
+
+SUCESS: Legends of Oz: Dorothy's Return
+
+SUCESS: Broken
+
+FAILED: Nobody Walks
+
+FAILED: Silent Night
+
+FAILED: Pusher
+
+FAILED: Dragon Eyes
+
+FAILED: The Courier
+
+FAILED: Hijacked
+
+FAILED: Freaky Deaky
+
+FAILED: Stash House
+
+FAILED: Life Happens
+
+FAILED: Puncture
+
+FAILED: The Snowtown Murders
+
+FAILED: Love, Wedding, Marriage
+
+FAILED: Honey 2
+
+SUCESS: The Tunnel
+
+FAILED: Megan Is Missing
+
+FAILED: A Bag of Hammers
+
+FAILED: Faces in the Crowd
+
+FAILED: Vile
+
+FAILED: Assassination Games
+
+FAILED: The Details
+
+FAILED: Lovely Molly
+
+SUCESS: Greenberg
+
+FAILED: Bunraku
+
+FAILED: The Perfect Host
+
+FAILED: The Tempest
+
+SUCESS: Mother's Day
+
+FAILED: Stan Helsing
+
+SUCESS: City Island
+
+FAILED: The Keeper
+
+FAILED: The Maiden Heist
+
+FAILED: Damage
+
+FAILED: Middle Men
+
+FAILED: Tinker Bell and the Lost Treasure
+
+FAILED: The Disappearance of Alice Creed
+
+FAILED: Rampage
+
+FAILED: Women in Trouble
+
+SUCESS: Wristcutters: A Love Story
+
+SUCESS: Diary of the Dead
+
+FAILED: Virgin Territory
+
+FAILED: Mean Creek
+
+SUCESS: Saved!
+
+SUCESS: The Visitor
+
+FAILED: YPF
+
+FAILED: Afterwards
+
+FAILED: Open Season 2
+
+FAILED: Chaos Theory
+
+SUCESS: The Squid and the Whale
+
+FAILED: The Deal
+
+SUCESS: Inland Empire
+
+FAILED: Peaceful Warrior
+
+FAILED: Mirrormask
+
+FAILED: You Kill Me
+
+FAILED: The Hunting Party
+
+FAILED: Killing Me Softly
+
+SUCESS: Dancer in the Dark
+
+SUCESS: eXistenZ
+
+SUCESS: The Believer
+
+FAILED: The Human Stain
+
+FAILED: Wonderland
+
+FAILED: Happiness
+
+FAILED: Breaking the Waves
+
+FAILED: The Adventures of Priscilla, Queen of the Desert
+
+SUCESS: Sliding Doors
+
+FAILED: Strike!
+
+FAILED: Orgazmo
+
+SUCESS: Short Cuts
+
+SUCESS: The Cook, the Thief, His Wife & Her Lover
+
+SUCESS: The Unbearable Lightness of Being
+
+SUCESS: Blood Simple
+
+SUCESS: Paris, Texas
+
+SUCESS: Possession
+
+FAILED: Puberty Blues
+
+FAILED: I Spit on Your Grave
+
+FAILED: I, Frankenstein
+
+FAILED: Wicked
+
+FAILED: Rooster Cogburn
+
+SUCESS: Pete's Dragon
+
+SUCESS: The Wiz
+
+FAILED: Jaws 2
+
+FAILED: Being There
+
+FAILED: Bachelor Party
+
+FAILED: The Black Cauldron
+
+SUCESS: Cocoon
+
+SUCESS: Fright Night
+
+FAILED: The Return of the Living Dead
+
+FAILED: Return to Oz
+
+FAILED: Teen Wolf
+
+SUCESS: The Color of Money
+
+FAILED: The Money Pit
+
+SUCESS: Can't Buy Me Love
+
+SUCESS: Harry and the Hendersons
+
+FAILED: Less Than Zero
+
+SUCESS: The Big Blue
+
+SUCESS: Midnight Run
+
+FAILED: See No Evil, Hear No Evil
+
+FAILED: Tango & Cash
+
+FAILED: Turner & Hooch
+
+SUCESS: Arachnophobia
+
+SUCESS: Dick Tracy
+
+FAILED: Gremlins 2: The New Batch
+
+FAILED: Marked for Death
+
+FAILED: Memphis Belle
+
+FAILED: The Witches
+
+SUCESS: Backdraft
+
+FAILED: City Slickers
+
+FAILED: Beethoven
+
+SUCESS: Boomerang
+
+FAILED: Buffy the Vampire Slayer
+
+SUCESS: Encino Man
+
+SUCESS: Sliver
+
+SUCESS: In the Line of Fire
+
+FAILED: Wayne's World 2
+
+SUCESS: Angels in the Outfield
+
+FAILED: Mary Shelley's Frankenstein
+
+SUCESS: Little Women
+
+SUCESS: Maverick
+
+FAILED: Naked Gun 33 1/3: The Final Insult
+
+FAILED: The Brady Bunch Movie
+
+SUCESS: Assassins
+
+SUCESS: Get Shorty
+
+FAILED: Mighty Morphin Power Rangers: The Movie
+
+SUCESS: Powder
+
+FAILED: Under Siege 2: Dark Territory
+
+SUCESS: Emma
+
+FAILED: Jack
+
+SUCESS: The Nutty Professor
+
+SUCESS: Striptease
+
+SUCESS: Ransom
+
+SUCESS: G.I. Jane
+
+FAILED: Nothing to Lose
+
+FAILED: To Catch a Mystery
+
+SUCESS: Six Days Seven Nights
+
+FAILED: The X Files
+
+SUCESS: I Still Know What You Did Last Summer
+
+SUCESS: Simon Birch
+
+SUCESS: A Simple Plan
+
+FAILED: Snake Eyes
+
+FAILED: Soldier
+
+SUCESS: Urban Legend
+
+SUCESS: Vampires
+
+SUCESS: Bicentennial Man
+
+FAILED: Blue Streak
+
+SUCESS: The General's Daughter
+
+SUCESS: House on Haunted Hill
+
+FAILED: Message in a Bottle
+
+SUCESS: A Midsummer Night's Dream
+
+FAILED: Driven
+
+SUCESS: The Majestic
+
+SUCESS: The Mexican
+
+FAILED: O
+
+FAILED: Out Cold
+
+SUCESS: I Spy
+
+SUCESS: The Mothman Prophecies
+
+SUCESS: Spy Kids 2: Island of Lost Dreams
+
+SUCESS: Tuck Everlasting
+
+FAILED: Undisputed
+
+FAILED: Basic
+
+SUCESS: Bringing Down the House
+
+FAILED: Bulletproof Monk
+
+SUCESS: Dickie Roberts: Former Child Star
+
+SUCESS: Legally Blonde 2: Red, White & Blonde
+
+SUCESS: The Lizzie McGuire Movie
+
+FAILED: The Haunted Mansion
+
+SUCESS: Jersey Girl
+
+SUCESS: Taxi
+
+SUCESS: Vanity Fair
+
+FAILED: Are We There Yet?
+
+FAILED: Assault on Precinct 13
+
+FAILED: Cursed
+
+FAILED: Guess Who
+
+FAILED: Man of the House
+
+FAILED: Dark Water
+
+SUCESS: Deuce Bigalow: European Gigolo
+
+SUCESS: The Family Stone
+
+SUCESS: The Fog
+
+SUCESS: The Libertine
+
+SUCESS: Oliver Twist
+
+SUCESS: The Perfect Man
+
+FAILED: A Sound of Thunder
+
+FAILED: The Weather Man
+
+FAILED: Annapolis
+
+SUCESS: The Ant Bully
+
+FAILED: Barnyard
+
+SUCESS: Curious George
+
+FAILED: The Protector
+
+FAILED: The Sentinel
+
+FAILED: Van Wilder 2: The Rise of Taj
+
+FAILED: Bratz
+
+FAILED: The Hitcher
+
+FAILED: Mr. Magorium's Wonder Emporium
+
+FAILED: Nancy Drew
+
+FAILED: Space Chimps
+
+SUCESS: Capitalism: A Love Story
+
+SUCESS: This Is It
+
+SUCESS: Cats & Dogs: The Revenge of Kitty Galore
+
+FAILED: Lottery Ticket
+
+FAILED: Part of Me
+
+FAILED: A Most Wanted Man
+
+FAILED: The Dinosaur Project
+
+FAILED: One in the Chamber
+
+FAILED: The Forger
+
+SUCESS: Sleepwalk with Me
+
+FAILED: Dark Tide
+
+FAILED: StreetDance 2
+
+FAILED: Mac & Devin Go to High School
+
+FAILED: Assassin's Bullet
+
+FAILED: The Resident
+
+FAILED: Elephant White
+
+FAILED: The Woman
+
+FAILED: Weekend
+
+FAILED: A Few Best Men
+
+FAILED: The Caller
+
+FAILED: Age of Heroes
+
+FAILED: I Melt with You
+
+SUCESS: A Better Life
+
+FAILED: Beneath the Darkness
+
+SUCESS: Red Dog
+
+SUCESS: Tiny Furniture
+
+FAILED: Repeaters
+
+SUCESS: Barney's Version
+
+FAILED: The River Why
+
+FAILED: Cyrus
+
+FAILED: Dread
+
+SUCESS: The Other Woman
+
+SUCESS: The Revenant
+
+FAILED: Unmade Beds
+
+FAILED: Horsemen
+
+FAILED: Paper Man
+
+FAILED: Cracks
+
+FAILED: Get Low
+
+FAILED: Ninja
+
+FAILED: Forget Me Not
+
+FAILED: Defendor
+
+SUCESS: The Proposition
+
+FAILED: Fido
+
+FAILED: My Blueberry Nights
+
+FAILED: London
+
+FAILED: Ten Inch Hero
+
+FAILED: Everything Is Illuminated
+
+FAILED: Bottle Shock
+
+FAILED: Pathology
+
+FAILED: Stormbreaker
+
+SUCESS: The Wackness
+
+FAILED: War, Inc.
+
+FAILED: The Hamiltons
+
+FAILED: Choke
+
+FAILED: Pontypool
+
+FAILED: Scoop
+
+FAILED: I Can't Think Straight
+
+FAILED: Extreme Movie
+
+FAILED: The Narrows
+
+FAILED: The Human Contract
+
+SUCESS: The Hole
+
+FAILED: Spun
+
+SUCESS: Swimming Pool
+
+SUCESS: Dirty Pretty Things
+
+FAILED: The Importance of Being Earnest
+
+FAILED: The Legend of 1900
+
+SUCESS: Bottle Rocket
+
+FAILED: She's the One
+
+SUCESS: Bound
+
+SUCESS: Romper Stomper
+
+SUCESS: Naked
+
+SUCESS: Kalifornia
+
+SUCESS: Bitter Moon
+
+SUCESS: My Own Private Idaho
+
+FAILED: The Quiet Earth
+
+SUCESS: Mystic Pizza
+
+SUCESS: Hairspray
+
+SUCESS: Ordinary People
+
+SUCESS: The Meaning of Life
+
+FAILED: The Gods Must Be Crazy
+
+FAILED: Left Behind
+
+SUCESS: The Equalizer
+
+SUCESS: Rio 2
+
+FAILED: Untitled Tamela D'Amico Project
+
+SUCESS: Paper Moon
+
+FAILED: High Plains Drifter
+
+SUCESS: Sleuth
+
+SUCESS: Bugsy Malone
+
+SUCESS: Suspiria
+
+SUCESS: The Muppet Movie
+
+SUCESS: Hair
+
+FAILED: Cujo
+
+FAILED: A Nightmare on Elm Street 2: Freddy's Revenge
+
+FAILED: The Delta Force
+
+SUCESS: Hannah and Her Sisters
+
+FAILED: The Transformers: The Movie
+
+SUCESS: Innerspace
+
+FAILED: The Karate Kid Part III
+
+FAILED: Kickboxer
+
+FAILED: A Nightmare on Elm Street 4: The Dream Master
+
+FAILED: Sea of Love
+
+SUCESS: Scrooged
+
+FAILED: She's Having a Baby
+
+FAILED: Child's Play 2
+
+SUCESS: Darkman
+
+SUCESS: Leviathan
+
+FAILED: Lionheart
+
+SUCESS: Nothing But Trouble
+
+FAILED: Doc Hollywood
+
+FAILED: Don't Tell Mom the Babysitter's Dead
+
+SUCESS: The Fisher King
+
+SUCESS: Freddy's Dead: The Final Nightmare
+
+SUCESS: Fortress
+
+SUCESS: A Perfect World
+
+FAILED: Beverly Hills Cop III
+
+SUCESS: My Girl 2
+
+FAILED: New Nightmare
+
+SUCESS: Reality Bites
+
+FAILED: The River Wild
+
+SUCESS: The Specialist
+
+FAILED: When a Man Loves a Woman
+
+SUCESS: In the Mouth of Madness
+
+SUCESS: Muriel's Wedding
+
+FAILED: First Knight
+
+SUCESS: It Takes Two
+
+FAILED: The Net
+
+SUCESS: Sabrina
+
+FAILED: Vampire in Brooklyn
+
+FAILED: Virtuosity
+
+SUCESS: Executive Decision
+
+SUCESS: Phenomenon
+
+SUCESS: Marvin's Room
+
+FAILED: Cop Land
+
+FAILED: The Edge
+
+SUCESS: U Turn
+
+FAILED: Vegas Vacation
+
+FAILED: Blues Brothers 2000
+
+SUCESS: The Borrowers
+
+SUCESS: Doctor Dolittle
+
+SUCESS: Hope Floats
+
+FAILED: Very Bad Things
+
+FAILED: The Astronaut's Wife
+
+FAILED: Brokedown Palace
+
+FAILED: Drive Me Crazy
+
+FAILED: For Love of the Game
+
+FAILED: Idle Hands
+
+FAILED: Pokémon: The First Movie - Mewtwo Strikes Back
+
+FAILED: 28 Days
+
+SUCESS: Return to Me
+
+SUCESS: Wonder Boys
+
+FAILED: Dungeons & Dragons
+
+FAILED: The Legend of Drunken Master
+
+FAILED: Proof of Life
+
+FAILED: The Way of the Gun
+
+FAILED: The Animal
+
+SUCESS: Baby Boy
+
+FAILED: Ghosts of Mars
+
+FAILED: Heist
+
+FAILED: Kiss of the Dragon
+
+FAILED: Saving Silverman
+
+SUCESS: One Hour Photo
+
+SUCESS: The Banger Sisters
+
+FAILED: Enough
+
+SUCESS: Femme Fatale
+
+FAILED: Formula 51
+
+FAILED: Kung Pow: Enter the Fist
+
+SUCESS: Like Mike
+
+FAILED: The Rookie
+
+SUCESS: Undercover Brother
+
+FAILED: Cradle 2 the Grave
+
+FAILED: The Hunted
+
+FAILED: Jeepers Creepers 2
+
+FAILED: Sinbad: Legend of the Seven Seas
+
+FAILED: Uptown Girls
+
+FAILED: Beyond Borders
+
+SUCESS: Radio
+
+FAILED: Stuck on You
+
+SUCESS: Alfie
+
+FAILED: Home on the Range
+
+FAILED: Soul Plane
+
+FAILED: The Stepford Wives
+
+SUCESS: Miss Congeniality 2: Armed & Fabulous
+
+SUCESS: Bewitched
+
+FAILED: Herbie Fully Loaded
+
+FAILED: Two for the Money
+
+FAILED: Valiant
+
+SUCESS: BloodRayne
+
+SUCESS: Date Movie
+
+FAILED: The Grudge 2
+
+FAILED: Man of the Year
+
+FAILED: Stay Alive
+
+SUCESS: Zoom
+
+SUCESS: The Santa Clause 3: The Escape Clause
+
+FAILED: Love in the Time of Cholera
+
+SUCESS: Waitress
+
+FAILED: Hamlet 2
+
+FAILED: Leatherheads
+
+SUCESS: Meet Dave
+
+SUCESS: Hotel for Dogs
+
+SUCESS: I Can Do Bad All by Myself
+
+FAILED: The Pink Panther 2
+
+FAILED: Taking Woodstock
+
+SUCESS: Why Did I Get Married Too?
+
+SUCESS: Bucky Larson: Born to Be a Star
+
+FAILED: Chimpanzee
+
+SUCESS: The Truth About Emanuel
+
+SUCESS: Berberian Sound Studio
+
+FAILED: Dead Season
+
+FAILED: Hello I Must Be Going
+
+FAILED: Offender
+
+FAILED: Another Happy Day
+
+FAILED: 96 Minutes
+
+SUCESS: The Decoy Bride
+
+FAILED: Quarantine 2: Terminal
+
+FAILED: 4:44 Last Day on Earth
+
+FAILED: Loosies
+
+FAILED: Twixt
+
+FAILED: Restless
+
+FAILED: Evidence
+
+FAILED: You May Not Kiss the Bride
+
+FAILED: Take Me Home
+
+FAILED: 4.3.2.1.
+
+FAILED: Nude Nuns with Big Guns
+
+FAILED: Wrecked
+
+FAILED: Birdemic: Shock and Terror
+
+FAILED: Passion Play
+
+FAILED: Game of Death
+
+FAILED: And Soon the Darkness
+
+FAILED: Les Misérables in Concert: The 25th Anniversary
+
+FAILED: Open Season 3
+
+FAILED: Arthur 3: The War of the Two Worlds
+
+FAILED: Burke and Hare
+
+FAILED: S. Darko
+
+SUCESS: The Private Lives of Pippa Lee
+
+SUCESS: Vampire Killers
+
+FAILED: Doghouse
+
+FAILED: I Hope They Serve Beer in Hell
+
+FAILED: According to Greta
+
+FAILED: 9 Miles Down
+
+FAILED: St Trinian's 2: The Legend of Fritton's Gold
+
+FAILED: Blood: The Last Vampire
+
+FAILED: Highlander: The Source
+
+FAILED: The Butterfly Effect 2
+
+FAILED: Elegy
+
+FAILED: If Only
+
+FAILED: The Contract
+
+FAILED: Wedding Daze
+
+SUCESS: Savage Grace
+
+FAILED: Black Sheep
+
+SUCESS: Speak
+
+FAILED: Splinter
+
+FAILED: Breaking and Entering
+
+FAILED: The Football Factory
+
+FAILED: Resident Evil: Degeneration
+
+FAILED: Starship Troopers 3: Marauder
+
+FAILED: Wild Things: Diamonds in the Rough
+
+FAILED: The Nines
+
+FAILED: Sukiyaki Western Django
+
+FAILED: Home of the Brave
+
+SUCESS: The Poker House
+
+FAILED: Assassination of a High School President
+
+FAILED: All the Boys Love Mandy Lane
+
+FAILED: Miss Pettigrew Lives for a Day
+
+SUCESS: Happy-Go-Lucky
+
+FAILED: Facing the Giants
+
+SUCESS: 100 Girls
+
+FAILED: Dog Soldiers
+
+SUCESS: The Yards
+
+FAILED: SLC Punk!
+
+FAILED: Stealing Beauty
+
+SUCESS: The Ice Storm
+
+SUCESS: Shallow Grave
+
+FAILED: Playing by Heart
+
+FAILED: The Hudsucker Proxy
+
+SUCESS: The Castle
+
+SUCESS: Velvet Goldmine
+
+FAILED: Poison Ivy
+
+FAILED: The Man in the Moon
+
+SUCESS: Scanners
+
+SUCESS: The Fog
+
+FAILED: Bad Boys
+
+FAILED: The Road to Freedom: Year Zero
+
+FAILED: Ricky Stanicky
+
+SUCESS: Rudderless
+
+SUCESS: The Longest Yard
+
+SUCESS: Gone in 60 Seconds
+
+FAILED: Magnum Force
+
+SUCESS: The Way We Were
+
+SUCESS: Westworld
+
+FAILED: The Pink Panther Strikes Again
+
+FAILED: The Bad News Bears in Breaking Training
+
+FAILED: Friday the 13th Part 2
+
+SUCESS: Halloween II
+
+SUCESS: On Golden Pond
+
+FAILED: The Black Hole
+
+FAILED: Quadrophenia
+
+FAILED: Psycho II
+
+SUCESS: Body Double
+
+SUCESS: Enemy Mine
+
+SUCESS: National Lampoon's European Vacation
+
+FAILED: Fletch
+
+FAILED: Police Academy 2: Their First Assignment
+
+FAILED: Spies Like Us
+
+FAILED: Vision Quest
+
+SUCESS: An American Tail
+
+FAILED: Lucas
+
+SUCESS: Moonstruck
+
+FAILED: Lock Up
+
+SUCESS: Look Who's Talking
+
+SUCESS: The War of the Roses
+
+FAILED: The Wizard
+
+SUCESS: Working Girl
+
+SUCESS: Lean on Me
+
+SUCESS: The Freshman
+
+FAILED: Mermaids
+
+SUCESS: Quigley Down Under
+
+SUCESS: Young Guns II
+
+SUCESS: Bill & Ted's Bogus Journey
+
+SUCESS: The Naked Gun 2½: The Smell of Fear
+
+FAILED: Return to the Blue Lagoon
+
+SUCESS: The Hand that Rocks the Cradle
+
+SUCESS: The Muppet Christmas Carol
+
+SUCESS: Single White Female
+
+FAILED: Teenage Mutant Ninja Turtles III
+
+SUCESS: Grumpy Old Men
+
+SUCESS: Poetic Justice
+
+FAILED: RoboCop 3
+
+FAILED: Striking Distance
+
+SUCESS: The Client
+
+FAILED: Color of Night
+
+FAILED: Little Giants
+
+SUCESS: Major League II
+
+FAILED: Richie Rich
+
+SUCESS: Don Juan DeMarco
+
+FAILED: Balto
+
+SUCESS: Congo
+
+FAILED: Dracula: Dead and Loving It
+
+FAILED: French Kiss
+
+SUCESS: The Indian in the Cupboard
+
+SUCESS: To Die For
+
+SUCESS: A Walk in the Clouds
+
+FAILED: Chain Reaction
+
+FAILED: Mrs. Winterbourne
+
+FAILED: Spy Hard
+
+SUCESS: Daylight
+
+FAILED: Fools Rush In
+
+SUCESS: Midnight in the Garden of Good and Evil
+
+SUCESS: Mimic
+
+SUCESS: Mousehunt
+
+SUCESS: Speed 2: Cruise Control
+
+FAILED: Mercury Rising
+
+FAILED: The Players Club
+
+SUCESS: The Avengers
+
+FAILED: Detroit Rock City
+
+FAILED: Jawbreaker
+
+FAILED: Lake Placid
+
+SUCESS: Rules of Engagement
+
+FAILED: The Skulls
+
+FAILED: Get Carter
+
+FAILED: 15 Minutes
+
+SUCESS: Bandits
+
+FAILED: Don't Say a Word
+
+SUCESS: Freddy Got Fingered
+
+FAILED: The Glass House
+
+FAILED: Josie and the Pussycats
+
+FAILED: Someone Like You
+
+SUCESS: The Good Girl
+
+FAILED: Impostor
+
+SUCESS: Orange County
+
+SUCESS: Big Fat Liar
+
+FAILED: Blood Work
+
+SUCESS: Crossroads
+
+FAILED: Dragonfly
+
+FAILED: Drumline
+
+SUCESS: Hart's War
+
+FAILED: Knockaround Guys
+
+SUCESS: The Master of Disguise
+
+SUCESS: The Santa Clause 2
+
+FAILED: Darkness Falls
+
+SUCESS: Gigli
+
+FAILED: Looney Tunes: Back in Action
+
+FAILED: Anacondas: The Hunt for the Blood Orchid
+
+FAILED: Shall We Dance
+
+FAILED: Torque
+
+FAILED: Alone in the Dark
+
+FAILED: Ice Princess
+
+SUCESS: Son of the Mask
+
+FAILED: White Noise
+
+FAILED: The Great Raid
+
+FAILED: Prime
+
+SUCESS: Proof
+
+FAILED: American Dreamz
+
+FAILED: Pulse
+
+FAILED: Curse of the Golden Flower
+
+FAILED: Fred Claus
+
+FAILED: The Jane Austen Book Club
+
+FAILED: The Last Mimzy
+
+FAILED: Lucky You
+
+FAILED: P2
+
+FAILED: Redline
+
+FAILED: The Seeker: The Dark Is Rising
+
+FAILED: Tyler Perry's Why Did I Get Married?
+
+FAILED: Mad Money
+
+FAILED: Strange Wilderness
+
+SUCESS: Miracle at St. Anna
+
+FAILED: My Life in Ruins
+
+FAILED: Furry Vengeance
+
+FAILED: Our Family Wedding
+
+FAILED: The Virginity Hit
+
+FAILED: Outpost: Black Sun
+
+FAILED: Goats
+
+FAILED: 7 Below
+
+FAILED: 3, 2, 1... Frankie Go Boom
+
+FAILED: The Girl from the Naked Eye
+
+FAILED: When the Lights Went Out
+
+FAILED: Sniper: Reloaded
+
+FAILED: The Reunion
+
+FAILED: House of the Rising Sun
+
+FAILED: Children of the Corn: Genesis
+
+FAILED: Recoil
+
+FAILED: Cat Run
+
+SUCESS: Blackthorn
+
+FAILED: StreetDance 3D
+
+FAILED: Chatroom
+
+FAILED: The Reef
+
+SUCESS: Beautiful Boy
+
+FAILED: Nine Dead
+
+FAILED: Operation: Endgame
+
+FAILED: The Big Bang
+
+FAILED: Cemetery Junction
+
+SUCESS: The Illusionist
+
+FAILED: Universal Soldier: Regeneration
+
+FAILED: Uncertainty
+
+FAILED: Survival of the Dead
+
+SUCESS: Solitary Man
+
+FAILED: Veronika Decides to Die
+
+FAILED: Frequently Asked Questions About Time Travel
+
+FAILED: The Butterfly Effect 3: Revelations
+
+FAILED: The Grudge 3
+
+FAILED: The Crew
+
+SUCESS: The Merchant of Venice
+
+FAILED: The Accidental Husband
+
+FAILED: The Air I Breathe
+
+FAILED: Rogue
+
+SUCESS: Keeping Mum
+
+FAILED: Shelter
+
+SUCESS: Kinky Boots
+
+FAILED: Mutant Chronicles
+
+SUCESS: The Savages
+
+FAILED: Winged Creatures
+
+FAILED: One Week
+
+FAILED: Cassandra's Dream
+
+SUCESS: A Guide to Recognizing Your Saints
+
+FAILED: Bandidas
+
+FAILED: Goal II: Living the Dream
+
+FAILED: Bride & Prejudice
+
+FAILED: Killshot
+
+SUCESS: Far from Heaven
+
+FAILED: Mean Machine
+
+FAILED: Naked Weapon
+
+SUCESS: Bubba Ho-Tep
+
+SUCESS: Whale Rider
+
+SUCESS: The Brown Bunny
+
+FAILED: Fantasia 2000
+
+FAILED: Mansfield Park
+
+FAILED: Ginger Snaps
+
+FAILED: Human Traffic
+
+SUCESS: The Animatrix
+
+SUCESS: Exotica
+
+FAILED: Once Were Warriors
+
+FAILED: Welcome to the Dollhouse
+
+FAILED: Fresh
+
+FAILED: Female Perversions
+
+SUCESS: Captain America
+
+FAILED: The Punisher
+
+SUCESS: The Mosquito Coast
+
+FAILED: Day of the Dead
+
+SUCESS: Somewhere in Time
+
+SUCESS: The Final Countdown
+
+SUCESS: Heavy Metal
+
+SUCESS: Rumble Fish
+
+SUCESS: Locke
+
+FAILED: Hidden Valley the Awakening
+
+SUCESS: Arabian Nights
+
+SUCESS: The Poseidon Adventure
+
+SUCESS: The Towering Inferno
+
+FAILED: The Eagle Has Landed
+
+SUCESS: Invasion of the Body Snatchers
+
+SUCESS: Every Which Way but Loose
+
+FAILED: The Lord of the Rings
+
+FAILED: Breaking Away
+
+FAILED: The Last Unicorn
+
+SUCESS: Krull
+
+SUCESS: Twilight Zone: The Movie
+
+FAILED: Cat's Eye
+
+FAILED: Girls Just Want to Have Fun
+
+FAILED: The Golden Child
+
+FAILED: Maximum Overdrive
+
+SUCESS: Murphy's Law
+
+SUCESS: Jaws: The Revenge
+
+FAILED: The Monster Squad
+
+FAILED: Summer School
+
+SUCESS: The Witches of Eastwick
+
+SUCESS: Colors
+
+FAILED: Crocodile Dundee II
+
+FAILED: A Nightmare on Elm Street 5: The Dream Child
+
+FAILED: Dark Angel
+
+SUCESS: The Grifters
+
+SUCESS: Hamlet
+
+FAILED: Hard to Kill
+
+FAILED: Night of the Living Dead
+
+FAILED: Problem Child
+
+SUCESS: Regarding Henry
+
+FAILED: 3 Ninjas
+
+FAILED: The Cutting Edge
+
+FAILED: Forever Young
+
+FAILED: HouseSitter
+
+SUCESS: Dave
+
+SUCESS: Rising Sun
+
+FAILED: Baby's Day Out
+
+FAILED: Corrina, Corrina
+
+SUCESS: The Jungle Book
+
+FAILED: Junior
+
+FAILED: The Next Karate Kid
+
+SUCESS: Timecop
+
+SUCESS: Higher Learning
+
+SUCESS: Copycat
+
+SUCESS: Mr. Holland's Opus
+
+FAILED: Money Train
+
+SUCESS: Nine Months
+
+SUCESS: Courage Under Fire
+
+FAILED: D3: The Mighty Ducks
+
+SUCESS: The Fan
+
+FAILED: One Fine Day
+
+FAILED: Thinner
+
+FAILED: Absolute Power
+
+FAILED: The Apostle
+
+FAILED: Beverly Hills Ninja
+
+SUCESS: Breakdown
+
+FAILED: Double Team
+
+SUCESS: Flubber
+
+FAILED: A Life Less Ordinary
+
+FAILED: Money Talks
+
+SUCESS: Volcano
+
+SUCESS: Mighty Joe Young
+
+SUCESS: The Best Man
+
+FAILED: Bowfinger
+
+SUCESS: Inspector Gadget
+
+SUCESS: Ravenous
+
+FAILED: Summer of Sam
+
+FAILED: Boys and Girls
+
+SUCESS: The Flintstones in Viva Rock Vegas
+
+SUCESS: America's Sweethearts
+
+FAILED: Antitrust
+
+FAILED: Bubble Boy
+
+FAILED: Crazy/Beautiful
+
+SUCESS: Hearts in Atlantis
+
+SUCESS: In the Bedroom
+
+SUCESS: Osmosis Jones
+
+FAILED: Analyze That
+
+FAILED: Bad Company
+
+SUCESS: Barbershop
+
+FAILED: The Four Feathers
+
+FAILED: Half Past Dead
+
+FAILED: Peter Pan 2: Return to Never Land
+
+FAILED: Showtime
+
+FAILED: Agent Cody Banks
+
+SUCESS: Boat Trip
+
+FAILED: Grind
+
+SUCESS: In the Cut
+
+FAILED: Catch That Kid
+
+FAILED: Club Dread
+
+SUCESS: In Good Company
+
+FAILED: Little Black Book
+
+FAILED: The Perfect Score
+
+FAILED: Spartan
+
+FAILED: Superbabies: Baby Geniuses 2
+
+FAILED: Twisted
+
+SUCESS: The Whole Ten Yards
+
+FAILED: Win a Date with Tad Hamilton!
+
+FAILED: Because of Winn-Dixie
+
+SUCESS: March of the Penguins
+
+SUCESS: Transamerica
+
+SUCESS: The Man
+
+SUCESS: Shopgirl
+
+SUCESS: Akeelah and the Bee
+
+SUCESS: Friends with Money
+
+FAILED: Garfield: A Tail of Two Kitties
+
+FAILED: Madea's Family Reunion
+
+FAILED: Waist Deep
+
+SUCESS: Captivity
+
+FAILED: The Comebacks
+
+SUCESS: Dragon Wars: D-War
+
+FAILED: I Think I Love My Wife
+
+FAILED: Underdog
+
+FAILED: Smart People
+
+SUCESS: Kit Kittredge: An American Girl
+
+FAILED: Dance Flick
+
+SUCESS: Madea Goes to Jail
+
+FAILED: New in Town
+
+SUCESS: Not Easily Broken
+
+FAILED: Dylan Dog: Dead of Night
+
+SUCESS: Judy Moody and the Not Bummer Summer
+
+FAILED: Austenland
+
+FAILED: Labor Day
+
+FAILED: Airborne
+
+FAILED: Retreat
+
+FAILED: The Moth Diaries
+
+FAILED: Bereavement
+
+FAILED: Tamara Drewe
+
+SUCESS: Another Year
+
+FAILED: How to Make Love to a Woman
+
+FAILED: Ultramarines: A Warhammer 40,000 Movie
+
+FAILED: BloodRayne: The Third Reich
+
+FAILED: The Bang Bang Club
+
+FAILED: The New Daughter
+
+FAILED: Ink
+
+FAILED: The Good Guy
+
+FAILED: The Thaw
+
+FAILED: Labor Pains
+
+FAILED: Timer
+
+FAILED: Gentlemen Broncos
+
+FAILED: The Slammin' Salmon
+
+FAILED: American Virgin
+
+FAILED: Cherrybomb
+
+FAILED: Five Minutes of Heaven
+
+SUCESS: Reservation Road
+
+FAILED: The Final Cut
+
+FAILED: Cougar Club
+
+FAILED: My Sassy Girl
+
+SUCESS: Away from Her
+
+FAILED: The Quiet
+
+FAILED: The Onion Movie
+
+SUCESS: Another Gay Movie
+
+FAILED: The Secret of Moonacre
+
+SUCESS: Sleuth
+
+FAILED: The Namesake
+
+FAILED: Fireflies in the Garden
+
+SUCESS: The Escapist
+
+SUCESS: Hatchet
+
+SUCESS: Trade
+
+SUCESS: My Summer of Love
+
+FAILED: Running with Scissors
+
+FAILED: Mini's First Time
+
+SUCESS: Bambi 2: The Great Prince of the Forest
+
+FAILED: Feast
+
+FAILED: The Other Man
+
+FAILED: I Want Candy
+
+SUCESS: D.E.B.S.
+
+FAILED: Renegade
+
+SUCESS: Tideland
+
+SUCESS: Beowulf & Grendel
+
+FAILED: Hell Ride
+
+FAILED: The Lucky Ones
+
+FAILED: Big Nothing
+
+SUCESS: Battle in Seattle
+
+FAILED: Millions
+
+FAILED: Cube²: Hypercube
+
+SUCESS: Lost and Delirious
+
+SUCESS: In America
+
+FAILED: May
+
+SUCESS: Enigma
+
+SUCESS: Buffalo '66
+
+FAILED: Smoke Signals
+
+FAILED: Celebrity
+
+FAILED: Live Nude Girls
+
+FAILED: Who Am I?
+
+FAILED: The Boxer
+
+SUCESS: The Commitments
+
+SUCESS: Enchanted April
+
+FAILED: Swing Kids
+
+SUCESS: Damage
+
+FAILED: Strictly Ballroom
+
+SUCESS: After Hours
+
+SUCESS: The Adventures of Baron Munchausen
+
+SUCESS: The Brave Little Toaster
+
+SUCESS: The King of Comedy
+
+FAILED: Xanadu
+
+SUCESS: The Changeling
+
+SUCESS: Altered States
+
+FAILED: The Inglorious Bastards
+
+FAILED: Empires of the Deep
+
+FAILED: Kill or be Killed
+
+FAILED: Careful What You Wish For
+
+FAILED: The Captive
+
+SUCESS: The Day of the Jackal
+
+FAILED: The Big Boss
+
+SUCESS: Rollerball
+
+SUCESS: A Boy and His Dog
+
+FAILED: Death Wish
+
+FAILED: Zardoz
+
+FAILED: Amarcord
+
+SUCESS: Family Plot
+
+SUCESS: Watership Down
+
+FAILED: The Amityville Horror
+
+FAILED: 1941
+
+FAILED: Phantasm
+
+FAILED: The Beastmaster
+
+FAILED: Cat People
+
+FAILED: Zapped!
+
+FAILED: Jaws 3-D
+
+FAILED: Staying Alive
+
+FAILED: Sudden Impact
+
+SUCESS: Purple Rain
+
+FAILED: Supergirl
+
+SUCESS: Starman
+
+FAILED: Just One of the Guys
+
+FAILED: Critters
+
+SUCESS: House
+
+SUCESS: *batteries not included
+
+FAILED: Police Academy 4: Citizens on Patrol
+
+SUCESS: The Accused
+
+FAILED: Frantic
+
+SUCESS: License to Drive
+
+FAILED: Red Heat
+
+FAILED: Tequila Sunrise
+
+FAILED: House Party
+
+FAILED: Toy Soldiers
+
+FAILED: Double Impact
+
+SUCESS: The People Under the Stairs
+
+FAILED: Problem Child 2
+
+FAILED: The Lawnmower Man
+
+FAILED: Passenger 57
+
+SUCESS: Singles
+
+FAILED: Body of Evidence
+
+FAILED: Loaded Weapon 1
+
+FAILED: Sniper
+
+FAILED: Hard Target
+
+FAILED: Little Big League
+
+SUCESS: North
+
+FAILED: The Pagemaster
+
+FAILED: Wolf
+
+FAILED: Just Cause
+
+FAILED: Murder in the First
+
+FAILED: Circle of Friends
+
+FAILED: Dead Presidents
+
+SUCESS: Barb Wire
+
+SUCESS: The Island of Dr. Moreau
+
+FAILED: Set It Off
+
+SUCESS: Eve's Bayou
+
+FAILED: Picture Perfect
+
+FAILED: The Big Hit
+
+FAILED: Deep Rising
+
+FAILED: Madeline
+
+SUCESS: Apt Pupil
+
+FAILED: A Civil Action
+
+FAILED: Jack Frost
+
+SUCESS: The End of the Affair
+
+FAILED: In Dreams
+
+SUCESS: Keeping the Faith
+
+FAILED: The Tigger Movie
+
+FAILED: Whatever It Takes
+
+SUCESS: All the Pretty Horses
+
+SUCESS: The Art of War
+
+FAILED: The Kid
+
+SUCESS: Nutty Professor II: The Klumps
+
+FAILED: 3000 Miles to Graceland
+
+FAILED: Captain Corelli's Mandolin
+
+FAILED: Get Over It
+
+FAILED: Hardball
+
+FAILED: Jimmy Neutron: Boy Genius
+
+SUCESS: The Pledge
+
+FAILED: Eight Legged Freaks
+
+SUCESS: Possession
+
+FAILED: The Truth About Charlie
+
+SUCESS: Dumb and Dumberer: When Harry Met Lloyd
+
+FAILED: Duplex
+
+FAILED: Malibu's Most Wanted
+
+FAILED: The Medallion
+
+FAILED: The Order
+
+FAILED: View from the Top
+
+FAILED: The Missing
+
+SUCESS: Darkness
+
+FAILED: Johnson Family Vacation
+
+FAILED: Paparazzi
+
+FAILED: Racing Stripes
+
+FAILED: Flicka
+
+FAILED: How to Eat Fried Worms
+
+SUCESS: The Shaggy Dog
+
+FAILED: Let's Go to Prison
+
+FAILED: Are We Done Yet?
+
+FAILED: Blood and Chocolate
+
+FAILED: Daddy's Little Girls
+
+FAILED: Feast of Love
+
+FAILED: Martian Child
+
+FAILED: Mr. Woodcock
+
+SUCESS: Things We Lost in the Fire
+
+FAILED: College Road Trip
+
+FAILED: Swing Vote
+
+SUCESS: Imagine That
+
+FAILED: All Is Bright
+
+FAILED: The Devil's Carnival
+
+FAILED: Girls Gone Dead
+
+FAILED: Darling Companion
+
+FAILED: Scary or Die
+
+FAILED: The Trip
+
+FAILED: The Dead
+
+FAILED: Inhale
+
+FAILED: The Final
+
+FAILED: Father of Invention
+
+SUCESS: Meek's Cutoff
+
+FAILED: Bloomington
+
+FAILED: Sinners and Saints
+
+FAILED: Ca$h
+
+FAILED: The Limits of Control
+
+FAILED: Blood Creek
+
+FAILED: Triage
+
+FAILED: Beyond a Reasonable Doubt
+
+FAILED: Elsewhere
+
+FAILED: Tenderness
+
+FAILED: Falling Up
+
+FAILED: Wild Cherry
+
+SUCESS: Mammoth
+
+FAILED: Tormented
+
+FAILED: Surfer, Dude
+
+FAILED: Pledge This!
+
+SUCESS: Fast Food Nation
+
+FAILED: The Lazarus Project
+
+FAILED: Two Days in Paris
+
+FAILED: Head in the Clouds
+
+FAILED: Kidulthood
+
+FAILED: It's All Gone Pete Tong
+
+FAILED: Descent
+
+FAILED: Outsourced
+
+SUCESS: The Three Burials of Melquiades Estrada
+
+SUCESS: The Ballad of Jack and Rose
+
+FAILED: Fifty Dead Men Walking
+
+FAILED: Far Cry
+
+FAILED: The History Boys
+
+SUCESS: Starter for 10
+
+FAILED: Dirty Deeds
+
+FAILED: The Breed
+
+SUCESS: Me and You and Everyone We Know
+
+FAILED: Son of Rambow
+
+SUCESS: Where the Truth Lies
+
+FAILED: Edison
+
+SUCESS: Easy Virtue
+
+FAILED: Survival Island
+
+FAILED: While She Was Out
+
+FAILED: Afterschool
+
+FAILED: Smiley Face
+
+FAILED: 100 Feet
+
+FAILED: Garden Party
+
+SUCESS: Frozen River
+
+FAILED: Sex and Death 101
+
+FAILED: Asylum
+
+SUCESS: Junebug
+
+SUCESS: Rocket Science
+
+FAILED: Seraphim Falls
+
+FAILED: House of D
+
+SUCESS: The Jungle Book 2
+
+SUCESS: Shadow of the Vampire
+
+FAILED: Camp
+
+SUCESS: The United States of Leland
+
+FAILED: Ride with the Devil
+
+FAILED: Below
+
+FAILED: Barely Legal
+
+FAILED: Paid in Full
+
+SUCESS: Tigerland
+
+FAILED: The Shape of Things
+
+SUCESS: Everyone Says I Love You
+
+SUCESS: Hard Eight
+
+FAILED: Manny & Lo
+
+SUCESS: High Art
+
+FAILED: Spanking the Monkey
+
+SUCESS: Arizona Dream
+
+FAILED: The House of the Spirits
+
+FAILED: The Power of One
+
+SUCESS: The Player
+
+FAILED: Teen Witch
+
+FAILED: Lorenzo's Oil
+
+SUCESS: Orlando
+
+SUCESS: Near Dark
+
+FAILED: Two Moon Junction
+
+FAILED: The Adventures of Buckaroo Banzai Across the 8th Dimension
+
+SUCESS: The Postman Always Rings Twice
+
+FAILED: Blow Out
+
+FAILED: Sleepaway Camp
+
+SUCESS: Dressed to Kill
+
+FAILED: Tender Mercies
+
+FAILED: Game of Death
+
+FAILED: Everest
+
+FAILED: Before I Go to Sleep
+
+FAILED: Escape to Witch Mountain
+
+SUCESS: Murder on the Orient Express
+
+SUCESS: A Woman Under the Influence
+
+SUCESS: Sleeper
+
+FAILED: Battle for the Planet of the Apes
+
+FAILED: Anita
+
+FAILED: The Man Who Would Be King
+
+FAILED: The Enforcer
+
+FAILED: Murder by Death
+
+FAILED: The Tenant
+
+FAILED: High Anxiety
+
+FAILED: Cross of Iron
+
+FAILED: Cheech and Chong's Next Movie
+
+SUCESS: All That Jazz
+
+FAILED: The Toy
+
+SUCESS: The Verdict
+
+FAILED: All the Right Moves
+
+FAILED: Firestarter
+
+SUCESS: Streets of Fire
+
+SUCESS: The Company of Wolves
+
+FAILED: Brewster's Millions
+
+FAILED: The Jewel of the Nile
+
+FAILED: Mischief
+
+FAILED: Police Academy 3: Back in Training
+
+FAILED: Blind Date
+
+FAILED: Hamburger Hill
+
+SUCESS: Throw Momma from the Train
+
+SUCESS: Dead Ringers
+
+FAILED: Air America
+
+FAILED: Bird on a Wire
+
+FAILED: DuckTales the Movie: Treasure of the Lost Lamp
+
+SUCESS: Dead Calm
+
+FAILED: Pump Up the Volume
+
+FAILED: The Rookie
+
+FAILED: Leatherface: Texas Chainsaw Massacre III
+
+FAILED: White Fang
+
+FAILED: Wild Hearts Can't Be Broken
+
+FAILED: Highlander II: The Quickening
+
+SUCESS: Jungle Fever
+
+FAILED: Hellraiser III: Hell on Earth
+
+FAILED: Medicine Man
+
+FAILED: School Ties
+
+SUCESS: The Vanishing
+
+FAILED: Batman: Mask of the Phantasm
+
+FAILED: The Joy Luck Club
+
+FAILED: Malice
+
+FAILED: Son in Law
+
+FAILED: We're Back! A Dinosaur's Story
+
+FAILED: Blank Check
+
+SUCESS: Miracle on 34th Street
+
+FAILED: Only You
+
+FAILED: Boys on the Side
+
+FAILED: The Baby-Sitters Club
+
+SUCESS: The Scarlet Letter
+
+FAILED: The Crow: City of Angels
+
+SUCESS: Fly Away Home
+
+FAILED: Mulholland Falls
+
+FAILED: Addicted to Love
+
+FAILED: Jungle 2 Jungle
+
+FAILED: Murder at 1600
+
+SUCESS: One Eight Seven
+
+FAILED: Operation Condor
+
+FAILED: Dirty Work
+
+FAILED: Spice World
+
+FAILED: Belly
+
+FAILED: Disturbing Behavior
+
+FAILED: Mystery, Alaska
+
+FAILED: Universal Soldier: The Return
+
+FAILED: The Wood
+
+FAILED: Down to You
+
+FAILED: Reindeer Games
+
+FAILED: Saving Grace
+
+FAILED: Highlander: Endgame
+
+FAILED: Loser
+
+SUCESS: Crocodile Dundee in Los Angeles
+
+SUCESS: Domestic Disturbance
+
+FAILED: Summer Catch
+
+FAILED: Jason X
+
+FAILED: Biker Boyz
+
+FAILED: House of the Dead
+
+FAILED: Love Don't Cost a Thing
+
+SUCESS: Calendar Girls
+
+FAILED: Envy
+
+FAILED: Exorcist: The Beginning
+
+SUCESS: Thunderbirds
+
+SUCESS: Boogeyman
+
+SUCESS: The Matador
+
+FAILED: The Ice Harvest
+
+SUCESS: Roll Bounce
+
+FAILED: Supercross
+
+FAILED: Everyone's Hero
+
+SUCESS: Freedomland
+
+SUCESS: Hoot
+
+FAILED: Last Holiday
+
+FAILED: Material Girls
+
+FAILED: One Night with the King
+
+FAILED: The Ex
+
+FAILED: Resurrecting the Champ
+
+FAILED: This Christmas
+
+FAILED: Welcome Home, Roscoe Jenkins
+
+FAILED: Bandslam
+
+FAILED: Earth
+
+FAILED: Next Day Air
+
+FAILED: The Millionaire Tour
+
+FAILED: Dragon Age: Dawn of the Seeker
+
+FAILED: Truth or Die
+
+FAILED: Tracker
+
+FAILED: Elena Undone
+
+FAILED: Love Ranch
+
+FAILED: Shanghai
+
+FAILED: Jack Goes Boating
+
+FAILED: Night Wolf
+
+FAILED: Heartbeats
+
+FAILED: Choose
+
+FAILED: Brighton Rock
+
+FAILED: Red Riding: The Year of Our Lord 1974
+
+FAILED: Chéri
+
+FAILED: The Haunted World of El Superbeasto
+
+FAILED: The City of Your Final Destination
+
+FAILED: Stolen
+
+FAILED: 44 Inch Chest
+
+FAILED: To Save a Life
+
+FAILED: I Hate Valentine's Day
+
+SUCESS: Me and Orson Welles
+
+FAILED: Center Stage: Turn It Up
+
+FAILED: Remember the Daze
+
+FAILED: The Good German
+
+FAILED: Gigantic
+
+FAILED: Adulthood
+
+FAILED: Immortal
+
+FAILED: The Promotion
+
+FAILED: The I Inside
+
+FAILED: Fragile
+
+FAILED: Lonely Hearts
+
+SUCESS: She Hate Me
+
+FAILED: Tamara
+
+FAILED: Thumbsucker
+
+SUCESS: Under the Same Moon
+
+FAILED: Brideshead Revisited
+
+FAILED: Outpost
+
+SUCESS: The Children
+
+SUCESS: The Business
+
+FAILED: A Love Song for Bobby Long
+
+FAILED: Mister Lonely
+
+FAILED: Dear Frankie
+
+FAILED: Jolene
+
+FAILED: Bobby Z
+
+FAILED: Altered
+
+FAILED: Stiletto
+
+SUCESS: Renaissance
+
+SUCESS: Postal
+
+FAILED: Towelhead
+
+FAILED: Kenny
+
+FAILED: Live!
+
+FAILED: Code 46
+
+SUCESS: Sweet and Lowdown
+
+FAILED: Prozac Nation
+
+SUCESS: The Magdalene Sisters
+
+FAILED: Dead End
+
+FAILED: XX/XY
+
+SUCESS: Hedwig and the Angry Inch
+
+SUCESS: Spider
+
+FAILED: Better Than Chocolate
+
+FAILED: When Night Is Falling
+
+SUCESS: The Opposite of Sex
+
+SUCESS: Deconstructing Harry
+
+FAILED: Shiloh
+
+FAILED: Things to Do in Denver When You're Dead
+
+FAILED: Othello
+
+FAILED: The Mighty Quinn
+
+FAILED: Kickboxer 2: The Road Back
+
+SUCESS: Crimes and Misdemeanors
+
+SUCESS: Shirley Valentine
+
+SUCESS: Howards End
+
+SUCESS: Valmont
+
+FAILED: The Hot Spot
+
+FAILED: Boxing Helena
+
+SUCESS: Night on Earth
+
+SUCESS: Without a Clue
+
+SUCESS: Bad Taste
+
+SUCESS: River's Edge
+
+SUCESS: The Howling
+
+FAILED: Urban Cowboy
+
+SUCESS: Thief
+
+SUCESS: Outland
+
+FAILED: Swelter
+
+SUCESS: The Getaway
+
+FAILED: Dark Star
+
+SUCESS: Picnic at Hanging Rock
+
+SUCESS: King Kong
+
+FAILED: The Deep
+
+SUCESS: The Hills Have Eyes
+
+FAILED: Pumping Iron
+
+FAILED: Any Which Way You Can
+
+FAILED: Stir Crazy
+
+SUCESS: Revenge of the Pink Panther
+
+FAILED: Force 10 from Navarone
+
+SUCESS: Piranha
+
+SUCESS: And Justice for All
+
+SUCESS: The Brood
+
+SUCESS: Tess
+
+FAILED: The Wanderers
+
+FAILED: Friday the 13th Part III
+
+FAILED: Easy Money
+
+FAILED: Against All Odds
+
+FAILED: To Live and Die in L.A.
+
+FAILED: About Last Night
+
+FAILED: The Hitcher
+
+SUCESS: Peggy Sue Got Married
+
+SUCESS: The Texas Chainsaw Massacre 2
+
+FAILED: Youngblood
+
+SUCESS: Prince of Darkness
+
+FAILED: Three O'Clock High
+
+FAILED: Hellbound: Hellraiser II
+
+FAILED: Cyborg
+
+SUCESS: Postcards from the Edge
+
+FAILED: Oscar
+
+SUCESS: Dead Again
+
+FAILED: Harley Davidson and the Marlboro Man
+
+SUCESS: Untamed Heart
+
+FAILED: The Man Without a Face
+
+FAILED: The Program
+
+FAILED: Threesome
+
+SUCESS: The War
+
+FAILED: 2 Days in the Valley
+
+FAILED: The Chamber
+
+FAILED: Flipper
+
+FAILED: Multiplicity
+
+FAILED: Muppet Treasure Island
+
+FAILED: Screamers
+
+FAILED: Michael
+
+FAILED: The Replacement Killers
+
+FAILED: Senseless
+
+SUCESS: Twilight
+
+SUCESS: Halloween H20: 20 Years Later
+
+FAILED: Dick
+
+FAILED: Instinct
+
+FAILED: Play It to the Bone
+
+SUCESS: The Story of Us
+
+FAILED: Teaching Mrs. Tingle
+
+FAILED: Bounce
+
+FAILED: Glitter
+
+FAILED: Sugar & Spice
+
+FAILED: Narc
+
+FAILED: Slackers
+
+FAILED: They
+
+SUCESS: Down with Love
+
+SUCESS: Christmas with the Kranks
+
+SUCESS: Two Brothers
+
+SUCESS: Deck the Halls
+
+FAILED: Reno 911! Miami
+
+FAILED: Meet the Browns
+
+SUCESS: Last Chance Harvey
+
+FAILED: Area 407
+
+FAILED: Growth
+
+FAILED: Legendary
+
+FAILED: The King of Fighters
+
+FAILED: Altitude
+
+FAILED: Crazy on the Outside
+
+FAILED: Arthur et la vengeance de Maltazard
+
+FAILED: The Greatest
+
+FAILED: Stay Cool
+
+SUCESS: From Time to Time
+
+FAILED: The Jerk Theory
+
+FAILED: The Killing Room
+
+SUCESS: Birth
+
+FAILED: Bart Got a Room
+
+FAILED: The Ten
+
+FAILED: Dirty Love
+
+SUCESS: Breakfast on Pluto
+
+FAILED: Hero Wanted
+
+FAILED: Strictly Sexual
+
+FAILED: Until Death
+
+FAILED: Amusement
+
+SUCESS: The Woodsman
+
+SUCESS: Possession
+
+FAILED: Nature's Grave
+
+FAILED: Behind the Mask: The Rise of Leslie Vernon
+
+FAILED: Eros
+
+FAILED: Closure
+
+FAILED: Beer League
+
+FAILED: Lovewrecked
+
+SUCESS: Hounddog
+
+FAILED: 10 Items or Less
+
+FAILED: Solstice
+
+FAILED: The Salton Sea
+
+FAILED: Monsoon Wedding
+
+SUCESS: The Cooler
+
+SUCESS: State and Main
+
+FAILED: Love & Sex
+
+FAILED: Eye See You
+
+FAILED: Nightwatch
+
+FAILED: Bongwater
+
+FAILED: Two Girls and a Guy
+
+SUCESS: Jane Eyre
+
+SUCESS: Waking Ned Devine
+
+FAILED: Beautiful Thing
+
+SUCESS: Thursday
+
+SUCESS: The Pillow Book
+
+SUCESS: The Mighty
+
+FAILED: Trojan War
+
+FAILED: Fist of Legend
+
+FAILED: Canadian Bacon
+
+FAILED: Mighty Aphrodite
+
+SUCESS: The Brave
+
+FAILED: Love Potion No. 9
+
+SUCESS: Sirens
+
+SUCESS: Down by Law
+
+FAILED: The Protector
+
+FAILED: Barfly
+
+FAILED: No Retreat, No Surrender
+
+FAILED: American Gigolo
+
+SUCESS: Inferno
+
+SUCESS: Charlotte's Web
+
+FAILED: American Undercover
+
+FAILED: Parts Per Billion
+
+SUCESS: Stonehearst Asylum
+
+FAILED: About Last Night
+
+FAILED: Young Ones
+
+FAILED: Fallen
+
+FAILED: The Legend of Hercules
+
+FAILED: The Creed of Violence
+
+FAILED: The Kentucky Fried Movie
+
+FAILED: Coming Home
+
+SUCESS: Same Time, Next Year
+
+SUCESS: The Cotton Club
+
+FAILED: The Sure Thing
+
+FAILED: Iron Eagle
+
+SUCESS: Ruthless People
+
+SUCESS: Halloween 4: The Return of Michael Myers
+
+FAILED: Married to the Mob
+
+FAILED: Death Warrant
+
+FAILED: Men at Work
+
+FAILED: Career Opportunities
+
+FAILED: An American Tail: Fievel Goes West
+
+FAILED: Ricochet
+
+FAILED: Andre
+
+SUCESS: The Getaway
+
+FAILED: Renaissance Man
+
+SUCESS: The Cure
+
+FAILED: Devil in a Blue Dress
+
+SUCESS: Father of the Bride Part II
+
+FAILED: Bed of Roses
+
+FAILED: Kazaam
+
+FAILED: The Other Sister
+
+FAILED: Simply Irresistible
+
+FAILED: Autumn in New York
+
+FAILED: The Contender
+
+FAILED: Pokémon the Movie 2000
+
+FAILED: Head Over Heels
+
+FAILED: One Night at McCool's
+
+FAILED: The Emperor's Club
+
+SUCESS: Halloween: Resurrection
+
+FAILED: Anything Else
+
+SUCESS: The Upside of Anger
+
+SUCESS: Dreamer
+
+FAILED: Kickin' It Old Skool
+
+FAILED: Creature
+
+FAILED: The Congress
+
+FAILED: Keith Lemon: The Film
+
+SUCESS: Boy
+
+FAILED: Hole in One
+
+FAILED: The Kings of Mykonos
+
+FAILED: Hunter Prey
+
+FAILED: Hatchet II
+
+FAILED: Primal
+
+FAILED: The Door in the Floor
+
+FAILED: The Dead Girl
+
+FAILED: Haven
+
+FAILED: Scenes of a Sexual Nature
+
+SUCESS: Down in the Valley
+
+FAILED: The Chumscrubber
+
+FAILED: Asterix and the Vikings
+
+FAILED: Dirty Sanchez: The Movie
+
+FAILED: Make It Happen
+
+FAILED: As You Like It
+
+FAILED: Takedown
+
+FAILED: Interstella 5555: The 5tory of the 5ecret 5tar 5ystem
+
+FAILED: Dagon
+
+SUCESS: My Life Without Me
+
+SUCESS: The Man Who Cried
+
+FAILED: Robinson Crusoe
+
+SUCESS: Lone Star
+
+SUCESS: The Last Seduction
+
+FAILED: Foxfire
+
+FAILED: Plump Fiction
+
+SUCESS: Anna Karenina
+
+FAILED: Embrace of the Vampire
+
+FAILED: Across the Tracks
+
+FAILED: Showdown in Little Tokyo
+
+FAILED: State of Grace
+
+FAILED: I'm Gonna Git You Sucka
+
+FAILED: At Close Range
+
+FAILED: Carry on Emmannuelle
+
+SUCESS: Ride Along
+
+FAILED: Solace
+
+FAILED: They Came Together
+
+FAILED: A Little Chaos
+
+SUCESS: Bone Tomahawk
+
+FAILED: The Mechanic
+
+SUCESS: Grey Gardens
+
+SUCESS: Phantom of the Paradise
+
+FAILED: Malicious
+
+SUCESS: A Star Is Born
+
+FAILED: Futureworld
+
+SUCESS: The Little Girl Who Lives Down the Lane
+
+FAILED: Madam Kitty
+
+SUCESS: The Shootist
+
+FAILED: Exorcist II: The Heretic
+
+SUCESS: New York, New York
+
+FAILED: Sorcerer
+
+SUCESS: The Duellists
+
+FAILED: F.I.S.T.
+
+SUCESS: The Long Riders
+
+FAILED: Capricorn One
+
+FAILED: Death on the Nile
+
+SUCESS: Damien: Omen II
+
+SUCESS: The China Syndrome
+
+SUCESS: The Champ
+
+FAILED: Norma Rae
+
+FAILED: The Man with Two Brains
+
+SUCESS: Cannonball Run II
+
+SUCESS: Desperately Seeking Susan
+
+FAILED: Once Bitten
+
+FAILED: Secret Admirer
+
+FAILED: April Fool's Day
+
+FAILED: Psycho III
+
+FAILED: SpaceCamp
+
+FAILED: Creepshow 2
+
+FAILED: Flowers in the Attic
+
+SUCESS: The Hidden
+
+FAILED: The Pick-up Artist
+
+FAILED: Alien Nation
+
+SUCESS: Elvira: Mistress of the Dark
+
+FAILED: Poltergeist III
+
+SUCESS: Three Men and a Little Lady
+
+FAILED: Another 48 Hrs.
+
+FAILED: Look Who's Talking Too
+
+FAILED: Navy Seals
+
+SUCESS: The Prince of Tides
+
+FAILED: Shattered
+
+FAILED: Final Analysis
+
+FAILED: Freejack
+
+FAILED: Honeymoon in Vegas
+
+FAILED: Pure Country
+
+FAILED: Rock-A-Doodle
+
+FAILED: The Crush
+
+FAILED: The Dark Half
+
+SUCESS: Made in America
+
+FAILED: Fearless
+
+FAILED: Heart and Souls
+
+SUCESS: Mr. Jones
+
+FAILED: Tom and Jerry: The Great Escape
+
+FAILED: Exit to Eden
+
+FAILED: I.Q.
+
+SUCESS: No Escape
+
+FAILED: PCU
+
+FAILED: Ready to Wear
+
+SUCESS: The Ref
+
+SUCESS: Tales from the Crypt: Demon Knight
+
+FAILED: National Lampoon's Senior Trip
+
+FAILED: Something to Talk About
+
+SUCESS: Flirting with Disaster
+
+FAILED: The Glimmer Man
+
+FAILED: Harriet the Spy
+
+SUCESS: The Preacher's Wife
+
+SUCESS: An American Werewolf in Paris
+
+SUCESS: Soul Food
+
+FAILED: Major League: Back to the Minors
+
+SUCESS: Primary Colors
+
+FAILED: Return to Paradise
+
+SUCESS: The Rugrats Movie
+
+FAILED: 200 Cigarettes
+
+FAILED: Anywhere But Here
+
+SUCESS: The Rage: Carrie 2
+
+SUCESS: Virus
+
+FAILED: Ready to Rumble
+
+SUCESS: The Adventures of Rocky & Bullwinkle
+
+FAILED: Bait
+
+FAILED: Dr. T & the Women
+
+FAILED: The Watcher
+
+SUCESS: Dr. Dolittle 2
+
+FAILED: Left Behind: The Movie
+
+SUCESS: Valentine
+
+FAILED: Abandon
+
+FAILED: All About the Benjamins
+
+FAILED: Big Trouble
+
+FAILED: Deuces Wild
+
+FAILED: Life or Something Like It
+
+FAILED: How to Deal
+
+FAILED: The In-Laws
+
+FAILED: Mr. 3000
+
+FAILED: Welcome to Mooseport
+
+FAILED: Pooh's Heffalump Movie
+
+FAILED: The Lost City
+
+SUCESS: Unaccompanied Minors
+
+SUCESS: Daddy Day Camp
+
+FAILED: Big Fat Important Movie
+
+FAILED: Last Ounce of Courage
+
+FAILED: Stories We Tell
+
+FAILED: Rogue River
+
+FAILED: Night of the Living Dead 3D: Re-Animation
+
+FAILED: The Viral Factor
+
+FAILED: An Invisible Sign
+
+FAILED: YellowBrickRoad
+
+FAILED: The Traveler
+
+FAILED: Brotherhood
+
+FAILED: Sleepwalking
+
+SUCESS: Camille
+
+FAILED: Boot Camp
+
+FAILED: Melinda and Melinda
+
+FAILED: Chapter 27
+
+FAILED: Red Road
+
+FAILED: Dance of the Dead
+
+FAILED: Dying Breed
+
+SUCESS: Autopsy
+
+SUCESS: Adam Resurrected
+
+SUCESS: Wendy and Lucy
+
+FAILED: A Home at the End of the World
+
+FAILED: Bordertown
+
+FAILED: Being Julia
+
+FAILED: Russian Dolls
+
+FAILED: Henry Poole Is Here
+
+FAILED: Closing the Ring
+
+FAILED: Marilyn Hotchkiss' Ballroom Dancing & Charm School
+
+FAILED: Phoebe in Wonderland
+
+SUCESS: The Black Balloon
+
+FAILED: Five Fingers
+
+FAILED: Ask the Dust
+
+SUCESS: The Tailor of Panama
+
+SUCESS: Hamlet
+
+SUCESS: Young Adam
+
+FAILED: Beautiful Creatures
+
+FAILED: Ripley's Game
+
+FAILED: Happy Accidents
+
+FAILED: The Big Empty
+
+SUCESS: Buffalo Soldiers
+
+SUCESS: Igby Goes Down
+
+FAILED: People I Know
+
+FAILED: Don's Plum
+
+FAILED: Dorm Daze
+
+FAILED: Poolhall Junkies
+
+FAILED: Sonny
+
+FAILED: Welcome to Collinwood
+
+FAILED: It's All About Love
+
+FAILED: The Sleeping Dictionary
+
+FAILED: The Crow: Salvation
+
+FAILED: Tarzan & Jane
+
+SUCESS: Gerry
+
+SUCESS: Jude
+
+SUCESS: Bullets Over Broadway
+
+FAILED: Snow White: A Tale of Terror
+
+FAILED: Sleep with Me
+
+SUCESS: Waiting for Guffman
+
+SUCESS: Brassed Off
+
+FAILED: Kicking and Screaming
+
+SUCESS: Secrets & Lies
+
+SUCESS: The Portrait of a Lady
+
+FAILED: Bullet
+
+FAILED: Serial Mom
+
+FAILED: Little Voice
+
+SUCESS: Smoke
+
+FAILED: The Last Days of Disco
+
+FAILED: Kickboxer 3: The Art of War
+
+FAILED: Meet the Feebles
+
+SUCESS: Searching for Bobby Fischer
+
+FAILED: New York Stories
+
+FAILED: Private Resort
+
+FAILED: Black Eagle
+
+SUCESS: Vampire's Kiss
+
+SUCESS: Moonwalker
+
+SUCESS: Children of a Lesser God
+
+SUCESS: The Long Good Friday
+
+SUCESS: The Big Red One
+
+FAILED: Brainstorm
+
+FAILED: Private Lessons
+
+FAILED: Ilsa: She Wolf of the SS
+
+SUCESS: Miss Julie
+
+FAILED: Rosewater
+
+FAILED: Infinity: Chronicles of Nick
+
+SUCESS: Shampoo
+
+SUCESS: Nashville
+
+FAILED: Love and Death
+
+FAILED: The Stepford Wives
+
+FAILED: The Night Porter
+
+SUCESS: Alice Doesn't Live Here Anymore
+
+SUCESS: The Last Detail
+
+FAILED: The Legend of Hell House
+
+FAILED: Deep Red
+
+FAILED: The Last Tycoon
+
+FAILED: That Obscure Object of Desire
+
+SUCESS: The Last Waltz
+
+FAILED: Private Benjamin
+
+FAILED: Dragonslayer
+
+SUCESS: The Wild Geese
+
+SUCESS: Nosferatu the Vampyre
+
+FAILED: The Best Little Whorehouse in Texas
+
+FAILED: Halloween III: Season of the Witch
+
+SUCESS: Blue Thunder
+
+FAILED: Porky's II: The Next Day
+
+SUCESS: Dreamscape
+
+FAILED: No Small Affair
+
+FAILED: American Warrior
+
+FAILED: A Chorus Line
+
+FAILED: Friday the 13th: A New Beginning
+
+FAILED: The Legend of Billie Jean
+
+SUCESS: Runaway Train
+
+SUCESS: Heartburn
+
+FAILED: Friday the 13th Part VI: Jason Lives
+
+FAILED: Troll
+
+FAILED: Stakeout
+
+SUCESS: The Fabulous Baker Boys
+
+FAILED: Halloween 5: The Revenge of Michael Myers
+
+FAILED: Loverboy
+
+FAILED: The Serpent and the Rainbow
+
+SUCESS: The Seventh Sign
+
+FAILED: We're No Angels
+
+FAILED: The Adventures of Ford Fairlane
+
+FAILED: Criminal Law
+
+FAILED: Police Academy 6: City Under Siege
+
+FAILED: Mr. Destiny
+
+SUCESS: Nightbreed
+
+FAILED: Eve of Destruction
+
+FAILED: L.A. Story
+
+FAILED: Billy Bathgate
+
+FAILED: Mobsters
+
+FAILED: Class Act
+
+FAILED: The Distinguished Gentleman
+
+SUCESS: Gladiator
+
+FAILED: Innocent Blood
+
+FAILED: Unlawful Entry
+
+FAILED: The Adventures of Huck Finn
+
+FAILED: Beethoven's 2nd
+
+FAILED: For Love or Money
+
+SUCESS: Needful Things
+
+FAILED: Blue Chips
+
+FAILED: The Cowboy Way
+
+FAILED: Drop Zone
+
+FAILED: My Father the Hero
+
+FAILED: Police Academy: Mission to Moscow
+
+FAILED: Terminal Velocity
+
+FAILED: With Honors
+
+FAILED: Highlander: The Final Dimension
+
+SUCESS: Supercop
+
+FAILED: Clockers
+
+SUCESS: Fair Game
+
+FAILED: Hideaway
+
+FAILED: Man of the House
+
+FAILED: Tall Tale
+
+FAILED: Tom and Huck
+
+FAILED: Hellraiser: Bloodline
+
+FAILED: Homeward Bound II: Lost in San Francisco
+
+FAILED: House Arrest
+
+FAILED: The Rich Man's Wife
+
+FAILED: A Thin Line Between Love and Hate
+
+FAILED: Up Close & Personal
+
+SUCESS: Ghosts of Mississippi
+
+SUCESS: Excess Baggage
+
+SUCESS: Gridlock'd
+
+FAILED: How to Be a Player
+
+FAILED: First Strike
+
+FAILED: Leave It to Beaver
+
+FAILED: The Man Who Knew Too Little
+
+FAILED: Wild America
+
+SUCESS: Bulworth
+
+FAILED: Hush
+
+FAILED: Mafia!
+
+FAILED: Mr. Nice Guy
+
+FAILED: Phantoms
+
+FAILED: Edtv
+
+SUCESS: An Ideal Husband
+
+SUCESS: Small Time Crooks
+
+FAILED: American Outlaws
+
+FAILED: The Brothers
+
+SUCESS: The Curse of the Jade Scorpion
+
+FAILED: Just Visiting
+
+FAILED: The Musketeer
+
+FAILED: Pokémon 3 the Movie: Spell of the Unown
+
+FAILED: See Spot Run
+
+FAILED: Two Can Play That Game
+
+FAILED: What's the Worst That Could Happen?
+
+FAILED: City by the Sea
+
+FAILED: Clockstoppers
+
+SUCESS: Feardotcom
+
+FAILED: Sorority Boys
+
+FAILED: From Justin to Kelly
+
+FAILED: Head of State
+
+FAILED: Piglet's Big Movie
+
+FAILED: The Cookout
+
+FAILED: Phat Girlz
+
+SUCESS: The Nativity Story
+
+FAILED: Code Name: The Cleaner
+
+FAILED: Delta Farce
+
+FAILED: The Hoax
+
+FAILED: First Sunday
+
+FAILED: Delgo
+
+FAILED: The Haunting of Molly Hartley
+
+FAILED: Bending the Rules
+
+FAILED: Death Defying Acts
+
+SUCESS: The Long Weekend
+
+FAILED: Happy Endings
+
+FAILED: The Good Night
+
+SUCESS: Unstoppable
+
+FAILED: The Flock
+
+FAILED: Nine Lives
+
+FAILED: Mrs. Henderson Presents
+
+FAILED: Grace Is Gone
+
+FAILED: .45
+
+SUCESS: Manderlay
+
+FAILED: The Other End of the Line
+
+FAILED: Into the Sun
+
+SUCESS: Venom
+
+FAILED: Gone
+
+SUCESS: Eagle vs Shark
+
+FAILED: The Objective
+
+FAILED: The Thief Lord
+
+FAILED: Dakota Skye
+
+FAILED: Driving Lessons
+
+FAILED: Come Early Morning
+
+SUCESS: Itty Bitty Titty Committee
+
+FAILED: Snow Angels
+
+FAILED: Whisper
+
+SUCESS: American Violet
+
+SUCESS: Angel
+
+SUCESS: Undertow
+
+FAILED: 2:37
+
+FAILED: The Cake Eaters
+
+SUCESS: Hope Springs
+
+FAILED: Real Women Have Curves
+
+FAILED: Laurel Canyon
+
+SUCESS: Gangster No. 1
+
+SUCESS: Holy Smoke
+
+SUCESS: Intermission
+
+FAILED: Vampire Hunter D: Bloodlust
+
+FAILED: Ordinary Decent Criminal
+
+FAILED: Foolproof
+
+SUCESS: The Dish
+
+FAILED: Made
+
+FAILED: To End All Wars
+
+FAILED: Scorched
+
+FAILED: Richard III
+
+FAILED: Mad Dog Time
+
+FAILED: One Night Stand
+
+FAILED: Dark Harbor
+
+FAILED: Critters 3
+
+FAILED: Killing Zoe
+
+FAILED: Body Snatchers
+
+SUCESS: The Handmaid's Tale
+
+FAILED: Cool as Ice
+
+FAILED: Manhattan Murder Mystery
+
+FAILED: Sleepaway Camp II: Unhappy Campers
+
+FAILED: Demons
+
+FAILED: Pumpkinhead
+
+SUCESS: Kiss of the Spider Woman
+
+SUCESS: The Purple Rose of Cairo
+
+SUCESS: Rad
+
+FAILED: Waxwork
+
+FAILED: Birdy
+
+FAILED: The Last American Virgin
+
+FAILED: My Bloody Valentine
+
+SUCESS: Maniac
+
+FAILED: Southern Comfort
+
+FAILED: Summer Lovers
+
+FAILED: Shogun Assassin
+
+FAILED: Galaxina
+
+SUCESS: Testament
+
+FAILED: Over the Edge
+
+SUCESS: Diner
+
+FAILED: A Haunted House 2
+
+FAILED: Suite Française
+
+FAILED: Brick Mansions
+
+FAILED: The Single Moms Club
+
+FAILED: Son of a Gun
+
+FAILED: Scarecrow
+
+FAILED: Walking Tall
+
+FAILED: The Passenger
+
+SUCESS: Black Christmas
+
+FAILED: Thriller: A Cruel Picture
+
+FAILED: Cahill U.S. Marshal
+
+FAILED: Emmanuelle II
+
+FAILED: Assault on Precinct 13
+
+FAILED: The Missouri Breaks
+
+FAILED: The Gauntlet
+
+FAILED: Wizards
+
+FAILED: Black Sunday
+
+FAILED: The Car
+
+FAILED: Coma
+
+SUCESS: Smokey and the Bandit II
+
+FAILED: The Final Conflict
+
+FAILED: The Driver
+
+FAILED: Foul Play
+
+SUCESS: Arabian Nights
+
+FAILED: Dead Men Don't Wear Plaid
+
+FAILED: City Heat
+
+FAILED: Hardbodies
+
+FAILED: Harry & Son
+
+FAILED: Tightrope
+
+FAILED: Johnny Dangerously
+
+FAILED: Jumpin' Jack Flash
+
+SUCESS: Something Wild
+
+FAILED: Back to the Beach
+
+FAILED: Ernest Goes to Camp
+
+SUCESS: Ironweed
+
+FAILED: Malone
+
+SUCESS: Project X
+
+FAILED: For Keeps?
+
+FAILED: Friday the 13th Part VIII: Jason Takes Manhattan
+
+FAILED: Johnny Be Good
+
+FAILED: The Presidio
+
+FAILED: Hardware
+
+FAILED: Troop Beverly Hills
+
+FAILED: Pacific Heights
+
+FAILED: Stone Cold
+
+FAILED: Switch
+
+FAILED: Ernest Scared Stupid
+
+SUCESS: Hero
+
+FAILED: Leap of Faith
+
+FAILED: Mr. Baseball
+
+FAILED: CB4
+
+FAILED: Mad Dog and Glory
+
+FAILED: Nowhere to Run
+
+FAILED: Judgment Night
+
+FAILED: The Chase
+
+FAILED: Cops and Robbersons
+
+FAILED: Greedy
+
+FAILED: House Party 3
+
+FAILED: I Love Trouble
+
+FAILED: Mixed Nuts
+
+FAILED: On Deadly Ground
+
+FAILED: Surviving the Game
+
+FAILED: The Big Green
+
+FAILED: Jade
+
+FAILED: Kiss of Death
+
+FAILED: Maximum Risk
+
+FAILED: The Truth About Cats & Dogs
+
+SUCESS: Fire Down Below
+
+FAILED: For Richer or Poorer
+
+FAILED: Love Jones
+
+FAILED: The Relic
+
+FAILED: She's So Lovely
+
+FAILED: The Sixth Man
+
+FAILED: Wishmaster
+
+SUCESS: Dance with Me
+
+FAILED: Wrongfully Accused
+
+SUCESS: The Deep End of the Ocean
+
+FAILED: Jakob the Liar
+
+FAILED: Mickey Blue Eyes
+
+FAILED: Music of the Heart
+
+FAILED: Snow Falling on Cedars
+
+FAILED: Wing Commander
+
+SUCESS: Black & White
+
+SUCESS: Nurse Betty
+
+SUCESS: Rugrats in Paris
+
+FAILED: Max Keeble's Big Move
+
+FAILED: Monkeybone
+
+FAILED: Dark Blue
+
+FAILED: Rugrats Go Wild
+
+FAILED: Agent Cody Banks 2: Destination London
+
+FAILED: Breakin' All the Rules
+
+FAILED: Loverboy
+
+FAILED: For Your Consideration
+
+SUCESS: Fly Me to the Moon 3D
+
+FAILED: Nothing Like the Holidays
+
+FAILED: Kokoda: 39th Battalion
+
+FAILED: White Noise 2: The Light
+
+FAILED: The Crow: Wicked Prayer
+
+SUCESS: Pretty Persuasion
+
+FAILED: Another Gay Sequel: Gays Gone Wild!
+
+FAILED: Conversations with Other Women
+
+FAILED: The Big White
+
+FAILED: Kabhi Alvida Naa Kehna
+
+FAILED: First Snow
+
+FAILED: Sherrybaby
+
+FAILED: The Mysteries of Pittsburgh
+
+FAILED: Elvis and Anabelle
+
+FAILED: Eating Out
+
+FAILED: Scar
+
+FAILED: Margot at the Wedding
+
+FAILED: I Sell the Dead
+
+FAILED: Joshua
+
+FAILED: The Killing Gene
+
+FAILED: Mulligans
+
+FAILED: The Grand
+
+FAILED: Shadowboxer
+
+FAILED: Ladies in Lavender
+
+FAILED: Wicked Little Things
+
+FAILED: Flood
+
+FAILED: Suburban Girl
+
+FAILED: Feed
+
+FAILED: Mama's Boy
+
+FAILED: Book of Love
+
+SUCESS: Vera Drake
+
+FAILED: The Darwin Awards
+
+FAILED: The Tracey Fragments
+
+FAILED: Lies and Alibis
+
+FAILED: Right at Your Door
+
+FAILED: Boy Culture
+
+FAILED: Prey
+
+SUCESS: Shotgun Stories
+
+FAILED: Dungeons & Dragons: Wrath of the Dragon God
+
+FAILED: Bella
+
+FAILED: All the Real Girls
+
+FAILED: I Am David
+
+FAILED: Rabbits
+
+FAILED: About Adam
+
+FAILED: A Walk on the Moon
+
+SUCESS: Two Hands
+
+FAILED: Close Your Eyes
+
+FAILED: The Guru
+
+FAILED: Replicant
+
+SUCESS: The Slaughter Rule
+
+FAILED: The Center of the World
+
+FAILED: Storytelling
+
+SUCESS: The Grey Zone
+
+SUCESS: Tea with Mussolini
+
+FAILED: Nine Lives
+
+FAILED: Crush
+
+FAILED: Girlfight
+
+SUCESS: The War Zone
+
+FAILED: Texas Rangers
+
+FAILED: The Reckoning
+
+SUCESS: My Family
+
+FAILED: Bastard Out of Carolina
+
+FAILED: The Assignment
+
+FAILED: Sister My Sister
+
+FAILED: Legionnaire
+
+FAILED: Nowhere
+
+FAILED: Die Hard Dracula
+
+FAILED: Texas Chainsaw Massacre: The Next Generation
+
+SUCESS: Twelfth Night
+
+SUCESS: The Last Supper
+
+FAILED: Santa Sangre
+
+FAILED: The Thing Called Love
+
+FAILED: Close My Eyes
+
+FAILED: A Midnight Clear
+
+FAILED: Sleepaway Camp III: Teenage Wasteland
+
+FAILED: Gleaming the Cube
+
+FAILED: Robot Jox
+
+FAILED: The Cement Garden
+
+FAILED: South Central
+
+FAILED: The Trip to Bountiful
+
+FAILED: Meatballs III: Summer Job
+
+FAILED: Mio in the Land of Faraway
+
+FAILED: Maurice
+
+SUCESS: Radio Days
+
+FAILED: The Stuff
+
+SUCESS: Mona Lisa
+
+FAILED: Used Cars
+
+FAILED: Brubaker
+
+FAILED: Zelig
+
+SUCESS: The French Lieutenant's Woman
+
+FAILED: City of the Living Dead
+
+SUCESS: Educating Rita
+
+FAILED: The Great Muppet Caper
+
+SUCESS: Merry Christmas Mr. Lawrence
+
+FAILED: The Great Train Robbery
+
+FAILED: Trinity
+
+FAILED: Tracers
+
+FAILED: Oculus
+
+FAILED: The Curse of Downers Grove
+
+FAILED: Born to Be King
+
+FAILED: Supervixens
+
+SUCESS: Earthquake
+
+FAILED: Deep Throat Part II
+
+FAILED: Fantastic Planet
+
+SUCESS: Car Wash
+
+FAILED: Bobby Deerfield
+
+FAILED: Julia
+
+FAILED: Damnation Alley
+
+FAILED: Three Women
+
+FAILED: The Fury
+
+FAILED: Nighthawks
+
+FAILED: California Suite
+
+SUCESS: Luna
+
+FAILED: When a Stranger Calls
+
+FAILED: Paradise
+
+FAILED: Doctor Detroit
+
+FAILED: Something Wicked This Way Comes
+
+FAILED: Spring Break
+
+FAILED: Uncommon Valor
+
+FAILED: Yellowbeard
+
+SUCESS: All of Me
+
+FAILED: Amityville II: The Possession
+
+FAILED: Missing in Action
+
+FAILED: Oxford Blues
+
+FAILED: Places in the Heart
+
+FAILED: Runaway
+
+FAILED: Jagged Edge
+
+FAILED: Porky's Revenge
+
+FAILED: Prizzi's Honor
+
+FAILED: Pirates
+
+FAILED: Soul Man
+
+FAILED: Baby Boom
+
+FAILED: The Big Easy
+
+SUCESS: Caddyshack II
+
+FAILED: Friday the 13th Part VII: The New Blood
+
+FAILED: My Stepmother Is an Alien
+
+FAILED: Phantasm II
+
+FAILED: No Holds Barred
+
+FAILED: Delta Force 2: The Colombian Connection
+
+SUCESS: Green Card
+
+FAILED: White Palace
+
+SUCESS: The Five Heartbeats
+
+FAILED: The Hard Way
+
+FAILED: King Ralph
+
+FAILED: Soapdish
+
+FAILED: Dying Young
+
+SUCESS: Husbands and Wives
+
+FAILED: Ladybugs
+
+FAILED: Sommersby
+
+FAILED: Jason Goes to Hell: The Final Friday
+
+FAILED: Only the Strong
+
+FAILED: Surf Ninjas
+
+FAILED: Weekend at Bernie's II
+
+FAILED: Double Dragon
+
+FAILED: I'll Do Anything
+
+FAILED: Iron Will
+
+FAILED: Monkey Trouble
+
+FAILED: Forget Paris
+
+FAILED: Home for the Holidays
+
+FAILED: City Hall
+
+FAILED: Extreme Measures
+
+FAILED: Feeling Minnesota
+
+FAILED: High School High
+
+FAILED: Kull the Conqueror
+
+FAILED: Metro
+
+FAILED: Most Wanted
+
+FAILED: Dead Man on Campus
+
+FAILED: How Stella Got Her Groove Back
+
+FAILED: At First Sight
+
+FAILED: Three to Tango
+
+FAILED: Here on Earth
+
+FAILED: Snow Day
+
+FAILED: The Wash
+
+FAILED: The Powerpuff Girls Movie
+
+SUCESS: Stealing Harvard
+
+FAILED: Alex & Emma
+
+FAILED: Barbershop 2: Back in Business
+
+SUCESS: Surviving Christmas
+
+FAILED: In the Mix
+
+FAILED: Art School Confidential
+
+FAILED: The Night Listener
+
+SUCESS: The Return
+
+FAILED: The Abandoned
+
+FAILED: The Brothers Solomon
+
+FAILED: Primeval
+
+FAILED: God Help the Girl
+
+FAILED: Freezing People Is Easy
+
+FAILED: Loaded
+
+SUCESS: The Heart Is Deceitful Above All Things
+
+FAILED: One-Eyed Monster
+
+FAILED: Trust the Man
+
+FAILED: The Dark
+
+FAILED: Stone of Destiny
+
+FAILED: Griffin & Phoenix
+
+SUCESS: The Woods
+
+FAILED: The Clearing
+
+FAILED: The Tattooist
+
+FAILED: Strings
+
+FAILED: Botched
+
+FAILED: Fugitive Pieces
+
+FAILED: Duma
+
+FAILED: The Betrayed
+
+FAILED: Man About Town
+
+FAILED: Irresistible
+
+FAILED: End Game
+
+FAILED: Anamorph
+
+FAILED: Man-Thing
+
+SUCESS: The Stone Angel
+
+FAILED: Game 6
+
+SUCESS: Dante's Inferno
+
+SUCESS: Jindabyne
+
+FAILED: Dedication
+
+FAILED: Saving Face
+
+FAILED: Unrest
+
+FAILED: Private Valentine: Blonde & Dangerous
+
+FAILED: From Within
+
+SUCESS: Disgrace
+
+FAILED: Just Add Water
+
+FAILED: Keeping Up with the Steins
+
+FAILED: Mozart and the Whale
+
+FAILED: Finding Amanda
+
+SUCESS: Venus
+
+FAILED: Puff, Puff, Pass
+
+SUCESS: Factotum
+
+FAILED: Stuck
+
+FAILED: The Reef
+
+FAILED: Macbeth
+
+FAILED: The Oh in Ohio
+
+FAILED: Boy Eats Girl
+
+FAILED: Naked Fear
+
+FAILED: August
+
+FAILED: Bad Biology
+
+FAILED: The Hammer
+
+FAILED: Fling
+
+FAILED: The Limey
+
+FAILED: Tiptoes
+
+FAILED: Pokémon Heroes
+
+FAILED: Versus
+
+FAILED: Derailed
+
+SUCESS: Human Nature
+
+FAILED: Roger Dodger
+
+FAILED: Sweet Sixteen
+
+FAILED: Flawless
+
+FAILED: Better Luck Tomorrow
+
+SUCESS: L.I.E.
+
+SUCESS: Pride and Prejudice
+
+FAILED: Essex Boys
+
+SUCESS: Bang Bang You're Dead
+
+SUCESS: Amen.
+
+SUCESS: The Wings of the Dove
+
+FAILED: Death and the Maiden
+
+FAILED: Blue Sky
+
+FAILED: The Spanish Prisoner
+
+FAILED: Nil by Mouth
+
+FAILED: Street Fighter II: The Animated Movie
+
+SUCESS: I.D.
+
+FAILED: Curdled
+
+FAILED: Clay Pigeons
+
+FAILED: Hurlyburly
+
+FAILED: Bordello of Blood
+
+SUCESS: Hell's Kitchen
+
+SUCESS: The Butcher Boy
+
+FAILED: Mi vida loca
+
+FAILED: Into the West
+
+FAILED: Under Suspicion
+
+FAILED: Wide Sargasso Sea
+
+FAILED: Cutting Class
+
+FAILED: Society
+
+FAILED: Mystery Train
+
+FAILED: Zandalee
+
+SUCESS: Europa
+
+FAILED: Even Cowgirls Get the Blues
+
+FAILED: Night of the Creeps
+
+SUCESS: Double Trouble
+
+FAILED: Fandango
+
+SUCESS: Running on Empty
+
+SUCESS: My Beautiful Laundrette
+
+FAILED: The Milagro Beanfield War
+
+FAILED: Flesh+Blood
+
+FAILED: Night of the Demons
+
+FAILED: For Queen & Country
+
+FAILED: The Stepfather
+
+FAILED: Eye of the Needle
+
+FAILED: Lady Chatterley's Lover
+
+FAILED: Nice Dreams
+
+FAILED: Fire and Ice
+
+SUCESS: Caveman
+
+FAILED: Saturn 3
+
+FAILED: Stardust Memories
+
+SUCESS: Aloft
+
+FAILED: Amityville: The Awakening
+
+FAILED: Wild Side
+
+FAILED: Sisters
+
+SUCESS: Bite the Bullet
+
+FAILED: Sweet Movie
+
+SUCESS: The Sugarland Express
+
+FAILED: Herbie Rides Again
+
+FAILED: Shivers
+
+SUCESS: Silent Movie
+
+FAILED: The Big Bus
+
+SUCESS: Stay Hungry
+
+FAILED: Race for Your Life, Charlie Brown
+
+FAILED: Twilight's Last Gleaming
+
+FAILED: Straight Time
+
+FAILED: When Time Ran Out...
+
+FAILED: The Legend of the Lone Ranger
+
+SUCESS: Autumn Sonata
+
+FAILED: Attack of the Killer Tomatoes!
+
+FAILED: The Cat from Outer Space
+
+FAILED: Dracula
+
+SUCESS: Hardcore
+
+FAILED: Scum
+
+FAILED: Trail of the Pink Panther
+
+FAILED: D.C. Cab
+
+FAILED: Still Smokin
+
+FAILED: Sheena
+
+FAILED: My Science Project
+
+FAILED: Tuff Turf
+
+SUCESS: Year of the Dragon
+
+FAILED: The Best of Times
+
+FAILED: The Boy Who Could Fly
+
+FAILED: Down and Out in Beverly Hills
+
+FAILED: Firewalker
+
+FAILED: The Bear
+
+FAILED: High Spirits
+
+FAILED: Next of Kin
+
+FAILED: Return of the Living Dead II
+
+FAILED: Shocker
+
+FAILED: Cadillac Man
+
+FAILED: Fire Birds
+
+FAILED: Dream a Little Dream
+
+FAILED: The Dream Team
+
+FAILED: Fletch Lives
+
+FAILED: The Fly II
+
+FAILED: Ghost Dad
+
+FAILED: I Love You to Death
+
+FAILED: Quick Change
+
+FAILED: Tales from the Darkside: The Movie
+
+FAILED: Mannequin: On the Move
+
+FAILED: The Doctor
+
+FAILED: Necessary Roughness
+
+SUCESS: Rush
+
+FAILED: Suburban Commando
+
+FAILED: Split Second
+
+FAILED: My Life
+
+FAILED: 3 Ninjas Kick Back
+
+FAILED: In the Army Now
+
+FAILED: The Road to Wellville
+
+FAILED: The Scout
+
+FAILED: Angus
+
+FAILED: Lord of Illusions
+
+FAILED: Joe's Apartment
+
+SUCESS: Sgt. Bilko
+
+FAILED: Dear God
+
+FAILED: FairyTale: A True Story
+
+FAILED: Playing God
+
+FAILED: A Simple Wish
+
+FAILED: Turbo: A Power Rangers Movie
+
+FAILED: Black Dog
+
+FAILED: Holy Man
+
+FAILED: The Bachelor
+
+FAILED: The Corruptor
+
+SUCESS: Crazy in Alabama
+
+FAILED: The Out-of-Towners
+
+SUCESS: Urban Legends: Final Cut
+
+FAILED: Corky Romano
+
+FAILED: Recess: School's Out
+
+FAILED: Say It Isn't So
+
+FAILED: Ballistic: Ecks vs. Sever
+
+FAILED: Hollywood Ending
+
+FAILED: Serving Sara
+
+SUCESS: The Wild Thornberrys
+
+FAILED: The Divorce
+
+FAILED: Willard
+
+FAILED: Never Die Alone
+
+FAILED: Idlewild
+
+FAILED: Aqua Teen Hunger Force Colon Movie Film for Theaters
+
+FAILED: Firehouse Dog
+
+SUCESS: Pride
+
+FAILED: Nobel Son
+
+FAILED: Witless Protection
+
+FAILED: The Mighty Macs
+
+FAILED: The Last Days on Mars
+
+FAILED: It's Alive
+
+FAILED: Freakdog
+
+FAILED: Dead Scared
+
+FAILED: Slipstream
+
+FAILED: 2001 Maniacs
+
+FAILED: Cthulhu
+
+FAILED: Her Best Move
+
+FAILED: Miss Conception
+
+FAILED: Illegal Tender
+
+SUCESS: The Secret Life of Words
+
+FAILED: Winter Passing
+
+FAILED: The Take
+
+FAILED: Dead Tone
+
+FAILED: In Search of a Midnight Kiss
+
+FAILED: Tristram Shandy
+
+FAILED: Strangers with Candy
+
+FAILED: Samoan Wedding
+
+SUCESS: Stage Beauty
+
+FAILED: The Flight Before Christmas
+
+FAILED: Reefer Madness: The Movie Musical
+
+FAILED: Imaginary Heroes
+
+FAILED: The Mistress of Spices
+
+SUCESS: The Children of Huang Shi
+
+FAILED: Friendship
+
+FAILED: Going the Distance
+
+FAILED: Neverwas
+
+SUCESS: The King
+
+FAILED: Exit Speed
+
+FAILED: Train
+
+SUCESS: Toolbox Murders
+
+FAILED: We Don't Live Here Anymore
+
+FAILED: The Merry Gentleman
+
+FAILED: Babysitter Wanted
+
+FAILED: The Gene Generation
+
+FAILED: Pokémon the Movie: Destiny Deoxys
+
+FAILED: Mother of Tears
+
+FAILED: Yes
+
+FAILED: Noel
+
+FAILED: Five Children and It
+
+FAILED: Duets
+
+SUCESS: I Capture the Castle
+
+FAILED: The Weight of Water
+
+FAILED: Heavy Metal 2000
+
+FAILED: Undead
+
+FAILED: Kolobos
+
+FAILED: Pokemon 4Ever: Celebi - Voice of the Forest
+
+FAILED: Moonlight Mile
+
+FAILED: Metropolis
+
+SUCESS: Lovely & Amazing
+
+FAILED: The Mother
+
+SUCESS: Bamboozled
+
+FAILED: Brother
+
+FAILED: The Dangerous Lives of Altar Boys
+
+FAILED: Lantana
+
+SUCESS: Julien Donkey-Boy
+
+FAILED: Haunted
+
+FAILED: Homegrown
+
+FAILED: Wide Awake
+
+FAILED: The Crossing Guard
+
+FAILED: The Incredibly True Adventure of Two Girls in Love
+
+SUCESS: The Patriot
+
+FAILED: Billboard Dad
+
+FAILED: Being Human
+
+SUCESS: Croupier
+
+SUCESS: The Proposition
+
+FAILED: Delta of Venus
+
+FAILED: Safe
+
+FAILED: Texasville
+
+FAILED: Blown Away
+
+FAILED: Return of the Living Dead III
+
+SUCESS: The Sheltering Sky
+
+SUCESS: The BFG
+
+FAILED: The Field
+
+FAILED: Truly Madly Deeply
+
+SUCESS: Mo' Better Blues
+
+FAILED: Mississippi Masala
+
+FAILED: Necronomicon: Book of Dead
+
+FAILED: The Package
+
+SUCESS: Rambling Rose
+
+SUCESS: Little Nemo: Adventures in Slumberland
+
+FAILED: The Indian Runner
+
+FAILED: Red Rock West
+
+SUCESS: Angel
+
+SUCESS: Cherry 2000
+
+FAILED: A Soldier's Story
+
+FAILED: 1969
+
+FAILED: The Hotel New Hampshire
+
+FAILED: A Cry in the Dark
+
+FAILED: Brain Damage
+
+FAILED: Losin' It
+
+SUCESS: Ragtime
+
+FAILED: Swamp Thing
+
+FAILED: Basket Case
+
+FAILED: Death Wish II
+
+FAILED: Beneath the Valley of the Ultra-Vixens
+
+FAILED: Little Darlings
+
+FAILED: Cooley High
+
+FAILED: I Wanna Hold Your Hand
+
+FAILED: Dynamo
+
+FAILED: Hidden in the Woods
+
+FAILED: Icarus Factor
+
+SUCESS: Brooklyn
+
+FAILED: Rage
+
+FAILED: Words and Pictures
+
+FAILED: The Chronicles of Rick Roll
+
+FAILED: Jessabelle
+
+FAILED: The Crazies
+
+FAILED: Night Moves
+
+SUCESS: Day for Night
+
+SUCESS: La Grande Bouffe
+
+FAILED: The Spirit of the Beehive
+
+SUCESS: The Goodbye Girl
+
+FAILED: Herbie Goes to Monte Carlo
+
+FAILED: Jabberwocky
+
+FAILED: Rolling Thunder
+
+FAILED: The Nude Bomb
+
+SUCESS: Magic
+
+SUCESS: The Electric Horseman
+
+FAILED: The Onion Field
+
+FAILED: Deathtrap
+
+FAILED: Hot Dog... The Movie
+
+FAILED: The Man with One Red Shoe
+
+FAILED: Remo Williams: The Adventure Begins
+
+FAILED: Stick
+
+FAILED: F/X
+
+FAILED: Born in East L.A.
+
+FAILED: North Shore
+
+FAILED: Action Jackson
+
+SUCESS: Big Business
+
+FAILED: Bright Lights, Big City
+
+FAILED: Casual Sex?
+
+FAILED: Critters 2: The Main Course
+
+FAILED: Dead Heat
+
+FAILED: Pink Cadillac
+
+FAILED: Shag
+
+FAILED: Three Fugitives
+
+FAILED: The Russia House
+
+FAILED: All I Want for Christmas
+
+FAILED: Bebe's Kids
+
+FAILED: Jennifer 8
+
+FAILED: Memoirs of an Invisible Man
+
+FAILED: Mo' Money
+
+FAILED: Thunderheart
+
+FAILED: Trespass
+
+FAILED: Children of the Corn II: The Final Sacrifice
+
+SUCESS: Cop & ½
+
+FAILED: Sidekicks
+
+FAILED: Flesh and Bone
+
+FAILED: Mr. Nanny
+
+FAILED: Brainscan
+
+FAILED: Guarding Tess
+
+FAILED: A Low Down Dirty Shame
+
+FAILED: Milk Money
+
+FAILED: Candyman: Farewell to the Flesh
+
+FAILED: How to Make an American Quilt
+
+FAILED: Losing Isaiah
+
+FAILED: Magic in the Water
+
+FAILED: Before and After
+
+FAILED: The Great White Hype
+
+FAILED: Race the Sun
+
+FAILED: My Fellow Americans
+
+FAILED: Gang Related
+
+SUCESS: Free Willy 3: The Rescue
+
+FAILED: Mad City
+
+FAILED: Desperate Measures
+
+FAILED: Woo
+
+FAILED: I'll Be Home for Christmas
+
+FAILED: Living Out Loud
+
+FAILED: One True Thing
+
+FAILED: In Too Deep
+
+FAILED: Outside Providence
+
+FAILED: Eye of the Beholder
+
+FAILED: What Planet Are You From?
+
+FAILED: Bless the Child
+
+FAILED: I Dreamed of Africa
+
+FAILED: Empire
+
+FAILED: Pinocchio
+
+FAILED: My Baby's Daddy
+
+SUCESS: Dougal: American Edition
+
+FAILED: The Perfect Holiday
+
+FAILED: The Oogieloves in the Big Balloon Adventure
+
+SUCESS: Rory O'Shea Was Here
+
+FAILED: Chaos
+
+FAILED: ThanksKilling
+
+FAILED: Snow Cake
+
+FAILED: Dark Floors
+
+FAILED: The World Unseen
+
+FAILED: Magicians
+
+FAILED: London to Brighton
+
+FAILED: Boogeyman 2
+
+SUCESS: Ellie Parker
+
+FAILED: Flight of the Living Dead
+
+FAILED: Dream Boy
+
+FAILED: Zombie Diaries
+
+SUCESS: Edmond
+
+FAILED: The Zodiac
+
+FAILED: The Wendell Baker Story
+
+FAILED: Wieners
+
+FAILED: Chromophobia
+
+SUCESS: Ginger Snaps 2: Unleashed
+
+FAILED: The Last Shot
+
+FAILED: P.S.
+
+FAILED: Jack Brooks: Monster Slayer
+
+FAILED: Dead Birds
+
+FAILED: Fat Slags
+
+FAILED: Blonde Ambition
+
+FAILED: Flakes
+
+FAILED: The Groomsmen
+
+FAILED: Criminal
+
+FAILED: The Go-Getter
+
+FAILED: Cold Showers
+
+FAILED: Gray Matters
+
+SUCESS: Control
+
+FAILED: $5 a Day
+
+FAILED: Unearthed
+
+FAILED: Pervert!
+
+FAILED: Hush
+
+FAILED: Adam and Eve
+
+FAILED: A Little Trip to Heaven
+
+FAILED: Ninja Cheerleaders
+
+FAILED: 5ive Girls
+
+FAILED: A Film with Me in It
+
+FAILED: Numb
+
+FAILED: Mouth to Mouth
+
+FAILED: The Education of Charlie Banks
+
+FAILED: Otis
+
+FAILED: Birds of America
+
+FAILED: Eulogy
+
+FAILED: Enduring Love
+
+FAILED: Pieces of April
+
+FAILED: Dot the I
+
+SUCESS: Fear X
+
+FAILED: Carolina
+
+FAILED: Northfork
+
+FAILED: Buying the Cow
+
+FAILED: Shortcut to Happiness
+
+FAILED: Fat Pizza
+
+SUCESS: Highway
+
+SUCESS: Tadpole
+
+FAILED: Our Lips Are Sealed
+
+SUCESS: Cherry Falls
+
+SUCESS: Inferno
+
+SUCESS: My Little Eye
+
+FAILED: No Good Deed
+
+FAILED: Plunkett & Macleane
+
+FAILED: The Safety of Objects
+
+FAILED: Maybe Baby
+
+FAILED: Flywheel
+
+SUCESS: Beowulf
+
+FAILED: Blow Dry
+
+FAILED: Lockdown
+
+FAILED: Liberty Heights
+
+FAILED: CQ
+
+FAILED: Cradle Will Rock
+
+SUCESS: Deathwatch
+
+FAILED: The Secret of Roan Inish
+
+FAILED: Priest
+
+FAILED: It's Pat: The Movie
+
+FAILED: The Gingerbread Man
+
+FAILED: The Night Flier
+
+FAILED: China Moon
+
+FAILED: A Troll in Central Park
+
+FAILED: The Impostors
+
+SUCESS: Pecker
+
+FAILED: The Brothers McMullen
+
+FAILED: Strangeland
+
+FAILED: Firelight
+
+FAILED: 3 Ninjas: High Noon at Mega Mountain
+
+FAILED: Fever Pitch
+
+SUCESS: Love Field
+
+FAILED: Peter's Friends
+
+FAILED: Deadfall
+
+FAILED: Metropolitan
+
+SUCESS: Until the End of the World
+
+FAILED: K2
+
+FAILED: The Thief and the Cobbler
+
+FAILED: Noises Off...
+
+FAILED: That Night
+
+FAILED: Little Nikita
+
+FAILED: The Clan of the Cave Bear
+
+FAILED: Hard Ticket to Hawaii
+
+FAILED: Maniac Cop
+
+SUCESS: Bagdad Cafe
+
+FAILED: C.H.U.D.
+
+FAILED: Hope and Glory
+
+FAILED: Class of 1984
+
+FAILED: Happy Birthday to Me
+
+FAILED: The Villain
+
+FAILED: Never Cry Wolf
+
+FAILED: Project A
+
+FAILED: The Draughtsman's Contract
+
+FAILED: Eddie and the Cruisers
+
+FAILED: Seems Like Old Times
+
+FAILED: Piranha II: The Spawning
+
+FAILED: The Frisco Kid
+
+FAILED: The Sentinel
+
+FAILED: Cornbread, Earl and Me
+
+FAILED: The Apple Dumpling Gang
+
+FAILED: Ice Castles
+
+FAILED: Gator
+
+FAILED: Home Sweet Hell
+
+FAILED: Godspell
+
+FAILED: French Connection II
+
+FAILED: Hard Times
+
+FAILED: Bring Me the Head of Alfredo Garcia
+
+FAILED: The Phantom of Liberty
+
+FAILED: Flesh Gordon
+
+FAILED: Ali: Fear Eats the Soul
+
+FAILED: Turkish Delight
+
+SUCESS: Bang the Drum Slowly
+
+FAILED: Three Wishes for Cinderella
+
+FAILED: The Seven-Ups
+
+FAILED: The Gumball Rally
+
+FAILED: Obsession
+
+FAILED: Robin and Marian
+
+FAILED: Looking for Mr. Goodbar
+
+FAILED: Motel Hell
+
+FAILED: The Funhouse
+
+FAILED: The Incredible Shrinking Woman
+
+SUCESS: Interiors
+
+FAILED: Sgt. Pepper's Lonely Hearts Club Band
+
+FAILED: The Rose
+
+FAILED: The Concorde... Airport '79
+
+FAILED: More American Graffiti
+
+SUCESS: The Pirate Movie
+
+FAILED: Six Pack
+
+SUCESS: Broadway Danny Rose
+
+SUCESS: Cloak & Dagger
+
+SUCESS: Electric Dreams
+
+FAILED: Death Wish 3
+
+FAILED: The Emerald Forest
+
+FAILED: The Falcon and The Snowman
+
+FAILED: Into the Night
+
+FAILED: King Solomon's Mines
+
+FAILED: That Was Then... This Is Now
+
+FAILED: Armed and Dangerous
+
+FAILED: Deadly Friend
+
+FAILED: Legal Eagles
+
+FAILED: Vamp
+
+FAILED: Allan Quatermain and the Lost City of Gold
+
+FAILED: Outrageous Fortune
+
+FAILED: The Fourth Protocol
+
+FAILED: House II: The Second Story
+
+FAILED: Revenge of the Nerds II: Nerds in Paradise
+
+FAILED: Teen Wolf Too
+
+FAILED: Biloxi Blues
+
+FAILED: D.O.A.
+
+FAILED: Monkey Shines
+
+FAILED: Shoot to Kill
+
+FAILED: Desperate Hours
+
+FAILED: DeepStar Six
+
+FAILED: The Guardian
+
+FAILED: He Said, She Said
+
+SUCESS: Little Man Tate
+
+FAILED: Consenting Adults
+
+FAILED: Kuffs
+
+FAILED: Raising Cain
+
+FAILED: Rapid Fire
+
+FAILED: Stay Tuned
+
+FAILED: Aspen Extreme
+
+SUCESS: Boiling Point
+
+FAILED: Who's the Man?
+
+FAILED: The Meteor Man
+
+FAILED: Once Upon a Forest
+
+FAILED: The Air Up There
+
+FAILED: Crooklyn
+
+FAILED: Intersection
+
+FAILED: Love Affair
+
+FAILED: The Paper
+
+FAILED: The Puppet Masters
+
+SUCESS: The Englishman Who Went Up a Hill But Came Down a Mountain
+
+FAILED: Fluke
+
+FAILED: Gold Diggers: The Secret of Bear Mountain
+
+FAILED: Last of the Dogmen
+
+FAILED: Tales from the Hood
+
+FAILED: All Dogs Go to Heaven 2
+
+FAILED: Eddie
+
+FAILED: First Kid
+
+FAILED: Girl 6
+
+FAILED: The Evening Star
+
+SUCESS: Cats Don't Dance
+
+FAILED: Fierce Creatures
+
+FAILED: Gone Fishin'
+
+FAILED: Mr. Magoo
+
+FAILED: That Darn Cat
+
+FAILED: Barney's Great Adventure
+
+FAILED: I Got the Hook Up
+
+FAILED: Knock Off
+
+SUCESS: The Mod Squad
+
+FAILED: Simpatico
+
+FAILED: Drowning Mona
+
+FAILED: Hanging Up
+
+SUCESS: Beautiful
+
+FAILED: Turn It Up
+
+FAILED: Bones
+
+FAILED: Joe Somebody
+
+FAILED: Juwanna Mann
+
+FAILED: Crossover
+
+FAILED: End of the Spear
+
+FAILED: Seed
+
+FAILED: House of 9
+
+FAILED: Gutterballs
+
+FAILED: The Gymnast
+
+FAILED: The Dark Hours
+
+FAILED: Bright Young Things
+
+SUCESS: Onegin
+
+FAILED: 2001: A Space Travesty
+
+FAILED: Tortilla Soup
+
+FAILED: The Order
+
+FAILED: Waking the Dead
+
+FAILED: Cookie's Fortune
+
+FAILED: Lone Star State of Mind
+
+SUCESS: Looking for Alibrandi
+
+FAILED: Devil's Pond
+
+FAILED: Breakfast of Champions
+
+FAILED: Masked and Anonymous
+
+FAILED: Avenging Angelo
+
+FAILED: Pumpkin
+
+FAILED: The Company
+
+FAILED: Animal Factory
+
+FAILED: Charlotte Gray
+
+FAILED: The Fluffer
+
+FAILED: The Bunker
+
+FAILED: Ratcatcher
+
+FAILED: The Dummy
+
+SUCESS: Easy
+
+SUCESS: The Mudge Boy
+
+SUCESS: Run Ronnie Run
+
+FAILED: The Caveman's Valentine
+
+FAILED: Thunderpants
+
+FAILED: Body Shots
+
+SUCESS: The Broken Hearts Club: A Romantic Comedy
+
+FAILED: Gray's Anatomy
+
+FAILED: I Want You
+
+FAILED: Savior
+
+FAILED: Glory Daze
+
+FAILED: The Acid House
+
+SUCESS: Black Mask
+
+SUCESS: Bliss
+
+FAILED: In the Company of Men
+
+FAILED: Slums of Beverly Hills
+
+SUCESS: The House of Yes
+
+FAILED: War of the Buttons
+
+FAILED: Albino Alligator
+
+FAILED: Land and Freedom
+
+FAILED: Smilla's Sense of Snow
+
+FAILED: Cabin Boy
+
+FAILED: Get Real
+
+FAILED: The Guyver
+
+FAILED: Frankenhooker
+
+SUCESS: M. Butterfly
+
+FAILED: Class of 1999
+
+FAILED: Shakes the Clown
+
+SUCESS: Flirting
+
+FAILED: White Hunter Black Heart
+
+FAILED: Where the Day Takes You
+
+FAILED: Alice
+
+FAILED: Romeo Is Bleeding
+
+FAILED: Kafka
+
+FAILED: Joshua Tree
+
+FAILED: Dogfight
+
+FAILED: Repossessed
+
+FAILED: The Perils of Gwendoline in the Land of the Yik Yak
+
+FAILED: Racing with the Moon
+
+FAILED: Crimewave
+
+FAILED: Amazon Women on the Moon
+
+FAILED: When the Wind Blows
+
+FAILED: Fright Night Part 2
+
+FAILED: The Lair of the White Worm
+
+FAILED: Some Girls
+
+FAILED: Crimes of Passion
+
+FAILED: Reform School Girls
+
+SUCESS: The Journey of Natty Gann
+
+FAILED: Hell Comes to Frogtown
+
+FAILED: A Midsummer Night's Sex Comedy
+
+FAILED: The Flight of Dragons
+
+SUCESS: Mother's Day
+
+FAILED: Dead & Buried
+
+SUCESS: The Island
+
+SUCESS: Neighbors
+
+FAILED: Alligator
+
+FAILED: Xtro
+
+FAILED: The Hand
+
+FAILED: Tarzan the Ape Man
+
+SUCESS: Ghost Story
+
+FAILED: North Sea Hijack
+
+FAILED: Prom Night
+
+FAILED: Shock Treatment
+
+FAILED: The Pirates of Penzance
+
+FAILED: Condorman
+
+FAILED: Ilsa, Harem Keeper of the Oil Sheiks
+
+FAILED: Watch Out, We're Mad
+
+FAILED: Where the Red Fern Grows
+
+FAILED: Alice, Sweet Alice
+
+FAILED: Rabid
+
+FAILED: Black Moon
+
+FAILED: The Golden Voyage of Sinbad
+
+FAILED: The Mack
+
+FAILED: The Land That Time Forgot
+
+FAILED: Airport 1975
+
+FAILED: The Lords of Flatbush
+
+SUCESS: The Front Page
+
+FAILED: Sssssss
+
+FAILED: Breezy
+
+FAILED: Coffy
+
+FAILED: Sacrifice!
+
+FAILED: Black Emanuelle
+
+FAILED: The Bingo Long Traveling All-Stars & Motor Kings
+
+FAILED: Up!
+
+FAILED: Airport '77
+
+FAILED: Orca
+
+FAILED: Demon Seed
+
+FAILED: Big Wednesday
+
+FAILED: Return from Witch Mountain
+
+FAILED: Immoral Tales
+
+FAILED: Paradise Alley
+
+FAILED: The In-Laws
+
+FAILED: The Marriage of Maria Braun
+
+FAILED: Evil Under the Sun
+
+FAILED: The Sword and the Sorcerer
+
+FAILED: Things Are Tough All Over
+
+FAILED: The Lonely Lady
+
+FAILED: Spacehunter: Adventures in the Forbidden Zone
+
+FAILED: Under Fire
+
+FAILED: The Pope of Greenwich Village
+
+SUCESS: The Razor's Edge
+
+FAILED: Rhinestone
+
+SUCESS: The Care Bears Movie
+
+FAILED: Gotcha!
+
+FAILED: Transylvania 6-5000
+
+FAILED: Volunteers
+
+FAILED: The Manhattan Project
+
+FAILED: No Mercy
+
+FAILED: Nothing in Common
+
+FAILED: Power
+
+FAILED: The Bedroom Window
+
+FAILED: Ishtar
+
+FAILED: Someone to Watch Over Me
+
+FAILED: Who's That Girl
+
+SUCESS: The Accidental Tourist
+
+FAILED: Cocoon: The Return
+
+FAILED: Satisfaction
+
+SUCESS: Speed Zone
+
+FAILED: Crazy People
+
+FAILED: Ernest Goes to Jail
+
+FAILED: Graveyard Shift
+
+FAILED: She's Out of Control
+
+FAILED: Skin Deep
+
+FAILED: Who's Harry Crumb?
+
+SUCESS: Miami Blues
+
+FAILED: Stella
+
+SUCESS: Guilty by Suspicion
+
+FAILED: If Looks Could Kill
+
+FAILED: Madonna: Truth or Dare
+
+SUCESS: Run
+
+FAILED: Deceived
+
+FAILED: Other People's Money
+
+FAILED: Diggstown
+
+FAILED: Happily Ever After
+
+FAILED: Indian Summer
+
+FAILED: Another Stakeout
+
+FAILED: Fatal Instinct
+
+FAILED: Man's Best Friend
+
+FAILED: Blankman
+
+FAILED: Blink
+
+FAILED: The Favor
+
+FAILED: Jason's Lyric
+
+FAILED: Trapped in Paradise
+
